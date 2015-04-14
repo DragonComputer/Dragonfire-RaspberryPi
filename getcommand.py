@@ -133,25 +133,25 @@ def command(speech_object):
                                 tts_kill()
 				userin = Data([" "]," ")
 				os.system("xbmc-send --action=\"Left\"")
-                                userin.say("Left")
+                                #userin.say("Left")
                                 previous_command = com
                         elif (com == "RIGHT"):
                                 tts_kill()
                                 userin = Data([" "]," ")
                                 os.system("xbmc-send --action=\"Right\"")
-                                userin.say("Right")
+                                #userin.say("Right")
                                 previous_command = com
                         elif (com == "UP"):
                                 tts_kill()
                                 userin = Data([" "]," ")
                                 os.system("xbmc-send --action=\"Up\"")
-                                userin.say("Up")
+                                #userin.say("Up")
                                 previous_command = com
                         elif (com == "DOWN"):
                                 tts_kill()
                                 userin = Data([" "]," ")
                                 os.system("xbmc-send --action=\"Down\"")
-                                userin.say("Down")
+                                #userin.say("Down")
                                 previous_command = com
                         elif (com == "SELECT"):
                                 tts_kill()
@@ -165,6 +165,49 @@ def command(speech_object):
                                 os.system("xbmc-send --action=\"back\"")
                                 userin.say("Back")
                                 previous_command = com
+                        elif (com == "GO TO HOME"):
+                                tts_kill()
+                                userin = Data([" "]," ")
+                                os.system("xbmc-send --action=\"ActivateWindow(10000)\"")
+                                userin.say("Home")
+                                previous_command = com
+                        elif (com == "GO TO PROGRAMS"):
+                                tts_kill()
+                                userin = Data([" "]," ")
+                                os.system("xbmc-send --action=\"ActivateWindow(10001)\"")
+                                userin.say("Programs")
+                                previous_command = com
+                        elif (com == "GO TO PICTURES"):
+                                tts_kill()
+                                userin = Data([" "]," ")
+                                os.system("xbmc-send --action=\"ActivateWindow(10002)\"")
+                                userin.say("Pictures")
+                                previous_command = com
+                        elif (com == "GO TO FILEMANAGER"):
+                                tts_kill()
+                                userin = Data([" "]," ")
+                                os.system("xbmc-send --action=\"ActivateWindow(10003)\"")
+                                userin.say("File manager")
+                                previous_command = com
+                        elif (com == "GO TO SETTINGS"):
+                                tts_kill()
+                                userin = Data([" "]," ")
+                                os.system("xbmc-send --action=\"ActivateWindow(10004)\"")
+                                userin.say("Settings")
+                                previous_command = com
+                        elif (com == "GO TO MUSIC"):
+                                tts_kill()
+                                userin = Data([" "]," ")
+                                os.system("xbmc-send --action=\"ActivateWindow(10005)\"")
+                                userin.say("Music")
+                                previous_command = com
+                        elif (com == "GO TO VIDEO"):
+                                tts_kill()
+                                userin = Data([" "]," ")
+                                os.system("xbmc-send --action=\"ActivateWindow(10006)\"")
+                                userin.say("Videos")
+                                previous_command = com
+
 			else:
 				tts_kill()
                                 userin = Data(["echo"],com + " ?")

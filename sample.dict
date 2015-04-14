@@ -106,3165 +106,3173 @@
 35	[DOWN]	d aw n
 35	[SELECT]	s ax l eh k t
 35	[BACK]	b ae k
-36	[GENDER]	jh eh n d er
-36	[ABILITY]	ax b ih l ax dx iy
-36	[ABSENCE]	ae b s ax n s
-36	[ABSORPTION]	ax b z ao r p sh ax n
-36	[ABSTINENCE]	ae b s t ax n ax n s
-36	[ABSURDITY]	ax b s er dx ax dx iy
-36	[ABUSE]	ax b y uw s
-36	[ACADEMY]	ax k ae dx ax m iy
-36	[ACCESS]	ae k s eh s
-36	[ACCIDENT]	ae k s ax d ax n t
-36	[ACCOMPANIMENT]	ax k ah m p n ix m ax n t
-36	[ACCORD]	ax k ao r d
-36	[ACCORDANCE]	ax k ao r d ax n s
-36	[ACCUMULATION]	ax k y uw m y ax l ey sh ax n
-36	[ACCURACY]	ae k y er ax s iy
-36	[ACKNOWLEDGEMENT]	ae k n aa l ix jh m ax n t
-36	[ACT]	ae k t
-36	[ACTION]	ae k sh ax n
-36	[ACTIVITY]	ae k t ih v ax dx iy
-36	[ADAPTATION]	ae dx ax p t ey sh ax n
-36	[ADDITION]	ax d ih sh ax n
-36	[ADDRESS]	ae d r eh s
-36	[ADMINISTRATION]	ae d m ih n ix s t r ey sh ax n
-36	[ADMINISTRATOR]	ax d m ih n ax s t r ey dx er
-36	[ADMIRER]	ae d m ay r er
-36	[ADMISSION]	ae d m ih sh ax n
-36	[ADULT]	ax d ah l t
-36	[ADVANCE]	ax d v ae n s
-36	[ADVANCEMENT]	ax d v ae n s m ax n t
-36	[ADVANTAGE]	ae d v ae n t ix jh
-36	[ADVENTURE]	ae d v eh n ch er
-36	[ADVICE]	ae d v ay s
-36	[ADVOCACY]	ae d v ax k ax s iy
-36	[AFFAIR]	ax f eh r
-36	[AFTERNOON]	ae f t er n uw n
-36	[AGE]	ey jh
-36	[AGENCY]	ey jh ax n s iy
-36	[AGENDA]	ax jh eh n d ax
-36	[AGENT]	ey jh ax n t
-36	[AGITATION]	ae jh ax t ey sh ax n
-36	[AGREEMENT]	ax g r iy m ax n t
-36	[AGRICULTURE]	ae g r ix k ah l ch er
-36	[AID]	ey d
-36	[AIRFARE]	eh r f eh r
-36	[AIRPLANE]	eh r p l ey n
-36	[AIRPORT]	eh r p ao r t
-36	[ALARM]	ax l aa r m
-36	[ALE]	ey l
-36	[ALLOWANCE]	ax l aw ax n s
-36	[ALLOY]	ae l oy
-36	[ALLY]	ae l ay
-36	[ALMANAC]	ao l m ax n ae k
-36	[ALPHA]	ae l f ax
-36	[ALTERNATIVE]	ao l t er n ax dx ix v
-36	[ALTITUDE]	ae l t ax t uw d
-36	[AMBASSADOR]	ae m b ae s ax dx er
-36	[AMBITION]	ae m b ih sh ax n
-36	[AMBULANCE]	ae m b y ax l ax n s
-36	[AMMUNITION]	ae m y ax n ih sh ax n
-36	[AMOUNT]	ax m aw n t
-36	[AMUSEMENT]	ax m y uw z m ax n t
-36	[ANALOG]	ae n ax l ao g
-36	[ANALYSIS]	ax n ae l ax s ax s
-36	[ANARCHY]	ae n er k iy
-36	[ANCHOR]	ae ng k er
-36	[ANGER]	ae ng g er
-36	[ANGLE]	ae ng g ax l
-36	[ANGUISH]	ae ng g w ix sh
-36	[ANIMAL]	ae n ax m ax l
-36	[ANIMOSITY]	ae n ax m aa s ax dx iy
-36	[ANKLE]	ae ng k ax l
-36	[ANNIVERSARY]	ae n ax v er s er iy
-36	[ANSWER]	ae n s er
-36	[ANSWERING]	ae n s er ix ng
-36	[ANTICIPATION]	ae n t ih s ax p ey sh ax n
-36	[ANXIETY]	ae ng z ay ax dx iy
-36	[ANYBODY]	eh n iy b ax dx iy
-36	[ANYONE]	eh n iy w ah n
-36	[ANYTHING]	eh n iy th ih ng
-36	[APATHY]	ae p ax th iy
-36	[APOLOGY]	ax p aa l ax jh iy
-36	[APPARATUS]	ae p er ae dx ax s
-36	[APPEAL]	ax p iy l
-36	[APPEARANCE]	ax p ih r ax n s
-36	[APPETITE]	ae p ax t ay t
-36	[APPLAUSE]	ax p l ao z
-36	[APPLIANCE]	ax p l ay ax n s
-36	[APPLICATION]	ae p l ax k ey sh ax n
-36	[APPOINTMENT]	ax p oy n t m ax n t
-36	[APPRECIATION]	ax p r iy sh iy ey sh ax n
-36	[APPREHENSION]	ae p r ix hh eh n sh ax n
-36	[APPROACH]	ax p r ow ch
-36	[APPROPRIATENESS]	ax p r ow p r iy ax t n ax s
-36	[APPROVAL]	ax p r uw v ax l
-36	[AQUARIUM]	ax k w eh r iy ax m
-36	[ARCH]	aa r ch
-36	[ARCHITECT]	aa r k ax t eh k t
-36	[ARCHITECTURE]	aa r k ax t eh k ch er
-36	[AREA]	eh r iy ax
-36	[ARENA]	er iy n ax
-36	[ARGUMENT]	aa r g y ax m ax n t
-36	[ARITHMETIC]	eh r ix th m eh dx ix k
-36	[ARM]	aa r m
-36	[ARMY]	aa r m iy
-36	[ARRANGEMENT]	er ey n jh m ax n t
-36	[ARRAY]	er ey
-36	[ARREST]	er eh s t
-36	[ARRIVAL]	er ay v ax l
-36	[ARROGANCE]	eh r ax g ax n s
-36	[ARROW]	ae r ow
-36	[ARSENAL]	aa r s ax n ax l
-36	[ART]	aa r t
-36	[ARTHRITIS]	aa r th r ay dx ax s
-36	[ARTICLE]	aa r dx ax k ax l
-36	[ARTIST]	aa r dx ax s t
-36	[ASCENT]	ax s eh n t
-36	[ASPECT]	ae s p eh k t
-36	[ASSEMBLY]	ax s eh m b l iy
-36	[ASSENT]	ax s eh n t
-36	[ASSERTION]	ax s er sh ax n
-36	[ASSIGNMENT]	ax s ay n m ax n t
-36	[ASSISTANCE]	ax s ih s t ax n s
-36	[ASSUMPTION]	ax s ah m p sh ax n
-36	[ASTONISHMENT]	ax s t aa n ix sh m ax n t
-36	[ASTRONOMER]	ax s t r aa n ax m er
-36	[ASTRONOMER'S]	ax s t r aa n ax m er z
-36	[ATHLETE]	ae th l iy t
-36	[ATMOSPHERE]	ae t m ax s f ih r
-36	[ATTACHMENT]	ax t ae ch m ax n t
-36	[ATTACK]	ax t ae k
-36	[ATTACKER]	ax t ae k er
-36	[ATTEMPT]	ax t eh m p t
-36	[ATTENDANCE]	ax t eh n d ax n s
-36	[ATTENTION]	ax t eh n sh ax n
-36	[ATTITUDE]	ae dx ax t uw d
-36	[ATTRACTION]	ax t r ae k sh ax n
-36	[ATTRACTIVENESS]	ax t r ae k t ix v n ax s
-36	[AUCTION]	aa k sh ax n
-36	[AUNT]	ae n t
-36	[AUNT'S]	ae n t s
-36	[AUTHOR]	ao th er
-36	[AUTHORITY]	ax th ao r ax dx iy
-36	[AUTOMOBILE]	ao dx ax m ow b iy l
-36	[AUTUMN]	ao dx ax m
-36	[AVAIL]	ax v ey l
-36	[AVAILABILITY]	ax v ey l ax b ih l ax dx iy
-36	[AVALANCHE]	ae v ax l ae n ch
-36	[AVOIDANCE]	ax v oy d ax n s
-36	[AX]	ae k s
-36	[AXIOM]	ae k s iy ax m
-36	[BABEL]	b ae b ax l
-36	[BABY]	b ey b iy
-36	[BABY'S]	b ey b iy z
-36	[BACHELOR]	b ae ch ax l er
-36	[BACKBONE]	b ae k b ow n
-36	[BACKGROUND]	b ae k g r aw n d
-36	[BACKWATER]	b ae k w ao dx er
-36	[BACON]	b ey k ax n
-36	[BACON'S]	b ey k ax n z
-36	[BAG]	b ae g
-36	[BALANCE]	b ae l ax n s
-36	[BALL]	b ao l
-36	[BALLROOM]	b ao l r uw m
-36	[BANANA]	b ax n ae n ax
-36	[BAND]	b ae n d
-36	[BANG]	b ae ng
-36	[BANKRUPTCY]	b ae ng k r ax p s iy
-36	[BAR]	b aa r
-36	[BARBECUE]	b aa r b ix k y uw
-36	[BARGAINING]	b aa r g ix n ix ng
-36	[BARLEY]	b aa r l iy
-36	[BARN]	b aa r n
-36	[BARRACKS]	b ae r ax k s
-36	[BARREL]	b ae r ax l
-36	[BASE]	b ey s
-36	[BASEMENT]	b ey s m ax n t
-36	[BASIS]	b ey s ax s
-36	[BASKET]	b ae s k ax t
-36	[BASS]	b ae s
-36	[BASTION]	b ae s ch ax n
-36	[BATH]	b ae th
-36	[BATHING]	b ey dh ix ng
-36	[BATTALION]	b ax t ae l y ax n
-36	[BATTERY]	b ae dx er iy
-36	[BATTLE]	b ae dx ax l
-36	[BEACH]	b iy ch
-36	[BEAM]	b iy m
-36	[BEAR]	b eh r
-36	[BEAST]	b iy s t
-36	[BEAT]	b iy t
-36	[BEAUTY]	b y uw dx iy
-36	[BED]	b eh d
-36	[BEDROOM]	b eh d r uw m
-36	[BEDSIDE]	b eh d s ay d
-36	[BEEF]	b iy f
-36	[BEER]	b ih r
-36	[BEHALF]	b ix hh ae f
-36	[BEHAVIOR]	b ix hh ey v y er
-36	[BELIEF]	b ix l iy f
-36	[BELT]	b eh l t
-36	[BENCH]	b eh n ch
-36	[BENEFIT]	b eh n ax f ix t
-36	[BENT]	b eh n t
-36	[BET]	b eh t
-36	[BETA]	b ey dx ax
-36	[BEVERAGE]	b eh v er ix jh
-36	[BIGOTRY]	b ih g ax t r iy
-36	[BILL]	b ih l
-36	[BIND]	b ay n d
-36	[BIOLOGIST]	b ay aa l ax jh ax s t
-36	[BIOLOGY]	b ay aa l ax jh iy
-36	[BIRD]	b er d
-36	[BIRD'S]	b er d z
-36	[BIRTH]	b er th
-36	[BIRTHDAY]	b er th d ey
-36	[BISHOP]	b ih sh ax p
-36	[BIT]	b ih t
-36	[BITE]	b ay t
-36	[BITTERNESS]	b ih dx er n ax s
-36	[BLACK'S]	b l ae k s
-36	[BLADE]	b l ey d
-36	[BLAME]	b l ey m
-36	[BLAZE]	b l ey z
-36	[BLEMISH]	b l eh m ix sh
-36	[BLEND]	b l eh n d
-36	[BLESSING]	b l eh s ix ng
-36	[BLOOD]	b l ah d
-36	[BLOW]	b l ow
-36	[BLUNDER]	b l ah n d er
-36	[BOAST]	b ow s t
-36	[BOAT]	b ow t
-36	[BODY]	b aa dx iy
-36	[BOLT]	b ow l t
-36	[BOMB]	b aa m
-36	[BOMBARDMENT]	b aa m b aa r d m ax n t
-36	[BOMBING]	b aa m ix ng
-36	[BONANZA]	b ax n ae n z ax
-36	[BOND]	b aa n d
-36	[BONE]	b ow n
-36	[BOOK]	b uh k
-36	[BOOKKEEPER]	b uh k k iy p er
-36	[BOOT]	b uw t
-36	[BORDER]	b ao r dx er
-36	[BORROWING]	b aa r ow ix ng
-36	[BOSOM]	b uh z ax m
-36	[BOSS]	b aa s
-36	[BOTANY]	b aa t ax n iy
-36	[BOTTLE]	b aa dx ax l
-36	[BOTTOM]	b aa dx ax m
-36	[BOUNDARY]	b aw n d er iy
-36	[BOUNTY]	b aw n t iy
-36	[BOW]	b aw
-36	[BOWL]	b ow l
-36	[BOX]	b aa k s
-36	[BOY]	b oy
-36	[BOY'S]	b oy z
-36	[BRAIN]	b r ey n
-36	[BRANCH]	b r ae n ch
-36	[BRAND]	b r ae n d
-36	[BREACH]	b r iy ch
-36	[BREAD]	b r eh d
-36	[BREADTH]	b r eh d th
-36	[BREAKFAST]	b r eh k f ax s t
-36	[BREAKTHROUGH]	b r ey k th r uw
-36	[BREAST]	b r eh s t
-36	[BREATH]	b r eh th
-36	[BREED]	b r iy d
-36	[BRIBERY]	b r ay b er iy
-36	[BRICK]	b r ih k
-36	[BRIDGE]	b r ih jh
-36	[BRIEFCASE]	b r iy f k ey s
-36	[BRIEFING]	b r iy f ix ng
-36	[BRINK]	b r ih ng k
-36	[BRONZE]	b r aa n z
-36	[BROTHER]	b r ah dh er
-36	[BROTHER'S]	b r ah dh er z
-36	[BROUHAHA]	b r uw hh aa hh aa
-36	[BROW]	b r aw
-36	[BRUSH]	b r ah sh
-36	[BUBBLE]	b ah b ax l
-36	[BUCK]	b ah k
-36	[BUDGET]	b ah jh ix t
-36	[BUFFET]	b ah f ax t
-36	[BUILDER'S]	b ih l d er z
-36	[BUILDING]	b ih l d ix ng
-36	[BULK]	b ah l k
-36	[BURDEN]	b er d ax n
-36	[BURST]	b er s t
-36	[BUS]	b ah s
-36	[BUSINESS]	b ih z n ax s
-36	[BUTCHER]	b uh ch er
-36	[BUTTER]	b ah dx er
-36	[BUTTON]	b ah t ax n
-36	[BUTTON'S]	b ah t ax n z
-36	[BUYER]	b ay er
-36	[BUZZ]	b ah z
-36	[CABLE]	k ey b ax l
-36	[CAKE]	k ey k
-36	[CALAMITY]	k ax l ae m ax dx iy
-36	[CALCIUM]	k ae l s iy ax m
-36	[CALCULATION]	k ae l k y ax l ey sh ax n
-36	[CALL]	k ao l
-36	[CAMERA]	k ae m er ax
-36	[CAMP]	k ae m p
-36	[CANAL]	k ax n ae l
-36	[CANDIDATE]	k ae n d ax dx ey t
-36	[CANDY]	k ae n d iy
-36	[CANE]	k ey n
-36	[CANVAS]	k ae n v ax s
-36	[CAP]	k ae p
-36	[CAPABILITY]	k ey p ax b ih l ax dx iy
-36	[CAPACITY]	k ax p ae s ax dx iy
-36	[CAPITAL]	k ae p ax dx ax l
-36	[CAPTAIN]	k ae p t ax n
-36	[CAPTAIN'S]	k ae p t ax n z
-36	[CAR]	k aa r
-36	[CARBON]	k aa r b ax n
-36	[CARCASS]	k aa r k ax s
-36	[CARD]	k aa r d
-36	[CARDBOARD]	k aa r d b ao r d
-36	[CAREER]	k er ih r
-36	[CARGO]	k aa r g ow
-36	[CARPENTER]	k aa r p ax n t er
-36	[CARPENTER'S]	k aa r p ax n t er z
-36	[CARPET]	k aa r p ax t
-36	[CART]	k aa r t
-36	[CARTRIDGE]	k aa r t r ax jh
-36	[CASE]	k ey s
-36	[CASH]	k ae sh
-36	[CASHIER]	k ae sh ih r
-36	[CASINO]	k ax s iy n ow
-36	[CAST]	k ae s t
-36	[CASTLE]	k ae s ax l
-36	[CASUALTY]	k ae zh ax w ax l t iy
-36	[CASUISTRY]	k ae zh uw ax s t r iy
-36	[CATARACT]	k ae dx er ae k t s
-36	[CAUSE]	k aa z
-36	[CAUTION]	k aa sh ax n
-36	[CEDAR]	s iy dx er
-36	[CEILING]	s iy l ix ng
-36	[CELL]	s eh l
-36	[CELLAR]	s eh l er
-36	[CENT]	s eh n t
-36	[CENTER]	s eh n t er
-36	[CENTURY]	s eh n ch er iy
-36	[CEREAL]	s ih r iy ax l
-36	[CEREMONY]	s eh r ax m ow n iy
-36	[CERTAINTY]	s er t ax n t iy
-36	[CHAIN]	ch ey n
-36	[CHAIR]	ch eh r
-36	[CHALLENGE]	ch ae l ax n jh
-36	[CHAMBER]	ch ey m b er
-36	[CHAMPAGNE]	sh ae m p ey n
-36	[CHAMPION]	ch ae m p iy ax n
-36	[CHAMPIONSHIP]	ch ae m p iy ax n sh ih p
-36	[CHANCE]	ch ae n s
-36	[CHANCELLOR]	ch ae n s ax l er
-36	[CHANGE]	ch ey n jh
-36	[CHANNEL]	ch ae n ax l
-36	[CHAOS]	k ey aa s
-36	[CHAPTER]	ch ae p t er
-36	[CHARACTER]	k eh r ix k t er
-36	[CHARGE]	ch aa r jh
-36	[CHARITY]	ch eh r ix dx iy
-36	[CHARM]	ch aa r m
-36	[CHASE]	ch ey s
-36	[CHASSIS]	ch ae s iy
-36	[CHATTER]	ch ae dx er
-36	[CHAUFFEUR]	sh ow f er
-36	[CHEATING]	ch iy dx ix ng
-36	[CHECK]	ch eh k
-36	[CHEER]	ch ih r
-36	[CHEMIST]	k eh m ix s t
-36	[CHEMISTRY]	k eh m ax s t r iy
-36	[CHEST]	ch eh s t
-36	[CHICKEN]	ch ih k ax n
-36	[CHILD]	ch ay l d
-36	[CHILD'S]	ch ay l d z
-36	[CHILDHOOD]	ch ay l d hh uh d
-36	[CHILL]	ch ih l
-36	[CHIMNEY]	ch ih m n iy
-36	[CHIN]	ch ih n
-36	[CHINA]	ch ay n ax
-36	[CHIP]	ch ih p
-36	[CHLORINE]	k l ao r iy n
-36	[CHOCOLATE]	ch ao k l ax t
-36	[CHOICE]	ch oy s
-36	[CHRONICLE]	k r aa n ix k ax l
-36	[CHURCH]	ch er ch
-36	[CIGAR]	s ix g aa r
-36	[CIGARETTE]	s ih g er eh t
-36	[CIRCLE]	s er k ax l
-36	[CIRCUIT]	s er k ax t
-36	[CIRCULATION]	s er k y ax l ey sh ax n
-36	[CIRCUS]	s er k ax s
-36	[CITATION]	s ay t ey sh ax n
-36	[CITY]	s ih dx iy
-36	[CIVILIZATION]	s ih v ax l ix z ey sh ax n
-36	[CLAIM]	k l ey m
-36	[CLASS]	k l ae s
-36	[CLASSIFICATION]	k l ae s ax f ax k ey sh ax n
-36	[CLEANLINESS]	k l eh n l iy n ix s
-36	[CLERGYMAN]	k l er jh iy m ax n
-36	[CLERK]	k l er k
-36	[CLIENT]	k l ay ax n t
-36	[CLIFF]	k l ih f
-36	[CLIMATE]	k l ay m ax t
-36	[CLIMB]	k l ay m
-36	[CLOAK]	k l ow k
-36	[CLOSET]	k l aa z ax t
-36	[CLOTH]	k l ao th
-36	[CLOTHING]	k l ow dh ix ng
-36	[CLOUD]	k l aw d
-36	[CLUB]	k l ah b
-36	[CLUMP]	k l ah m p
-36	[CLUSTER]	k l ah s t er
-36	[COACH]	k ow ch
-36	[COAL]	k ow l
-36	[COAST]	k ow s t
-36	[COAT]	k ow t
-36	[COATING]	k ow dx ix ng
-36	[COCOA]	k ow k ow
-36	[CODE]	k ow d
-36	[COFFEE]	k aa f iy
-36	[COFFIN]	k ao f ix n
-36	[COIL]	k oy l
-36	[COIN]	k oy n
-36	[COINCIDENCE]	k ow ih n s ix d ax n s
-36	[COLLAR]	k aa l er
-36	[COLLECTING]	k ax l eh k t ix ng
-36	[COLLECTION]	k ax l eh k sh ax n
-36	[COLLEGE]	k aa l ix jh
-36	[COLONIAL]	k ax l ow n iy ax l
-36	[COLONY]	k aa l ax n iy
-36	[COLOR]	k ah l er
-36	[COLUMN]	k aa l ax m
-36	[COM]	k aa m
-36	[COMBAT]	k aa m b ae t
-36	[COMBINATION]	k aa m b ax n ey sh ax n
-36	[COMEBACK]	k ah m b ae k
-36	[COMFORT]	k ah m f er t
-36	[COMMAND]	k ax m ae n d
-36	[COMMANDANT]	k aa m ax n d aa n t
-36	[COMMANDER]	k ax m ae n d er
-36	[COMMENCEMENT]	k ax m eh n s m ax n t
-36	[COMMENT]	k aa m eh n t
-36	[COMMERCE]	k aa m er s
-36	[COMMISSION]	k ax m ih sh ax n
-36	[COMMISSIONER]	k ax m ih sh ax n er
-36	[COMMITTEE]	k ax m ih dx iy
-36	[COMMONWEALTH]	k aa m ax n w eh l th
-36	[COMMUNICATION]	k ax m y uw n ax k ey sh ax n
-36	[COMMUNITY]	k ax m y uw n ax dx iy
-36	[COMPANION]	k ax m p ae n y ax n
-36	[COMPANION'S]	k ax m p ae n y ax n z
-36	[COMPARISON]	k ax m p eh r ax s ax n
-36	[COMPARTMENT]	k ax m p aa r t m ax n t
-36	[COMPENSATION]	k aa m p ax n s ey sh ax n
-36	[COMPETENCY]	k aa m p ax t ix n s iy
-36	[COMPETITION]	k aa m p ax t ih sh ax n
-36	[COMPLAINT]	k ax m p l ey n t
-36	[COMPLETION]	k ax m p l iy sh ax n
-36	[COMPLIANCE]	k ax m p l ay ax n s
-36	[COMPONENT]	k ax m p ow n ax n t
-36	[COMPOSITION]	k aa m p ax z ih sh ax n
-36	[COMPOUND]	k aa m p aw n d
-36	[COMPREHENSION]	k aa m p r iy hh eh n sh ax n
-36	[COMPUTER]	k ax m p y uw dx er
-36	[COMPUTING]	k ax m p y uw dx ix ng
-36	[CONCEIT]	k ax n s iy t
-36	[CONCENTRATION]	k aa n s ax n t r ey sh ax n
-36	[CONCEPT]	k aa n s eh p t
-36	[CONCEPTION]	k ax n s eh p sh ax n
-36	[CONCERN]	k ax n s er n
-36	[CONCERT]	k aa n s er t
-36	[CONCLUSION]	k ax n k l uw zh ax n
-36	[CONDITION]	k ax n d ih sh ax n
-36	[CONDUCT]	k ax n d ah k t
-36	[CONFERENCE]	k aa n f er ax n s
-36	[CONFESSION]	k ax n f eh sh ax n
-36	[CONFIDENCE]	k aa n f ax d ax n s
-36	[CONFIGURATION]	k ax n f ih g y er ey sh ax n
-36	[CONFINEMENT]	k ax n f ay n m ax n t
-36	[CONFIRMATION]	k aa n f er m ey sh ax n
-36	[CONFLICT]	k aa n f l ix k t
-36	[CONFUSION]	k ax n f y uw zh ax n
-36	[CONGRESS]	k aa ng g r ax s
-36	[CONJUNCTION]	k ax n jh ah ng k sh ax n
-36	[CONNECTION]	k ax n eh k sh ax n
-36	[CONNOTATION]	k aa n ax t ey sh ax n
-36	[CONQUEST]	k aa ng k w eh s t
-36	[CONSCIENCE]	k aa n sh ax n s
-36	[CONSCIOUSNESS]	k aa n sh ax s n ax s
-36	[CONSENT]	k ax n s eh n t
-36	[CONSEQUENCE]	k aa n s ax k w ax n s
-36	[CONSERVATION]	k aa n s er v ey sh ax n
-36	[CONSIDERATION]	k ax n s ih dx er ey sh ax n
-36	[CONSOLATION]	k aa n s ax l ey sh ax n
-36	[CONSPIRACY]	k ax n s p ih r ax s iy
-36	[CONSTITUENT]	k ax n s t ih ch uw ax n t
-36	[CONSTITUTION]	k aa n s t ax t uw sh ax n
-36	[CONSTRUCTION]	k ax n s t r ah k sh ax n
-36	[CONSULTATION]	k aa n s ax l t ey sh ax n
-36	[CONSUMING]	k ax n s uw m ix ng
-36	[CONTACT]	k aa n t ae k t
-36	[CONTAINMENT]	k ax n t ey n m ax n t
-36	[CONTEMPT]	k ax n t eh m p t
-36	[CONTENT]	k aa n t eh n t
-36	[CONTEST]	k aa n t eh s t
-36	[CONTEXT]	k aa n t eh k s t
-36	[CONTINENT]	k aa n t ax n ax n t
-36	[CONTINUITY]	k aa n t ax n uw ax dx iy
-36	[CONTRACT]	k aa n t r ae k t
-36	[CONTRADICTION]	k aa n t r ax d ih k sh ax n
-36	[CONTRAST]	k aa n t r ae s t
-36	[CONTRIBUTION]	k aa n t r ax b y uw sh ax n
-36	[CONVERSATION]	k aa n v er s ey sh ax n
-36	[CONVERSION]	k ax n v er zh ax n
-36	[CONVERTER]	k ax n v er dx er
-36	[CONVICTION]	k ax n v ih k sh ax n
-36	[CONVOY]	k aa n v oy
-36	[COOK]	k uh k
-36	[COOKING]	k uh k ix ng
-36	[COOPERATION]	k ow aa p er ey sh ax n
-36	[COP]	k aa p
-36	[COPPER]	k aa p er
-36	[COPY]	k aa p iy
-36	[COPYRIGHT]	k aa p iy r ay t
-36	[CORD]	k ao r d
-36	[CORN]	k ao r n
-36	[CORNER]	k ao r n er
-36	[CORPORATION]	k ao r p er ey sh ax n
-36	[CORPS]	k ao r
-36	[CORRECTION]	k er eh k sh ax n
-36	[CORRELATION]	k ao r ax l ey sh ax n
-36	[CORRESPONDENCE]	k ao r ax s p aa n d ax n s
-36	[CORRIDOR]	k ao r ax dx er
-36	[COST]	k aa s t
-36	[COTTAGE]	k aa dx ax jh
-36	[COTTON]	k aa t ax n
-36	[COUCH]	k aw ch
-36	[COUGH]	k aa f
-36	[COUNCIL]	k aw n s ax l
-36	[COUNSEL]	k aw n s ax l
-36	[COUNSELOR]	k aw n s ax l er
-36	[COUNT]	k aw n t
-36	[COUNTERPART]	k aw n t er p aa r t
-36	[COUNTRY]	k ah n t r iy
-36	[COUNTRY'S]	k ah n t r iy z
-36	[COUNTRYSIDE]	k ah n t r iy s ay d
-36	[COUNTY]	k aw n t iy
-36	[COUPLE]	k ah p ax l
-36	[COURAGE]	k er ax jh
-36	[COURIER]	k er iy er
-36	[COURIER'S]	k er iy er z
-36	[COURSE]	k ao r s
-36	[COURTYARD]	k ao r t y aa r d
-36	[COUSIN]	k ah z ax n
-36	[COVERAGE]	k ah v er ax jh
-36	[COW]	k aw
-36	[CPU]	s iy p iy y uw
-36	[CRAB]	k r ae b
-36	[CRACK]	k r ae k
-36	[CRADLE]	k r ey dx ax l
-36	[CRAFT]	k r ae f t
-36	[CRAP]	k r ae p
-36	[CRASH]	k r ae sh
-36	[CREAM]	k r iy m
-36	[CREATION]	k r iy ey sh ax n
-36	[CREATOR'S]	k r iy ey dx er z
-36	[CREATURE]	k r iy ch er
-36	[CREATURE'S]	k r iy ch er z
-36	[CREDIT]	k r eh dx ax t
-36	[CREDITOR]	k r eh dx ax dx er
-36	[CREST]	k r eh s t
-36	[CREW]	k r uw
-36	[CRIB]	k r ih b
-36	[CRIME]	k r ay m
-36	[CRISIS]	k r ay s ax s
-36	[CRITICISM]	k r ih dx ix s ih z ax m
-36	[CROOK]	k r uh k
-36	[CROP]	k r aa p
-36	[CROWD]	k r aw d
-36	[CROWN]	k r aw n
-36	[CRUISE]	k r uw z
-36	[CRUSADE]	k r uw s ey d
-36	[CRUSH]	k r ah sh
-36	[CRUST]	k r ah s t
-36	[CRY]	k r ay
-36	[CRYSTAL]	k r ih s t ax l
-36	[CUBE]	k y uw b
-36	[CULTIVATION]	k ah l t ix v ey sh ax n
-36	[CULTURE]	k ah l ch er
-36	[CUP]	k ah p
-36	[CURIOSITY]	k y uh r iy aa s ax dx iy
-36	[CURRENCY]	k er ax n s iy
-36	[CURSE]	k er s
-36	[CURVE]	k er v
-36	[CUSTODY]	k ah s t ax dx iy
-36	[CUSTOM]	k ah s t ax m
-36	[CUSTOMER]	k ah s t ax m er
-36	[CYCLING]	s ay k ax l ix ng
-36	[CYLINDER]	s ih l ax n d er
-36	[CYNICISM]	s ih n ix s ih z ax m
-36	[CZAR]	z aa r
-36	[DAD]	d ae d
-36	[DAM]	d ae m
-36	[DAMAGE]	d ae m ax jh
-36	[DANCE]	d ae n s
-36	[DANGER]	d ey n jh er
-36	[DARLING]	d aa r l ix ng
-36	[DART]	d aa r t
-36	[DASHBOARD]	d ae sh b ao r d
-36	[DATABASE]	d ey dx ax b ey s
-36	[DATE]	d ey t
-36	[DAUGHTER]	d ao dx er
-36	[DAUGHTER'S]	d ao dx er z
-36	[DAWN]	d ao n
-36	[DAY]	d ey
-36	[DAY'S]	d ey z
-36	[DAYLIGHT]	d ey l ay t
-36	[DAYLIGHT'S]	d ey l ay t s
-36	[DEADLINE]	d eh d l ay n
-36	[DEAL]	d iy l
-36	[DEAN]	d iy n
-36	[DEATH]	d eh th
-36	[DEBRIS]	d ax b r iy
-36	[DEBT]	d eh t
-36	[DEBTOR]	d eh dx er
-36	[DEBUT]	d ey b y uw
-36	[DECADE]	d eh k ey d
-36	[DECAY]	d ax k ey
-36	[DECISION]	d ix s ih zh ax n
-36	[DECK]	d eh k
-36	[DECLARATION]	d eh k l er ey sh ax n
-36	[DECLINE]	d ix k l ay n
-36	[DECREASE]	d ix k r iy s
-36	[DECREE]	d ix k r iy
-36	[DEDUCTION]	d ix d ah k sh ax n
-36	[DEFAULT]	d ix f ao l t
-36	[DEFEAT]	d ix f iy t
-36	[DEFECT]	d iy f eh k t
-36	[DEFENSE]	d ix f eh n s
-36	[DEFIANCE]	d ix f ay ax n s
-36	[DEFINITION]	d eh f ax n ih sh ax n
-36	[DEGREE]	d ix g r iy
-36	[DELAY]	d ix l ey
-36	[DELICACY]	d eh l ax k ax s iy
-36	[DELTA]	d eh l t ax
-36	[DELUSION]	d ix l uw zh ax n
-36	[DEMAND]	d ix m ae n d
-36	[DEMEANOR]	d ix m iy n er
-36	[DEMISE]	d ix m ay z
-36	[DEMONSTRATION]	d eh m ax n s t r ey sh ax n
-36	[DENIAL]	d ix n ay ax l
-36	[DENOMINATOR]	d ix n aa m ax n ey dx er
-36	[DEPARTURE]	d ix p aa r ch er
-36	[DEPENDENCE]	d ix p eh n d ax n s
-36	[DEPORTATION]	d iy p ao r t ey sh ax n
-36	[DEPOT]	d iy p ow
-36	[DEPRESSION]	d ix p r eh sh ax n
-36	[DEPTH]	d eh p th
-36	[DERISION]	d er ih zh ax n
-36	[DESCENDANT]	d ix s eh n d ax n t
-36	[DESCRIPTION]	d ix s k r ih p sh ax n
-36	[DESERT]	d eh z er t
-36	[DESIGN]	d ix z ay n
-36	[DESIGNATION]	d eh z ax g n ey sh ax n
-36	[DESIGNER]	d ix z ay n er
-36	[DESIRE]	d ix z ay er
-36	[DESK]	d eh s k
-36	[DESKTOP]	d eh s k t aa p
-36	[DESPAIR]	d ix s p eh r
-36	[DESSERT]	d ix z er t
-36	[DESTINATION]	d eh s t ax n ey sh ax n
-36	[DESTINY]	d eh s t ax n iy
-36	[DESTRUCTION]	d ix s t r ah k sh ax n
-36	[DETAIL]	d ix t ey l
-36	[DETENTION]	d ix t eh n sh ax n
-36	[DETERMINATION]	d ix t er m ax n ey sh ax n
-36	[DETERRENT]	d ix t er r ax n t
-36	[DEVICE]	d ix v ay s
-36	[DEVOTION]	d ix v ow sh ax n
-36	[DEW]	d uw
-36	[DEXTERITY]	d eh k s t eh r ax dx iy
-36	[DIAGNOSIS]	d ay ax g n ow s ax s
-36	[DIAGRAM]	d ay ax g r ae m
-36	[DIAL]	d ay ax l
-36	[DIAMETER]	d ay ae m ax dx er
-36	[DIFFERENCE]	d ih f er ax n s
-36	[DIFFERENTIAL]	d ih f er eh n ch ax l
-36	[DIFFICULTY]	d ih f ax k ax l t iy
-36	[DIGNITY]	d ih g n ax dx iy
-36	[DILEMMA]	d ix l eh m ax
-36	[DIMINUTION]	d ih m ax n uw sh ax n
-36	[DINNER]	d ih n er
-36	[DIP]	d ih p
-36	[DIPHTHERIA]	d ix f th ih r iy ax
-36	[DIRECTION]	d er eh k sh ax n
-36	[DIRECTOR]	d er eh k t er
-36	[DIRECTORY]	d er eh k t er iy
-36	[DIRT]	d er t
-36	[DISADVANTAGE]	d ih s ax d v ae n t ix jh
-36	[DISAFFECTION]	d ih s ax f eh k sh ax n
-36	[DISAGREEMENT]	d ix s ax g r iy m ax n t
-36	[DISAPPOINTMENT]	d ih s ax p oy n t m ax n t
-36	[DISASTER]	d ix z ae s t er
-36	[DISC]	d ih s k
-36	[DISCIPLINE]	d ih s ax p l ax n
-36	[DISCOMFORT]	d ix s k ah m f er t
-36	[DISCONTENT]	d ix s k ax n t eh n t
-36	[DISCOURSE]	d ih s k ao r s
-36	[DISCOVERY]	d ix s k ah v er iy
-36	[DISCRETION]	d ix s k r eh sh ax n
-36	[DISCRIMINATION]	d ix s k r ih m ax n ey sh ax n
-36	[DISCUSSION]	d ix s k ah sh ax n
-36	[DISEASE]	d ix z iy z
-36	[DISFAVOR]	d ix s f ey v er
-36	[DISGRACE]	d ix s g r ey s
-36	[DISGUST]	d ix s g ah s t
-36	[DISH]	d ih sh
-36	[DISHONESTY]	d ix s aa n ax s t iy
-36	[DISILLUSIONMENT]	d ih s ix l uw zh ax n m ax n t
-36	[DISK]	d ih s k
-36	[DISMAY]	d ix s m ey
-36	[DISORDER]	d ix s ao r dx er
-36	[DISPARITY]	d ix s p eh r ax dx iy
-36	[DISPLAY]	d ix s p l ey
-36	[DISPOSAL]	d ix s p ow z ax l
-36	[DISPOSITION]	d ih s p ax z ih sh ax n
-36	[DISPUTE]	d ix s p y uw t
-36	[DISRUPTION]	d ix s r ah p sh ax n
-36	[DISSENT]	d ix s eh n t
-36	[DISSOLUTION]	d ih s ax l uw sh ax n
-36	[DISTANCE]	d ih s t ax n s
-36	[DISTINCTION]	d ix s t ih ng k sh ax n
-36	[DISTRESS]	d ix s t r eh s
-36	[DISTRIBUTION]	d ih s t r ax b y uw sh ax n
-36	[DISTRICT]	d ih s t r ix k t
-36	[DITCH]	d ih ch
-36	[DIVE]	d ay v
-36	[DIVERGENCE]	d ay v er jh ax n s
-36	[DIVERSION]	d ay v er zh ax n
-36	[DIVERSITY]	d ix v er s ax dx iy
-36	[DIVISION]	d ix v ih zh ax n
-36	[DOCTOR]	d aa k t er
-36	[DOCTRINE]	d aa k t r ax n
-36	[DOCUMENT]	d aa k y ax m eh n t
-36	[DOG]	d ao g
-36	[DOGMA]	d aa g m ax
-36	[DOLL]	d aa l
-36	[DOLLAR]	d aa l er
-36	[DOMAIN]	d ow m ey n
-36	[DOME]	d ow m
-36	[DOMINION]	d ax m ih n y ax n
-36	[DOOM]	d uw m
-36	[DOOR]	d ao r
-36	[DOUBT]	d aw t
-36	[DOUBTER]	d aw dx er
-36	[DOWNTOWN]	d aw n t aw n
-36	[DOZEN]	d ah z ax n
-36	[DRAIN]	d r ey n
-36	[DRAWBACK]	d r ao b ae k
-36	[DREAD]	d r eh d
-36	[DREAM]	d r iy m
-36	[DRESS]	d r eh s
-36	[DRILLING]	d r ih l ix ng
-36	[DRINK]	d r ih ng k
-36	[DRINKING]	d r ih ng k ix ng
-36	[DRIVE]	d r ay v
-36	[DRIVER]	d r ay v er
-36	[DROP]	d r aa p
-36	[DROUGHT]	d r aw t
-36	[DRUG]	d r ah g
-36	[DRUGSTORE]	d r ah g s t ao r
-36	[DRYNESS]	d r ay n ax s
-36	[DUCK]	d ah k
-36	[DUKE]	d uw k
-36	[DULLNESS]	d ah l n ax s
-36	[DUPLICITY]	d uw p l ih s ix dx iy
-36	[DURATION]	d uh r ey sh ax n
-36	[DUSK]	d ah s k
-36	[DUST]	d ah s t
-36	[DUTY]	d uw dx iy
-36	[DWELLER]	d w eh l er
-36	[DWELLING]	d w eh l ix ng
-36	[EAR]	ih r
-36	[EARNEST]	er n ix s t
-36	[EARTH]	er th
-36	[EARTH'S]	er th s
-36	[ECONOMY]	ix k aa n ax m iy
-36	[EDGE]	eh jh
-36	[EDITION]	ax d ih sh ax n
-36	[EDITOR]	eh dx ax dx er
-36	[EDITORIAL]	eh dx ax t ao r iy ax l
-36	[EDUCATION]	eh jh ax k ey sh ax n
-36	[EEL]	iy l
-36	[EFFECT]	ix f eh k t
-36	[EFFICIENCY]	ix f ih sh ax n s iy
-36	[EFFORT]	eh f er t
-36	[EGG]	eh g
-36	[EGO]	iy g ow
-36	[ELBOW]	eh l b ow
-36	[ELECTION]	ix l eh k sh ax n
-36	[ELECTRICITY]	ix l eh k t r ih s ax dx iy
-36	[ELEMENT]	eh l ax m ax n t
-36	[ELEPHANT]	eh l ax f ax n t
-36	[ELEPHANT'S]	eh l ax f ax n t s
-36	[ELEVATOR]	eh l ax v ey dx er
-36	[ELOQUENCE]	eh l ax k w ax n s
-36	[EMBASSY]	eh m b ax s iy
-36	[EMBROIDERY]	eh m b r oy dx er iy
-36	[EMBRYO]	eh m b r iy ow
-36	[EMERGENCY]	ix m er jh ax n s iy
-36	[EMOTION]	ix m ow sh ax n
-36	[EMPLOYEE]	eh m p l oy iy
-36	[EMPLOYMENT]	eh m p l oy m ax n t
-36	[END]	eh n d
-36	[ENDEAVOR]	ix n d eh v er
-36	[ENDOWMENT]	eh n d aw m ax n t
-36	[ENEMY]	eh n ax m iy
-36	[ENEMY'S]	eh n ax m iy z
-36	[ENERGY]	eh n er jh iy
-36	[ENFORCEMENT]	eh n f ao r s m ax n t
-36	[ENGINE]	eh n jh ax n
-36	[ENGINEER]	eh n jh ax n ih r
-36	[ENJOYMENT]	eh n jh oy m ax n t
-36	[ENLIGHTENMENT]	eh n l ay t ax n m ax n t
-36	[ENTERPRISE]	eh n t er p r ay z
-36	[ENTHUSIASM]	ix n th uw z iy ae z ax m
-36	[ENTHUSIAST]	eh n th uw z iy ae s t
-36	[ENTITY]	eh n t ax dx iy
-36	[ENTRANCE]	eh n t r ax n s
-36	[ENTRY]	eh n t r iy
-36	[ENVELOPE]	eh n v ax l ow p
-36	[ENVIRONMENT]	ix n v ay r ax n m ax n t
-36	[EQUATION]	ix k w ey zh ax n
-36	[EQUILIBRIUM]	iy k w ax l ih b r iy ax m
-36	[EQUIPMENT]	ix k w ih p m ax n t
-36	[ERROR]	eh r er
-36	[ESCORT]	eh s k ao r t
-36	[ESSAY]	eh s ey
-36	[ESTABLISHMENT]	ix s t ae b l ix sh m ax n t
-36	[ESTATE]	ix s t ey t
-36	[ESTIMATE]	eh s t ax m ax t
-36	[ESTIMATION]	eh s t ax m ey sh ax n
-36	[ETIQUETTE]	eh dx ax k ax t
-36	[EVALUATION]	ix v ae l y uw ey sh ax n
-36	[EVAPORATION]	ix v ae p er ey sh ax n
-36	[EVE]	iy v
-36	[EVENING]	iy v n ix ng
-36	[EVENT]	ix v eh n t
-36	[EVERYBODY]	eh v r iy b aa dx iy
-36	[EVERYONE]	eh v r iy w ah n
-36	[EVERYTHING]	eh v r iy th ih ng
-36	[EVIDENCE]	eh v ax d ax n s
-36	[EVOLUTION]	eh v ax l uw sh ax n
-36	[EXAM]	ix g z ae m
-36	[EXAMINATION]	ix g z ae m ax n ey sh ax n
-36	[EXAMPLE]	ix g z ae m p ax l
-36	[EXCELLENCE]	eh k s ax l ax n s
-36	[EXCEPTION]	ix k s eh p sh ax n
-36	[EXCHANGE]	ix k s ch ey n jh
-36	[EXCITEMENT]	ix k s ay t m ax n t
-36	[EXCUSE]	ix k s k y uw s
-36	[EXECUTION]	eh k s ax k y uw sh ax n
-36	[EXERCISE]	eh k s er s ay z
-36	[EXHAUST]	ix g z ao s t
-36	[EXHIBIT]	ix g z ih b ix t
-36	[EXHIBITION]	eh k s ax b ih sh ax n
-36	[EXILE]	eh g z ay l
-36	[EXISTENCE]	eh g z ih s t ax n s
-36	[EXIT]	eh g z ix t
-36	[EXPANSION]	ix k s p ae n sh ax n
-36	[EXPECTATION]	eh k s p eh k t ey sh ax n
-36	[EXPEDITION]	eh k s p ax d ih sh ax n
-36	[EXPENDITURE]	ix k s p eh n d ax ch er
-36	[EXPENSE]	ix k s p eh n s
-36	[EXPERIENCE]	ix k s p ih r iy ax n s
-36	[EXPERIMENT]	ix k s p eh r ax m ax n t
-36	[EXPERIMENTATION]	ix k s p eh r ax m ax n t ey sh ax n
-36	[EXPERT]	eh k s p er t
-36	[EXPIRATION]	eh k s p er ey sh ax n
-36	[EXPLANATION]	eh k s p l ax n ey sh ax n
-36	[EXPLORATION]	eh k s p l er ey sh ax n
-36	[EXPLOSION]	ix k s p l ow zh ax n
-36	[EXPORT]	eh k s p ao r t
-36	[EXPOSURE]	ix k s p ow zh er
-36	[EXPRESSION]	ix k s p r eh sh ax n
-36	[EXTENSION]	ix k s t eh n sh ax n
-36	[EXTENT]	ix k s t eh n t
-36	[EXTINCTION]	ix k s t ih ng k sh ax n
-36	[EXTRAVAGANCE]	ix k s t r ae v ax g ax n s
-36	[EYE]	ay
-36	[EYE'S]	ay z
-36	[F]	eh f
-36	[FABRIC]	f ae b r ix k
-36	[FACE]	f ey s
-36	[FACILITY]	f ax s ih l ix dx iy
-36	[FACT]	f ae k t
-36	[FACTION]	f ae k sh ax n
-36	[FACTOR]	f ae k t er
-36	[FACTOR'S]	f ae k t er z
-36	[FACTORY]	f ae k t er iy
-36	[FAILURE]	f ey l y er
-36	[FAITH]	f ey th
-36	[FAITHFUL]	f ey th f ax l
-36	[FALL]	f ao l
-36	[FAME]	f ey m
-36	[FAMILIARITY]	f ax m ih l y eh r ax dx iy
-36	[FAMILY]	f ae m ax l iy
-36	[FAMINE]	f ae m ax n
-36	[FAN]	f ae n
-36	[FANNY]	f ae n iy
-36	[FARCE]	f aa r s
-36	[FARM]	f aa r m
-36	[FARMER]	f aa r m er
-36	[FASHION]	f ae sh ax n
-36	[FATE]	f ey t
-36	[FATHER]	f aa dh er
-36	[FATHER'S]	f aa dh er z
-36	[FATTENING]	f ae t ax n ix ng
-36	[FAULT]	f ao l t
-36	[FAVOR]	f ey v er
-36	[FEAR]	f ih r
-36	[FEAT]	f iy t
-36	[FEATURE]	f iy ch er
-36	[FEED]	f iy d
-36	[FENCE]	f eh n s
-36	[FENDER]	f eh n d er
-36	[FERRY]	f eh r iy
-36	[FERTILITY]	f er t ih l ax dx iy
-36	[FEVER]	f iy v er
-36	[FIASCO]	f iy ae s k ow
-36	[FIBER]	f ay b er
-36	[FIDDLE]	f ih dx ax l
-36	[FIELD]	f iy l d
-36	[FIGHT]	f ay t
-36	[FIGHTER]	f ay dx er
-36	[FIGURE]	f ih g y er
-36	[FILM]	f ih l m
-36	[FILTER]	f ih l t er
-36	[FINE]	f ay n
-36	[FINGER]	f ih ng g er
-36	[FIRE]	f ay er
-36	[FIRING]	f ay r ix ng
-36	[FIRMNESS]	f er m n ax s
-36	[FISH]	f ih sh
-36	[FISHING]	f ih sh ix ng
-36	[FIST]	f ih s t
-36	[FIT]	f ih t
-36	[FITNESS]	f ih t n ax s
-36	[FLAG]	f l ae g
-36	[FLAME]	f l ey m
-36	[FLASH]	f l ae sh
-36	[FLATTERY]	f l ae dx er iy
-36	[FLEET]	f l iy t
-36	[FLESH]	f l eh sh
-36	[FLIGHT]	f l ay t
-36	[FLOOD]	f l ah d
-36	[FLOOR]	f l ao r
-36	[FLOW]	f l ow
-36	[FLOWER]	f l aw er
-36	[FLUTING]	f l uw dx ix ng
-36	[FOAM]	f ow m
-36	[FOCUS]	f ow k ax s
-36	[FODDER]	f aa dx er
-36	[FOE]	f ow
-36	[FOLK]	f ow k
-36	[FOLLY]	f aa l iy
-36	[FOOD]	f uw d
-36	[FOOL]	f uw l
-36	[FOOT]	f uh t
-36	[FOOTNOTE]	f uh t n ow t
-36	[FOOTWEAR]	f uh t w eh r
-36	[FORBEARANCE]	f ao r b eh r ax n s
-36	[FORE]	f ao r
-36	[FORECASTING]	f ao r k ae s t ix ng
-36	[FOREMAN]	f ao r m ax n
-36	[FOREST]	f ao r ax s t
-36	[FORFEITURE]	f ao r f ax ch er
-36	[FORM]	f ao r m
-36	[FORMALITY]	f ao r m ae l ax dx iy
-36	[FORMAT]	f ao r m ae t
-36	[FORMATION]	f ao r m ey sh ax n
-36	[FORMULA]	f ao r m y ax l ax
-36	[FORTUNE]	f ao r ch ax n
-36	[FOUNDATION]	f aw n d ey sh ax n
-36	[FOUNTAIN]	f aw n t ax n
-36	[FOWL]	f aw l
-36	[FOX]	f aa k s
-36	[FRACTION]	f r ae k sh ax n
-36	[FRAGMENT]	f r ae g m ax n t
-36	[FRAGRANCE]	f r ey g r ax n s
-36	[FRAME]	f r ey m
-36	[FRAUD]	f r ao d
-36	[FREEDOM]	f r iy dx ax m
-36	[FREEZE]	f r iy z
-36	[FREEZING]	f r iy z ix ng
-36	[FREIGHT]	f r ey t
-36	[FREQUENCY]	f r iy k w ax n s iy
-36	[FRESHNESS]	f r eh sh n ax s
-36	[FRICTION]	f r ih k sh ax n
-36	[FRIEND]	f r eh n d
-36	[FRIENDSHIP]	f r eh n d sh ix p
-36	[FRIGHT]	f r ay t
-36	[FRINGE]	f r ih n jh
-36	[FRONT]	f r ah n t
-36	[FRONTIER]	f r ax n t ih r
-36	[FROTH]	f r ao th
-36	[FRUIT]	f r uw t
-36	[FRUSTRATION]	f r ax s t r ey sh ax n
-36	[FUEL]	f y uw ax l
-36	[FUN]	f ah n
-36	[FUNCTION]	f ah ng k sh ax n
-36	[FUNDING]	f ah n d ix ng
-36	[FUR]	f er
-36	[FURNACE]	f er n ax s
-36	[FURNITURE]	f er n ix ch er
-36	[FURY]	f y uh r iy
-36	[GAIN]	g ey n
-36	[GALA]	g ae l ax
-36	[GALLERY]	g ae l er iy
-36	[GAMBLE]	g ae m b ax l
-36	[GAME]	g ey m
-36	[GAMMA]	g ae m ax
-36	[GANG]	g ae ng
-36	[GAP]	g ae p
-36	[GARBAGE]	g aa r b ix jh
-36	[GARDEN]	g aa r d ax n
-36	[GARDENER]	g aa r d ax n er
-36	[GAS]	g ae s
-36	[GATE]	g ey t
-36	[GATEWAY]	g ey t w ey
-36	[GAUZE]	g ao z
-36	[GEAR]	g ih r
-36	[GENDARME]	zh aa n d aa r m
-36	[GENERATION]	jh eh n er ey sh ax n
-36	[GENESIS]	jh eh n ax s ax s
-36	[GENIUS]	jh iy n y ax s
-36	[GENTLENESS]	jh eh n t ax l n ax s
-36	[GEOLOGY]	jh iy aa l ax jh iy
-36	[GEOMETRY]	jh iy aa m ax t r iy
-36	[GESTURE]	jh eh s ch er
-36	[GHOST]	g ow s t
-36	[GIANT'S]	jh ay ax n t s
-36	[GIFT]	g ih f t
-36	[GILDING]	g ih l d ix ng
-36	[GIN]	jh ih n
-36	[GINGER]	jh ih n jh er
-36	[GIRL]	g er l
-36	[GLANCE]	g l ae n s
-36	[GLARE]	g l eh r
-36	[GLASS]	g l ae s
-36	[GLEE]	g l iy
-36	[GLIMMER]	g l ih m er
-36	[GLIMPSE]	g l ih m p s
-36	[GLOBE]	g l ow b
-36	[GLOOM]	g l uw m
-36	[GLORY]	g l ao r iy
-36	[GLOW]	g l ow
-36	[GLUE]	g l uw
-36	[GNAWING]	n ao ix ng
-36	[GOAL]	g ow l
-36	[GODDESS]	g aa dx ax s
-36	[GOLD]	g ow l d
-36	[GOLF]	g aa l f
-36	[GOODNESS]	g uh d n ax s
-36	[GOOSE]	g uw s
-36	[GOOSE'S]	g uw s ax z
-36	[GOSSIP]	g aa s ax p
-36	[GOVERNMENT]	g ah v er m ax n t
-36	[GOVERNOR]	g ah v er n er
-36	[GRACE]	g r ey s
-36	[GRAIN]	g r ey n
-36	[GRAMMAR]	g r ae m er
-36	[GRANDEUR]	g r ae n d uw r
-36	[GRANDFATHER]	g r ae n d f aa dh er
-36	[GRANDMOTHER]	g r ae n d m ah dh er
-36	[GRANDSON]	g r ae n d s ah n
-36	[GRANITE]	g r ae n ax t
-36	[GRANT]	g r ae n t
-36	[GRASS]	g r ae s
-36	[GRAVEYARD]	g r ey v y aa r d
-36	[GRAVITY]	g r ae v ax dx iy
-36	[GREASE]	g r iy s
-36	[GREED]	g r iy d
-36	[GRIEF]	g r iy f
-36	[GROUND]	g r aw n d
-36	[GROUNDWORK]	g r aw n d w er k
-36	[GROVE]	g r ow v
-36	[GROWTH]	g r ow th
-36	[GUARANTEE]	g eh r ax n t iy
-36	[GUARD]	g aa r d
-36	[GUEST]	g eh s t
-36	[GUIDANCE]	g ay d ax n s
-36	[GUILT]	g ih l t
-36	[GUISE]	g ay z
-36	[GULF]	g ah l f
-36	[GUM]	g ah m
-36	[GUN]	g ah n
-36	[GUNNER]	g ah n er
-36	[GUY]	g ay
-36	[HABIT]	hh ae b ax t
-36	[HABITAT]	hh ae b ax t ae t
-36	[HAIL]	hh ey l
-36	[HAIR]	hh eh r
-36	[HALL]	hh ao l
-36	[HALLWAY]	hh ao l w ey
-36	[HALO]	hh ey l ow
-36	[HALT]	hh ao l t
-36	[HAM]	hh ae m
-36	[HAND]	hh ae n d
-36	[HANDFUL]	hh ae n d f uh l
-36	[HANDICAP]	hh ae n d iy k ae p
-36	[HANDWRITING]	hh ae n d r ay dx ix ng
-36	[HAPPINESS]	hh ae p iy n ax s
-36	[HARBOR]	hh aa r b er
-36	[HARDSHIP]	hh aa r d sh ix p
-36	[HARDWARE]	hh aa r d w eh r
-36	[HARM]	hh aa r m
-36	[HARM'S]	hh aa r m z
-36	[HARMONY]	hh aa r m ax n iy
-36	[HARVEST]	hh aa r v ax s t
-36	[HASTE]	hh ey s t
-36	[HAT]	hh ae t
-36	[HATCHET]	hh ae ch ax t
-36	[HATRED]	hh ey t r ax d
-36	[HAVEN]	hh ey v ax n
-36	[HAVOC]	hh ae v ax k
-36	[HAWK]	hh ao k
-36	[HAY]	hh ey
-36	[HEAD]	hh eh d
-36	[HEADACHE]	hh eh d ey k
-36	[HEADQUARTERS]	hh eh d k w ao r dx er z
-36	[HEADWAY]	hh eh d w ey
-36	[HEALTH]	hh eh l th
-36	[HEAP]	hh iy p
-36	[HEARING]	hh ih r ix ng
-36	[HEART]	hh aa r t
-36	[HEART'S]	hh aa r t s
-36	[HEAT]	hh iy t
-36	[HEAVEN]	hh eh v ax n
-36	[HEAVEN'S]	hh eh v ax n z
-36	[HEEL]	hh iy l
-36	[HEGEMONY]	hh iy jh eh m ax n iy
-36	[HEIGHT]	hh ay t
-36	[HEIR]	eh r
-36	[HEM]	hh eh m
-36	[HEMISPHERE]	hh eh m ix s f ih r
-36	[HERD]	hh er d
-36	[HEREDITY]	hh er eh dx ax dx iy
-36	[HERITAGE]	hh eh r ax dx ax jh
-36	[HERO]	hh ih r ow
-36	[HESITATION]	hh eh z ax t ey sh ax n
-36	[HILL]	hh ih l
-36	[HILLSIDE]	hh ih l s ay d
-36	[HINT]	hh ih n t
-36	[HIP]	hh ih p
-36	[HISTORIAN]	hh ix s t ao r iy ax n
-36	[HISTORY]	hh ih s t er iy
-36	[HITCH]	hh ih ch
-36	[HOBBY]	hh aa b iy
-36	[HOCK]	hh aa k
-36	[HOLDER]	hh ow l d er
-36	[HOLE]	hh ow l
-36	[HOLIDAY]	hh aa l ax d ey
-36	[HOMEWORK]	hh ow m w er k
-36	[HONESTY]	aa n ax s t iy
-36	[HONOR]	aa n er
-36	[HOOD]	hh uh d
-36	[HOOK]	hh uh k
-36	[HOPE]	hh ow p
-36	[HORIZON]	hh er ay z ax n
-36	[HORN]	hh ao r n
-36	[HORROR]	hh ao r er
-36	[HORSE]	hh ao r s
-36	[HORSE'S]	hh ao r s ax z
-36	[HOSPITAL]	hh aa s p ih dx ax l
-36	[HOST]	hh ow s t
-36	[HOSTAGE]	hh aa s t ix jh
-36	[HOSTILITY]	hh aa s t ih l ax dx iy
-36	[HOTEL]	hh ow t eh l
-36	[HOUR]	aw er
-36	[HOUR'S]	aw er z
-36	[HOUSEHOLD]	hh aw s hh ow l d
-36	[HUG]	hh ah g
-36	[HUM]	hh ah m
-36	[HUMANITY]	hh y uw m ae n ix dx iy
-36	[HUMILIATION]	hh y uw m ih l iy ey sh ax n
-36	[HUMOR]	hh y uw m er
-36	[HUNCH]	hh ah n ch
-36	[HUNDREDWEIGHT]	hh ah n d r ax d w ey t
-36	[HUNGER]	hh ah ng g er
-36	[HUNT]	hh ah n t
-36	[HUNTER]	hh ah n t er
-36	[HUNTER'S]	hh ah n t er z
-36	[HUNTING]	hh ah n t ix ng
-36	[HURRY]	hh er iy
-36	[HUSBAND]	hh ah z b ax n d
-36	[HUSBAND'S]	hh ah z b ax n d z
-36	[HYDROGEN]	hh ay d r ax jh ax n
-36	[HYSTERIA]	hh ix s t eh r iy ax
-36	[ICE]	ay s
-36	[ICEBERG]	ay s b er g
-36	[IDEA]	ay d iy ax
-36	[IDEALISM]	ay d iy l ix z ax m
-36	[IDENTITY]	ay d eh n t ax dx iy
-36	[IGNORANCE]	ih g n er ax n s
-36	[ILLNESS]	ih l n ax s
-36	[ILLUSION]	ix l uw zh ax n
-36	[ILLUSTRATION]	ih l ax s t r ey sh ax n
-36	[IMAGE]	ih m ax jh
-36	[IMAGINATION]	ix m ae jh ax n ey sh ax n
-36	[IMITATION]	ih m ax t ey sh ax n
-36	[IMMUNITY]	ix m y uw n ax dx iy
-36	[IMPACT]	ix m p ae k t
-36	[IMPORT]	ix m p ao r t
-36	[IMPORTANCE]	ix m p ao r t ax n s
-36	[IMPOSITION]	ih m p ax z ih sh ax n
-36	[IMPRESSION]	ix m p r eh sh ax n
-36	[IMPROVEMENT]	ix m p r uw v m ax n t
-36	[IMPULSE]	ih m p ax l s
-36	[INADEQUACY]	ix n ae dx ix k w ax s iy
-36	[INATTENTION]	ix n ax t eh n ch ax n
-36	[INCENSE]	ix n s eh n s
-36	[INCENTIVE]	ix n s eh n t ix v
-36	[INCH]	ih n ch
-36	[INCIDENT]	ih n s ax d ax n t
-36	[INCLINATION]	ih n k l ax n ey sh ax n
-36	[INCOME]	ih n k ah m
-36	[INCONVENIENCE]	ih n k ax n v iy n y ax n s
-36	[INCREASE]	ix n k r iy s
-36	[INDEPENDENCE]	ih n d ix p eh n d ax n s
-36	[INDEX]	ih n d eh k s
-36	[INDICATION]	ih n d ax k ey sh ax n
-36	[INDIFFERENCE]	ix n d ih f er ax n s
-36	[INDIGNITY]	ix n d ih g n ax dx iy
-36	[INDULGENCE]	ix n d ah l jh ax n s
-36	[INDUSTRY]	ih n d ax s t r iy
-36	[INERTIA]	ix n er sh ax
-36	[INFANCY]	ih n f ax n s iy
-36	[INFANT]	ih n f ax n t
-36	[INFERENCE]	ih n f er ax n s
-36	[INFLUENCE]	ih n f l uw ax n s
-36	[INGENUITY]	ix n jh ax n uw ax dx iy
-36	[INHERITANCE]	ix n hh eh r ax t ax n s
-36	[INJURY]	ih n jh er iy
-36	[INJUSTICE]	ix n jh ah s t ix s
-36	[INK]	ih ng k
-36	[INPUT]	ih n p uh t
-36	[INQUIRY]	ix n k w ay r iy
-36	[INSCRIPTION]	ix n s k r ih p sh ax n
-36	[INSERT]	ix n s er t
-36	[INSPIRATION]	ih n s p er ey sh ax n
-36	[INSTALLATION]	ih n s t ax l ey sh ax n
-36	[INSTANCE]	ih n s t ax n s
-36	[INSTINCT]	ih n s t ix ng k t
-36	[INSTITUTION]	ih n s t ix t uw sh ax n
-36	[INSTRUCTION]	ix n s t r ah k sh ax n
-36	[INSTRUMENT]	ih n s t r ax m ax n t
-36	[INSULT]	ix n s ah l t
-36	[INSURANCE]	ix n sh uh r ax n s
-36	[INTELLECT]	ih n t ax l eh k t
-36	[INTELLIGENCE]	ix n t eh l ax jh ax n s
-36	[INTENSITY]	ix n t eh n s ax dx iy
-36	[INTENT]	ix n t eh n t
-36	[INTENTION]	ix n t eh n ch ax n
-36	[INTERCEPT]	ih n t er s eh p t
-36	[INTEREST]	ih n t r ax s t
-36	[INTERFERENCE]	ih n t er f ih r ax n s
-36	[INTERPRETATION]	ix n t er p r ix t ey sh ax n
-36	[INTERPRETER]	ix n t er p r ax dx er
-36	[INTERRUPTION]	ih n t er ah p sh ax n
-36	[INTERVIEW]	ih n t er v y uw
-36	[INTRODUCTION]	ih n t r ax d ah k sh ax n
-36	[INTUITION]	ih n t uw ih sh ax n
-36	[INVASION]	ix n v ey zh ax n
-36	[INVENTION]	ix n v eh n sh ax n
-36	[INVESTIGATION]	ix n v eh s t ax g ey sh ax n
-36	[INVESTIGATOR]	ix n v eh s t ax g ey dx er
-36	[INVESTMENT]	ix n v eh s t m ax n t
-36	[INVESTOR]	ix n v eh s t er
-36	[INVITATION]	ih n v ix t ey sh ax n
-36	[IOTA]	ay ow dx ax
-36	[IRON]	ay er n
-36	[IRONY]	ay r ax n iy
-36	[IRRITATION]	ih r ix t ey sh ax n
-36	[ISLAND]	ay l ax n d
-36	[ISOLATION]	ay s ax l ey sh ax n
-36	[ISSUE]	ih sh uw
-36	[ITEM]	ay dx ax m
-36	[ITINERARY]	ay t ih n er eh r iy
-36	[IVORY]	ay v er iy
-36	[JACK]	jh ae k
-36	[JACKET]	jh ae k ax t
-36	[JAIL]	jh ey l
-36	[JARGON]	jh aa r g ax n
-36	[JEALOUSY]	jh eh l ax s iy
-36	[JET]	jh eh t
-36	[JEWELRY]	jh uw ax l r iy
-36	[JOB]	jh aa b
-36	[JOCK]	jh aa k
-36	[JOKE]	jh ow k
-36	[JOURNAL]	jh er n ax l
-36	[JOURNEY]	jh er n iy
-36	[JOY]	jh oy
-36	[JUDGE]	jh ah jh
-36	[JUDGMENT]	jh ah jh m ax n t
-36	[JUICE]	jh uw s
-36	[JUMP]	jh ah m p
-36	[JUNGLE]	jh ah ng g ax l
-36	[JUNK]	jh ah ng k
-36	[JURISDICTION]	jh uh r ax s d ih k sh ax n
-36	[JURY]	jh uh r iy
-36	[JUSTICE]	jh ah s t ax s
-36	[JUSTIFICATION]	jh ah s t ax f ax k ey sh ax n
-36	[KERNEL]	k er n ax l
-36	[KEYBOARD]	k iy b ao r d
-36	[KIND]	k ay n d
-36	[KINDERGARTEN]	k ih n d er g aa r t ax n
-36	[KINDNESS]	k ay n d n ax s
-36	[KING]	k ih ng
-36	[KING'S]	k ih ng z
-36	[KINGDOM]	k ih ng d ax m
-36	[KIT]	k ih t
-36	[KITCHEN]	k ih ch ax n
-36	[KNEE]	n iy
-36	[KNIFE]	n ay f
-36	[KNIFE'S]	n ay f s
-36	[KNOWLEDGE]	n aa l ax jh
-36	[LABOR]	l ey b er
-36	[LABORATORY]	l ae b r ax t ao r iy
-36	[LACK]	l ae k
-36	[LADY]	l ey dx iy
-36	[LADY'S]	l ey dx iy z
-36	[LAKE]	l ey k
-36	[LAMP]	l ae m p
-36	[LANDING]	l ae n d ix ng
-36	[LANDSCAPE]	l ae n d s k ey p
-36	[LANE]	l ey n
-36	[LANGUAGE]	l ae ng g w ax jh
-36	[LAP]	l ae p
-36	[LAPSE]	l ae p s
-36	[LAPTOP]	l ae p t aa p
-36	[LATENT]	l ey t ax n t
-36	[LATITUDE]	l ae dx ax t uw d
-36	[LAUGH]	l ae f
-36	[LAUGHTER]	l ae f t er
-36	[LAUNDRY]	l ao n d r iy
-36	[LAUREATE]	l ao r iy ax t
-36	[LAWN]	l ao n
-36	[LAWYER]	l ao y er
-36	[LAXATIVE]	l ae k s ax dx ix v
-36	[LEADER]	l iy dx er
-36	[LEADERSHIP]	l iy dx er sh ih p
-36	[LEAGUE]	l iy g
-36	[LEASE]	l iy s
-36	[LEATHER]	l eh dh er
-36	[LECTURE]	l eh k ch er
-36	[LEG]	l eh g
-36	[LEGACY]	l eh g ax s iy
-36	[LEGEND]	l eh jh ax n d
-36	[LEGISLATION]	l eh jh ax s l ey sh ax n
-36	[LEISURE]	l eh zh er
-36	[LENDING]	l eh n d ix ng
-36	[LENGTH]	l eh ng k th
-36	[LENS]	l eh n z
-36	[LESSON]	l eh s ax n
-36	[LETTER]	l eh dx er
-36	[LEVEL]	l eh v ax l
-36	[LIABILITY]	l ay ax b ih l ix dx iy
-36	[LIAR]	l ay er
-36	[LIBERTY]	l ih b er dx iy
-36	[LIBRARIAN]	l ay b r eh r iy ax n
-36	[LIBRARY]	l ay b r eh r iy
-36	[LICENSE]	l ay s ax n s
-36	[LIEU]	l uw
-36	[LIEUTENANT]	l uw t eh n ax n t
-36	[LIEUTENANT'S]	l uw t eh n ax n t s
-36	[LIFE]	l ay f
-36	[LIFE'S]	l ay f s
-36	[LIFETIME]	l ay f t ay m
-36	[LIGHT'S]	l ay t s
-36	[LIGHTNING]	l ay t n ix ng
-36	[LIKENESS]	l ay k n ax s
-36	[LILY]	l ih l iy
-36	[LIMB]	l ih m
-36	[LIMIT]	l ih m ax t
-36	[LIMITATION]	l ih m ix t ey sh ax n
-36	[LINE]	l ay n
-36	[LINEN]	l ih n ax n
-36	[LINK]	l ih ng k
-36	[LION]	l ay ax n
-36	[LIPSTICK]	l ih p s t ih k
-36	[LIST]	l ih s t
-36	[LISTENER]	l ih s ax n er
-36	[LITERATURE]	l ih dx er ax ch er
-36	[LITTER]	l ih dx er
-36	[LIVER]	l ih v er
-36	[LOCATION]	l ow k ey sh ax n
-36	[LOFT]	l ao f t
-36	[LOGIC]	l aa jh ix k
-36	[LOITERING]	l oy dx er ix ng
-36	[LONGEVITY]	l ao n jh eh v ax dx iy
-36	[LOOP]	l uw p
-36	[LOSS]	l ao s
-36	[LOT]	l aa t
-36	[LOTTERY]	l aa dx er iy
-36	[LOVE]	l ah v
-36	[LOVER]	l ah v er
-36	[LOYALTY]	l oy ax l t iy
-36	[LUCK]	l ah k
-36	[LUMBER]	l ah m b er
-36	[LUMP]	l ah m p
-36	[LUNCH]	l ah n ch
-36	[LUNCHEON]	l ah n ch ax n
-36	[LUSTER]	l ah s t er
-36	[LUXURY]	l ah g zh er iy
-36	[MACHINE]	m ax sh iy n
-36	[MACHINERY]	m ax sh iy n er iy
-36	[MAFIA]	m aa f iy ax
-36	[MAGAZINE]	m ae g ax z iy n
-36	[MAGICIAN]	m ax jh ih sh ax n
-36	[MAGICIAN'S]	m ax jh ih sh ax n z
-36	[MAGISTRATE]	m ae jh ax s t r ey t
-36	[MAGNETISM]	m ae g n ax t ih z ax m
-36	[MAGNITUDE]	m ae g n ax t uw d
-36	[MAID]	m ey d
-36	[MAIL]	m ey l
-36	[MAJORITY]	m ax jh ao r ax dx iy
-36	[MALL]	m ao l
-36	[MALNUTRITION]	m ae l n uw t r ih sh ax n
-36	[MAN]	m ae n
-36	[MANAGEMENT]	m ae n ax jh m ax n t
-36	[MANAGER]	m ae n ax jh er
-36	[MANIFESTATION]	m ae n ax f eh s t ey sh ax n
-36	[MANKIND]	m ae n k ay n d
-36	[MANNER]	m ae n er
-36	[MANUSCRIPT]	m ae n y ax s k r ih p t
-36	[MAP]	m ae p
-36	[MARBLE]	m aa r b ax l
-36	[MARCH]	m aa r ch
-36	[MARGIN]	m aa r jh ax n
-36	[MARKET]	m aa r k ax t
-36	[MARRIAGE]	m eh r ix jh
-36	[MARROW]	m eh r ow
-36	[MARSHAL]	m aa r sh ax l
-36	[MARTYR]	m aa r dx er
-36	[MASS]	m ae s
-36	[MASSACRE]	m ae s ax k er
-36	[MASSAGE]	m ax s aa zh
-36	[MASTER]	m ae s t er
-36	[MASTERPIECE]	m ae s t er p iy s
-36	[MATE]	m ey t
-36	[MATERIAL]	m ax t ih r iy ax l
-36	[MATHEMATICIAN]	m ae th ax m ax t ih sh ax n
-36	[MATTER]	m ae dx er
-36	[MATURITY]	m ax ch uh r ax dx iy
-36	[MAXIM]	m ae k s ax m
-36	[MEAL]	m iy l
-36	[MEANTIME]	m iy n t ay m
-36	[MEASURE]	m eh zh er
-36	[MEASUREMENT]	m eh zh er m ax n t
-36	[MEAT]	m iy t
-36	[MECHANISM]	m eh k ax n ih z ax m
-36	[MEDICATION]	m eh dx ax k ey sh ax n
-36	[MEDITATION]	m eh dx ax t ey sh ax n
-36	[MEDIUM]	m iy dx iy ax m
-36	[MEETING]	m iy dx ix ng
-36	[MEMBER]	m eh m b er
-36	[MEMORY]	m eh m er iy
-36	[MENACE]	m eh n ax s
-36	[MENU]	m eh n y uw
-36	[MERCHANDISE]	m er ch ax n d ay z
-36	[MERCHANT]	m er ch ax n t
-36	[MERCURY]	m er k y er iy
-36	[MERCY]	m er s iy
-36	[MERIT]	m eh r ax t
-36	[MESS]	m eh s
-36	[MESSAGE]	m eh s ax jh
-36	[MESSENGER]	m eh s ax n jh er
-36	[METAL]	m eh dx ax l
-36	[METHOD]	m eh th ax d
-36	[MICROPHONE]	m ay k r ax f ow n
-36	[MICROSCOPE]	m ay k r ax s k ow p
-36	[MICROWAVE]	m ay k r ax w ey v
-36	[MIDDAY]	m ih d d ey
-36	[MIDMORNING]	m ih d m ao r n ix ng
-36	[MIDNIGHT]	m ih d n ay t
-36	[MIDST]	m ih d s t
-36	[MIDWAY]	m ih d w ey
-36	[MILE]	m ay l
-36	[MILL]	m ih l
-36	[MIND]	m ay n d
-36	[MINE]	m ay n
-36	[MINERAL]	m ih n er ax l
-36	[MINING]	m ay n ix ng
-36	[MINISTER]	m ih n ax s t er
-36	[MINT]	m ih n t
-36	[MINUTE]	m ih n ax t
-36	[MIRACLE]	m ih r ax k ax l
-36	[MISCHIEF]	m ih s ch ax f
-36	[MISDEMEANOR]	m ih s d ax m iy n er
-36	[MISFORTUNE]	m ix s f ao r ch ax n
-36	[MISSION]	m ih sh ax n
-36	[MIST]	m ih s t
-36	[MISTAKE]	m ix s t ey k
-36	[MIX]	m ih k s
-36	[MIXTURE]	m ih k s ch er
-36	[MOCKERY]	m aa k er iy
-36	[MODE]	m ow d
-36	[MODEL]	m aa dx ax l
-36	[MODERATION]	m aa dx er ey sh ax n
-36	[MODIFICATION]	m aa dx ax f ax k ey sh ax n
-36	[MOISTURE]	m oy s ch er
-36	[MOLECULE]	m aa l ax k y uw l
-36	[MOM]	m aa m
-36	[MOMENT]	m ow m ax n t
-36	[MOMENT'S]	m ow m ax n t s
-36	[MOMENTUM]	m ow m eh n t ax m
-36	[MONARCHY]	m aa n aa r k iy
-36	[MONEY]	m ah n iy
-36	[MONKEY]	m ah ng k iy
-36	[MONOPOLY]	m ax n aa p ax l iy
-36	[MONSTER]	m aa n s t er
-36	[MONTH]	m ah n th
-36	[MOOD]	m uw d
-36	[MOON]	m uw n
-36	[MORALITY]	m er ae l ax dx iy
-36	[MORNING]	m ao r n ix ng
-36	[MORROW]	m aa r ow
-36	[MOTEL]	m ow t eh l
-36	[MOTHER]	m ah dh er
-36	[MOTHER'S]	m ah dh er z
-36	[MOTION]	m ow sh ax n
-36	[MOTIVE]	m ow dx ix v
-36	[MOTOR]	m ow dx er
-36	[MOUNTAIN]	m aw n t ax n
-36	[MOUSE]	m aw s
-36	[MOUTH]	m aw th
-36	[MOVE]	m uw v
-36	[MOVEMENT]	m uw v m ax n t
-36	[MOVIE]	m uw v iy
-36	[MUD]	m ah d
-36	[MULTITUDE]	m ah l t ax t uw d
-36	[MURDER]	m er dx er
-36	[MUSIC]	m y uw z ix k
-36	[MUSICIAN]	m y uw z ih sh ax n
-36	[MUSTARD]	m ah s t er d
-36	[MYSTERY]	m ih s t er iy
-36	[NAME]	n ey m
-36	[NAME'S]	n ey m z
-36	[NAPKIN]	n ae p k ix n
-36	[NATION]	n ey sh ax n
-36	[NATURALIST]	n ae ch er ax l ax s t
-36	[NATURE]	n ey ch er
-36	[NATURE'S]	n ey ch er z
-36	[NAVY]	n ey v iy
-36	[NEATNESS]	n iy t n ax s
-36	[NECESSITY]	n ax s eh s ax dx iy
-36	[NECK]	n eh k
-36	[NEED]	n iy d
-36	[NEEDLE]	n iy dx ax l
-36	[NEGLECT]	n ax g l eh k t
-36	[NEIGHBOR]	n ey b er
-36	[NEIGHBORHOOD]	n ey b er hh uh d
-36	[NEMESIS]	n eh m ax s ix s
-36	[NEPHEW]	n eh f y uw
-36	[NEST]	n eh s t
-36	[NETWORK]	n eh t w er k
-36	[NICKNAME]	n ih k n ey m
-36	[NIGHT]	n ay t
-36	[NIGHT'S]	n ay t s
-36	[NIGHTMARE]	n ay t m eh r
-36	[NITROGEN]	n ay t r ax jh ax n
-36	[NOBODY]	n ow b aa d iy
-36	[NOD]	n aa d
-36	[NOISE]	n oy z
-36	[NONE]	n ah n
-36	[NONENTITY]	n aa n eh n t ax dx iy
-36	[NOON]	n uw n
-36	[NORM]	n ao r m
-36	[NOSE]	n ow z
-36	[NOTEBOOK]	n ow t b uh k
-36	[NOTEPAD]	n ow t p ae d
-36	[NOTHIN']	n ah th ix n
-36	[NOTHING]	n ah th ix ng
-36	[NOTICE]	n ow dx ax s
-36	[NOTIFICATION]	n ow dx ax f ax k ey sh ax n
-36	[NOTION]	n ow sh ax n
-36	[NOVEL]	n aa v ax l
-36	[NOVELTY]	n aa v ax l t iy
-36	[NUCLEUS]	n uw k l iy ax s
-36	[NUMBER]	n ah m b er
-36	[NURSE]	n er s
-36	[NURSERY]	n er s er iy
-36	[NURSING]	n er s ix ng
-36	[NUTRITION]	n uw t r ih sh ax n
-36	[OAK]	ow k
-36	[OBJECT]	aa b jh eh k t
-36	[OBJECTION]	ax b jh eh k sh ax n
-36	[OBJECTIVE]	ax b jh eh k t ix v
-36	[OBLIGATION]	aa b l ax g ey sh ax n
-36	[OBLIVION]	ax b l ih v iy ax n
-36	[OBSCURITY]	ax b s k y uh r ax dx iy
-36	[OBSERVATION]	aa b z er v ey sh ax n
-36	[OBSERVATORY]	ax b z er v ax t ao r iy
-36	[OBSERVER]	ax b z er v er
-36	[OBSTACLE]	aa b s t ax k ax l
-36	[OCCASION]	ax k ey zh ax n
-36	[OCCUPATION]	aa k y ax p ey sh ax n
-36	[OCCURRENCE]	ax k er ax n s
-36	[OCEAN]	ow sh ax n
-36	[OFFENDER]	ax f eh n d er
-36	[OFFENSE]	ax f eh n s
-36	[OFFER]	ao f er
-36	[OFFERING]	ao f er ix ng
-36	[OFFICE]	ao f ax s
-36	[OFFICER]	ao f ax s er
-36	[OFFICER'S]	ao f ix s er z
-36	[OFFICIAL]	ax f ih sh ax l
-36	[OFFSPRING]	ao f s p r ih ng
-36	[OOZE]	uw z
-36	[OPENNESS]	ow p ax n n ax s
-36	[OPERA]	aa p r ax
-36	[OPERATION]	aa p er ey sh ax n
-36	[OPINION]	ax p ih n y ax n
-36	[OPIUM]	ow p iy ax m
-36	[OPPONENT]	ax p ow n ax n t
-36	[OPPORTUNITY]	aa p er t uw n ax dx iy
-36	[OPPOSITION]	aa p ax z ih sh ax n
-36	[OPPRESSION]	ax p r eh sh ax n
-36	[OPTION]	aa p sh ax n
-36	[ORANGE]	ao r ax n jh
-36	[ORCHARD]	ao r ch er d
-36	[ORDER]	ao r dx er
-36	[ORDNANCE]	ao r d n ax n s
-36	[ORGAN]	ao r g ax n
-36	[ORGANISM]	ao r g ax n ih z ax m
-36	[ORGANIZATION]	ao r g ax n ax z ey sh ax n
-36	[ORIGIN]	ao r ax jh ax n
-36	[ORIGINATION]	er ih jh ax n ey sh ax n
-36	[ORTHODOXY]	ao r th ax d aa k s iy
-36	[OSTENTATION]	ao s t eh n t ey sh ax n
-36	[OUTCOME]	aw t k ah m
-36	[OUTPUT]	aw t p uh t
-36	[OUTRAGE]	aw t r ey jh
-36	[OUTSET]	aw t s eh t
-36	[OVERFLOW]	ow v er f l ow
-36	[OVERHEAD]	ow v er hh eh d
-36	[OWL]	aw l
-36	[OWNER]	ow n er
-36	[OX]	aa k s
-36	[OXYGEN]	aa k s ax jh ax n
-36	[P]	p iy
-36	[PACE]	p ey s
-36	[PACING]	p ey s ix ng
-36	[PACK]	p ae k
-36	[PACKAGE]	p ae k ax jh
-36	[PACKET]	p ae k ax t
-36	[PAGE]	p ey jh
-36	[PAIL]	p ey l
-36	[PAIN]	p ey n
-36	[PAINTER]	p ey n t er
-36	[PAINTING]	p ey n t ix ng
-36	[PAIR]	p eh r
-36	[PALACE]	p ae l ax s
-36	[PALL]	p aa l
-36	[PALM]	p aa m
-36	[PANIC]	p ae n ix k
-36	[PARADE]	p er ey d
-36	[PARAGRAPH]	p ae r ax g r ae f
-36	[PARCEL]	p aa r s ax l
-36	[PARDON]	p aa r d ax n
-36	[PARENT]	p eh r ax n t
-36	[PARIAH]	p er ay ax
-36	[PARK]	p aa r k
-36	[PARLIAMENT]	p aa r l ax m ax n t
-36	[PART]	p aa r t
-36	[PARTICLE]	p aa r dx ax k ax l
-36	[PARTNER]	p aa r t n er
-36	[PARTY]	p aa r dx iy
-36	[PASSAGE]	p ae s ax jh
-36	[PASSENGER]	p ae s ax n jh er
-36	[PASSION]	p ae sh ax n
-36	[PASSPORT]	p ae s p ao r t
-36	[PAT]	p ae t
-36	[PATCH]	p ae ch
-36	[PATENT]	p ae t ax n t
-36	[PATH]	p ae th
-36	[PATIENCE]	p ey sh ax n s
-36	[PATIENT]	p ey sh ax n t
-36	[PATRIARCH]	p ey t r iy aa r k
-36	[PATRIOT]	p ey t r iy ax t
-36	[PATROL]	p ax t r ow l
-36	[PATTERN]	p ae dx er n
-36	[PAUSE]	p ao z
-36	[PAY]	p ey
-36	[PAYMENT]	p ey m ax n t
-36	[PC]	p iy s iy
-36	[PEA]	p iy
-36	[PEACE]	p iy s
-36	[PEAL]	p iy l
-36	[PEANUT]	p iy n ax t
-36	[PEASANT]	p eh z ax n t
-36	[PEEP]	p iy p
-36	[PEN]	p eh n
-36	[PENDULUM]	p eh n jh ax l ax m
-36	[PENETRATION]	p eh n ax t r ey sh ax n
-36	[PENNY]	p eh n iy
-36	[PERCENT]	p er s eh n t
-36	[PERFECTION]	p er f eh k sh ax n
-36	[PERFORMANCE]	p er f ao r m ax n s
-36	[PERFUME]	p er f y uw m
-36	[PERIOD]	p ih r iy ax d
-36	[PERMISSION]	p er m ih sh ax n
-36	[PERSON]	p er s ax n
-36	[PERSONALITY]	p er s ax n ae l ix dx iy
-36	[PERSONIFICATION]	p er s aa n ax f ax k ey sh ax n
-36	[PERSPECTIVE]	p er s p eh k t ix v
-36	[PERSUASION]	p er s w ey zh ax n
-36	[PETITION]	p ax t ih sh ax n
-36	[PHASE]	f ey z
-36	[PHENOMENON]	f ax n aa m ax n aa n
-36	[PHILOSOPHY]	f ax l aa s ax f iy
-36	[PHONE]	f ow n
-36	[PHOTOGRAPHER]	f ax t aa g r ax f er
-36	[PHOTOGRAPHY]	f ax t aa g r ax f iy
-36	[PHRASE]	f r ey z
-36	[PHYSICIAN]	f ax z ih sh ax n
-36	[PHYSICIST]	f ih z ix s ix s t
-36	[PHYSICS]	f ih z ix k s
-36	[PIANO]	p iy ae n ow
-36	[PICTURE]	p ih k ch er
-36	[PIECE]	p iy s
-36	[PIG]	p ih g
-36	[PILLOW]	p ih l ow
-36	[PIONEER]	p ay ax n ih r
-36	[PIPE]	p ay p
-36	[PISTOL]	p ih s t ax l
-36	[PIT]	p ih t
-36	[PITY]	p ih dx iy
-36	[PLACE]	p l ey s
-36	[PLAN]	p l ae n
-36	[PLANE]	p l ey n
-36	[PLANET]	p l ae n ax t
-36	[PLANT]	p l ae n t
-36	[PLASTER]	p l ae s t er
-36	[PLASTIC]	p l ae s t ix k
-36	[PLATE]	p l ey t
-36	[PLAYER]	p l ey er
-36	[PLAYGROUND]	p l ey g r aw n d
-36	[PLAZA]	p l aa z ax
-36	[PLEASURE]	p l eh zh er
-36	[PLENUM]	p l eh n ax m
-36	[PLIGHT]	p l ay t
-36	[PLOT]	p l aa t
-36	[PLUG]	p l ah g
-36	[PNEUMONIA]	n uw m ow n y ax
-36	[POCKET]	p aa k ax t
-36	[POET]	p ow ax t
-36	[POETRY]	p ow ax t r iy
-36	[POINT]	p oy n t
-36	[POLICEMAN]	p ax l iy s m ax n
-36	[POLITICIAN]	p aa l ax t ih sh ax n
-36	[POLLEN]	p aa l ax n
-36	[POOL]	p uw l
-36	[POPE]	p ow p
-36	[POPULATION]	p aa p y ax l ey sh ax n
-36	[PORCH]	p ao r ch
-36	[PORRIDGE]	p ao r ax jh
-36	[PORT]	p ao r t
-36	[PORTFOLIO]	p ao r t f ow l iy ow
-36	[PORTION]	p ao r sh ax n
-36	[POSITION]	p ax z ih sh ax n
-36	[POSSESSION]	p ax z eh sh ax n
-36	[POSSIBILITY]	p aa s ax b ih l ax dx iy
-36	[POST]	p ow s t
-36	[POT]	p aa t
-36	[POTATO]	p ax t ey t ow
-36	[POTTAGE]	p aa dx ax jh
-36	[POUND]	p aw n d
-36	[POVERTY]	p aa v er dx iy
-36	[POWDER]	p aw dx er
-36	[POWER]	p aw er
-36	[PRACTICE]	p r ae k t ax s
-36	[PRAISE]	p r ey z
-36	[PRATTLE]	p r ae dx ax l
-36	[PRAYER]	p r eh r
-36	[PRECAUTION]	p r iy k ao sh ax n
-36	[PRECEDENT]	p r eh s ix d ax n t
-36	[PRECISION]	p r iy s ih zh ax n
-36	[PREDECESSOR]	p r eh dx ax s eh s er
-36	[PREDICTION]	p r iy d ih k sh ax n
-36	[PREFERENCE]	p r eh f er ax n s
-36	[PREJUDICE]	p r eh jh ax dx ix s
-36	[PREPARATION]	p r eh p er ey sh ax n
-36	[PREROGATIVE]	p r ix r aa g ax dx ix v
-36	[PRESENCE]	p r eh z ax n s
-36	[PRESENTATION]	p r eh z ax n t ey sh ax n
-36	[PRESERVATION]	p r eh z er v ey sh ax n
-36	[PRESIDENCY]	p r eh z ax d ax n s iy
-36	[PRESIDENT]	p r eh z ax d eh n t
-36	[PRESS]	p r eh s
-36	[PRESSURE]	p r eh sh er
-36	[PRESTIGE]	p r eh s t iy zh
-36	[PRESUMPTION]	p r ix z ah m p sh ax n
-36	[PREVENTION]	p r iy v eh n sh ax n
-36	[PREY]	p r ey
-36	[PRICE]	p r ay s
-36	[PRICING]	p r ay s ix ng
-36	[PRIDE]	p r ay d
-36	[PRIEST]	p r iy s t
-36	[PRINCIPLE]	p r ih n s ax p ax l
-36	[PRINT]	p r ih n t
-36	[PRINTING]	p r ih n t ix ng
-36	[PRIORITY]	p r ay ao r ax dx iy
-36	[PRISON]	p r ih z ax n
-36	[PRISONER]	p r ih z ax n er
-36	[PRIVACY]	p r ay v ax s iy
-36	[PRIVILEGE]	p r ih v l ax jh
-36	[PRIZE]	p r ay z
-36	[PROBABILITY]	p r aa b ax b ih l ax dx iy
-36	[PROBLEM]	p r aa b l ax m
-36	[PROCEDURE]	p r ax s iy jh er
-36	[PROCESS]	p r aa s eh s
-36	[PROCESSING]	p r aa s eh s ix ng
-36	[PROCESSION]	p r ax s eh sh ax n
-36	[PRODUCT]	p r aa dx ax k t
-36	[PRODUCTION]	p r ax d ah k sh ax n
-36	[PROFESSION]	p r ax f eh sh ax n
-36	[PROFESSOR]	p r ax f eh s er
-36	[PROFILE]	p r ow f ay l
-36	[PROFIT]	p r aa f ax t
-36	[PROGRAM]	p r ow g r ae m
-36	[PROGRAMMER]	p r ow g r ae m er
-36	[PROGRAMMING]	p r ow g r ae m ix ng
-36	[PROGRESS]	p r aa g r eh s
-36	[PROJECT]	p r aa jh eh k t
-36	[PROMINENCE]	p r aa m ax n ax n s
-36	[PROMISE]	p r aa m ax s
-36	[PROMOTER'S]	p r ax m ow dx er z
-36	[PRONUNCIATION]	p r ow n ah n s iy ey sh ax n
-36	[PROOF]	p r uw f
-36	[PROPENSITY]	p r ax p eh n s ix dx iy
-36	[PROPERTY]	p r aa p er dx iy
-36	[PROPHECY]	p r aa f ax s iy
-36	[PROPORTION]	p r ax p ao r sh ax n
-36	[PROPOSAL]	p r ax p ow z ax l
-36	[PROPOSITION]	p r aa p ax z ih sh ax n
-36	[PROPRIETY]	p r ax p r ay ax dx iy
-36	[PROSPECT]	p r aa s p eh k t
-36	[PROSPERITY]	p r aa s p eh r ax dx iy
-36	[PROTECTION]	p r ax t eh k sh ax n
-36	[PROTECTOR]	p r ax t eh k t er
-36	[PROTEGE]	p r ow dx ax zh ey
-36	[PROTOCOL]	p r ow dx ax k aa l
-36	[PROTOTYPE]	p r ow dx ax t ay p
-36	[PROVINCE]	p r aa v ax n s
-36	[PRUDENCE]	p r uw d ax n s
-36	[PSYCHOLOGY]	s ay k aa l ax jh iy
-36	[PUBLICATION]	p ah b l ix k ey sh ax n
-36	[PUDDING]	p uh dx ix ng
-36	[PUFF]	p ah f
-36	[PULPIT]	p uh l p ix t
-36	[PULSE]	p ah l s
-36	[PUNCH]	p ah n ch
-36	[PURCHASE]	p er ch ax s
-36	[PURPOSE]	p er p ax s
-36	[PURSE]	p er s
-36	[PURSUIT]	p er s uw t
-36	[QUALITY]	k w aa l ax dx iy
-36	[QUANTIFICATION]	k w aa n t ix f ax k ey sh ax n
-36	[QUANTITY]	k w aa n t ax dx iy
-36	[QUARTER]	k w ao r dx er
-36	[QUEEN]	k w iy n
-36	[QUESTION]	k w eh s ch ax n
-36	[QUOTE]	k w ow t
-36	[RABBIT]	r ae b ax t
-36	[RACE]	r ey s
-36	[RAFT]	r ae f t
-36	[RAG]	r ae g
-36	[RAGE]	r ey jh
-36	[RAIL]	r ey l
-36	[RAILROAD]	r ey l r ow d
-36	[RAILWAY]	r ey l w ey
-36	[RAIN]	r ey n
-36	[RAINBOW]	r ey n b ow
-36	[RAISER]	r ey z er
-36	[RANCH]	r ae n ch
-36	[RANGE]	r ey n jh
-36	[RANK]	r ae ng k
-36	[RASH]	r ae sh
-36	[RAT]	r ae t
-36	[RATIO]	r ey sh iy ow
-36	[RATIONALITY]	r ae sh ax n ae l ix dx iy
-36	[REACTION]	r iy ae k sh ax n
-36	[READER]	r iy dx er
-36	[READINESS]	r eh d iy n ax s
-36	[READING]	r eh dx ix ng
-36	[REAL-ESTATE]	r iy l ix s t ey t
-36	[REASON]	r iy z ax n
-36	[REASONING]	r iy z ax n ix ng
-36	[REBEL]	r eh b ax l
-36	[RECEPTION]	r ix s eh p sh ax n
-36	[RECESSION]	r ix s eh sh ax n
-36	[RECIPE]	r eh s ax p iy
-36	[RECKONING]	r eh k ax n ix ng
-36	[RECOGNITION]	r eh k ax g n ih sh ax n
-36	[RECOLLECTION]	r eh k ax l eh k sh ax n
-36	[RECOMMENDATION]	r eh k ax m ax n d ey sh ax n
-36	[RECORD]	r ax k ao r d
-36	[RECORDING]	r ax k ao r dx ix ng
-36	[RECOVERY]	r ix k ah v r iy
-36	[RECURRENCE]	r ix k er ax n s
-36	[REDUCTION]	r ax d ah k sh ax n
-36	[REFERENCE]	r eh f er ax n s
-36	[REFLECTION]	r ax f l eh k sh ax n
-36	[REFUGE]	r eh f y uw jh
-36	[REFUGEE]	r eh f y uw jh iy
-36	[REGARD]	r ax g aa r d
-36	[REGION]	r iy jh ax n
-36	[REGISTRATION]	r eh jh ix s t r ey sh ax n
-36	[REGRET]	r ax g r eh t
-36	[REGULARITY]	r eh g y ax l eh r ax dx iy
-36	[REGULATION]	r eh g y ax l ey sh ax n
-36	[REHABILITATION]	r iy hh ax b ih l ax t ey sh ax n
-36	[REIGN]	r ey n
-36	[RELATION]	r iy l ey sh ax n
-36	[RELATIONSHIP]	r iy l ey sh ax n sh ih p
-36	[RELEASE]	r iy l iy s
-36	[RELIANCE]	r ix l ay ax n s
-36	[RELIEF]	r ix l iy f
-36	[RELIGION]	r ix l ih jh ax n
-36	[REMAINDER]	r ix m ey n d er
-36	[REMARK]	r ix m aa r k
-36	[REMEDY]	r eh m ax dx iy
-36	[REMOVAL]	r ix m uw v ax l
-36	[RENAISSANCE]	r eh n ax s aa n s
-36	[RENDERING]	r eh n d er ix ng
-36	[RENDEZVOUS]	r aa n d ix v uw
-36	[RENEWAL]	r ix n uw ax l
-36	[RENOVATION]	r eh n ax v ey sh ax n
-36	[RENT]	r eh n t
-36	[REORGANIZATION]	r iy ao r g ax n ax z ey sh ax n
-36	[REPAIR]	r ix p eh r
-36	[REPEAT]	r ix p iy t
-36	[REPLICA]	r eh p l ix k ax
-36	[REPLY]	r ix p l ay
-36	[REPORT]	r iy p ao r t
-36	[REPORTER]	r ix p ao r dx er
-36	[REPRESENTATION]	r eh p r ax z eh n t ey sh ax n
-36	[REPRESENTATIVE]	r eh p r ax z eh n t ax dx ix v
-36	[REPUBLIC]	r iy p ah b l ax k
-36	[REPUTATION]	r eh p y ax t ey sh ax n
-36	[REQUEST]	r ix k w eh s t
-36	[RESCUE]	r eh s k y uw
-36	[RESEARCH]	r iy s er ch
-36	[RESEMBLANCE]	r ix z eh m b l ax n s
-36	[RESENTMENT]	r ix z eh n t m ax n t
-36	[RESERVATION]	r eh z er v ey sh ax n
-36	[RESERVE]	r ix z er v
-36	[RESIDENCE]	r eh z ix d ax n s
-36	[RESIDENT]	r eh z ix d ax n t
-36	[RESISTANCE]	r ix z ih s t ax n s
-36	[RESOLUTION]	r eh z ax l uw sh ax n
-36	[RESORT]	r ix z ao r t
-36	[RESOURCE]	r iy s ao r s
-36	[RESPECT]	r ix s p eh k t
-36	[RESPECTABILITY]	r iy s p eh k t ax b ih l ix dx iy
-36	[RESPONSE]	r ix s p aa n s
-36	[RESPONSIBILITY]	r iy s p aa n s ax b ih l ax dx iy
-36	[REST]	r eh s t
-36	[RESTAURANT]	r eh s t er aa n t
-36	[RESTORATION]	r eh s t er ey sh ax n
-36	[RESTRAINT]	r ix s t r ey n t
-36	[RESTRICTION]	r iy s t r ih k sh ax n
-36	[RESULT]	r ix z ah l t
-36	[RETENTION]	r iy t eh n sh ax n
-36	[RETIREMENT]	r iy t ay er m ax n t
-36	[RETREAT]	r iy t r iy t
-36	[RETRIEVAL]	r ix t r iy v ax l
-36	[RETURN]	r ix t er n
-36	[REVENUE]	r eh v ax n uw
-36	[REVIVAL]	r ix v ay v ax l
-36	[REVOLT]	r ix v ow l t
-36	[REVOLUTION]	r eh v ax l uw sh ax n
-36	[REWARD]	r ix w ao r d
-36	[RHYTHM]	r ih dh ax m
-36	[RICHNESS]	r ih ch n ax s
-36	[RIDE]	r ay d
-36	[RIDER]	r ay dx er
-36	[RIM]	r ih m
-36	[RING]	r ih ng
-36	[RIOT]	r ay ax t
-36	[RISE]	r ay z
-36	[RISK]	r ih s k
-36	[RIVER]	r ih v er
-36	[RIVERSIDE]	r ih v er s ay d
-36	[ROAD]	r ow d
-36	[ROADBED]	r ow d b eh d
-36	[ROAR]	r ao r
-36	[ROAST]	r ow s t
-36	[ROBBERY]	r aa b er iy
-36	[ROCK]	r aa k
-36	[ROD]	r aa d
-36	[ROLE]	r ow l
-36	[ROLL]	r ow l
-36	[ROMANCE]	r ow m ae n s
-36	[ROOF]	r uw f
-36	[ROOM]	r uw m
-36	[ROOT]	r uw t
-36	[ROPE]	r ow p
-36	[ROT]	r aa t
-36	[ROUND]	r aw n d
-36	[ROUTE]	r uw t
-36	[ROW]	r ow
-36	[ROYALTY]	r oy ax l t iy
-36	[RUB]	r ah b
-36	[RUBBER]	r ah b er
-36	[RUDDER]	r ah dx er
-36	[RUG]	r ah g
-36	[RULE]	r uw l
-36	[RUM]	r ah m
-36	[RUMOR]	r uw m er
-36	[RUSH]	r ah sh
-36	[SACK]	s ae k
-36	[SAFETY]	s ey f t iy
-36	[SAGE]	s ey jh
-36	[SAILING]	s ey l ix ng
-36	[SAKE]	s ey k
-36	[SALAD]	s ae l ax d
-36	[SALE]	s ey l
-36	[SALVATION]	s ae l v ey sh ax n
-36	[SAMPLE]	s ae m p ax l
-36	[SAND]	s ae n d
-36	[SATELLITE]	s ae dx ax l ay t
-36	[SATIRE]	s ae t ay er
-36	[SATISFACTION]	s ae dx ax s f ae k sh ax n
-36	[SAUCE]	s ao s
-36	[SCALE]	s k ey l
-36	[SCANDAL]	s k ae n d ax l
-36	[SCENARIO]	s ix n eh r iy ow
-36	[SCENE]	s iy n
-36	[SCENERY]	s iy n er iy
-36	[SCHEDULE]	s k eh jh uh l
-36	[SCHEME]	s k iy m
-36	[SCHOLAR]	s k aa l er
-36	[SCHOOL]	s k uw l
-36	[SCIENCE]	s ay ax n s
-36	[SCOOP]	s k uw p
-36	[SCOPE]	s k ow p
-36	[SCORE]	s k ao r
-36	[SCORN]	s k ao r n
-36	[SCOTCH]	s k aa ch
-36	[SCOURGE]	s k er jh
-36	[SCRAMBLE]	s k r ae m b ax l
-36	[SCRAPE]	s k r ey p
-36	[SCRATCH]	s k r ae ch
-36	[SCREAM]	s k r iy m
-36	[SCREEN]	s k r iy n
-36	[SCRIPT]	s k r ih p t
-36	[SCUFFLE]	s k ah f ax l
-36	[SEA]	s iy
-36	[SEAL]	s iy l
-36	[SEARCH]	s er ch
-36	[SEASON]	s iy z ax n
-36	[SEASON'S]	s iy z ax n z
-36	[SEAT]	s iy t
-36	[SEAWATER]	s iy w aa dx er
-36	[SECLUSION]	s ix k l uw zh ax n
-36	[SECRETARY]	s eh k r ax t eh r iy
-36	[SECTION]	s eh k sh ax n
-36	[SECURITY]	s ix k y uh r ax dx iy
-36	[SEED]	s iy d
-36	[SEER]	s iy r
-36	[SEGMENT]	s eh g m ax n t
-36	[SELECTION]	s ax l eh k sh ax n
-36	[SELF]	s eh l f
-36	[SENATOR]	s eh n ax dx er
-36	[SENIORITY]	s iy n y ao r ix dx iy
-36	[SENSATION]	s eh n s ey sh ax n
-36	[SENSE]	s eh n s
-36	[SENSIBILITY]	s eh n s ix b ih l ix dx iy
-36	[SENTENCE]	s eh n t ax n s
-36	[SENTIMENT]	s eh n t ax m ax n t
-36	[SEPARATION]	s eh p er ey sh ax n
-36	[SEQUEL]	s iy k w ax l
-36	[SEQUENCE]	s iy k w ax n s
-36	[SERGEANT]	s aa r jh ax n t
-36	[SERIES]	s ih r iy z
-36	[SERVER]	s er v er
-36	[SERVICE]	s er v ax s
-36	[SESSION]	s eh sh ax n
-36	[SETTLEMENT]	s eh dx ax l m ax n t
-36	[SEVERITY]	s ix v eh r ix dx iy
-36	[SEX]	s eh k s
-36	[SHADE]	sh ey d
-36	[SHADOW]	sh ae d ow
-36	[SHAME]	sh ey m
-36	[SHAPE]	sh ey p
-36	[SHARE]	sh eh r
-36	[SHEEP]	sh iy p
-36	[SHEET]	sh iy t
-36	[SHELL]	sh eh l
-36	[SHELTER]	sh eh l t er
-36	[SHIFT]	sh ih f t
-36	[SHINE]	sh ay n
-36	[SHINGLE]	sh ih ng g ax l
-36	[SHIP]	sh ih p
-36	[SHIRT]	sh er t
-36	[SHOCK]	sh aa k
-36	[SHOEMAKER]	sh uw m ey k er
-36	[SHOP]	sh aa p
-36	[SHOPPING]	sh aa p ix ng
-36	[SHOT]	sh aa t
-36	[SHOULDER]	sh ow l d er
-36	[SHOUT]	sh aw t
-36	[SHOVEL]	sh ah v ax l
-36	[SHOW]	sh ow
-36	[SIGH]	s ay
-36	[SIGHT]	s ay t
-36	[SIGN]	s ay n
-36	[SIGNATURE]	s ih g n ax ch er
-36	[SIGNIFICANCE]	s ax g n ih f ix k ax n s
-36	[SILENCE]	s ay l ax n s
-36	[SILVER]	s ih l v er
-36	[SIMPLICITY]	s ix m p l ih s ax dx iy
-36	[SIN]	s ih n
-36	[SINCERITY]	s ix n s eh r ax dx iy
-36	[SINGER]	s ih ng er
-36	[SISTER]	s ih s t er
-36	[SISTER'S]	s ih s t er z
-36	[SISTER-IN-LAW]	s ih s t er ix n l ao
-36	[SITUATION]	s ih ch uw ey sh ax n
-36	[SIZE]	s ay z
-36	[SKETCH]	s k eh ch
-36	[SKILL]	s k ih l
-36	[SKIN]	s k ih n
-36	[SKIPPER]	s k ih p er
-36	[SKIPPER'S]	s k ih p er z
-36	[SKIRT]	s k er t
-36	[SKY]	s k ay
-36	[SLAUGHTER]	s l ao dx er
-36	[SLAVE]	s l ey v
-36	[SLAVERY]	s l ey v er iy
-36	[SLICE]	s l ay s
-36	[SLIP]	s l ih p
-36	[SLOPE]	s l ow p
-36	[SMASH]	s m ae sh
-36	[SMELL]	s m eh l
-36	[SMILE]	s m ay l
-36	[SMOKE]	s m ow k
-36	[SMOKEHOUSE]	s m ow k hh aw s
-36	[SMOKING]	s m ow k ix ng
-36	[SNAIL]	s n ey l
-36	[SNAKE]	s n ey k
-36	[SNAP]	s n ae p
-36	[SNOW]	s n ow
-36	[SOCIOLOGY]	s ow s iy aa l ax jh iy
-36	[SODA]	s ow dx ax
-36	[SODIUM]	s ow dx iy ax m
-36	[SOFTWARE]	s ao f t w eh r
-36	[SOIL]	s oy l
-36	[SOLDIER]	s ow l jh er
-36	[SOLICITATION]	s ax l ih s ix t ey sh ax n
-36	[SOLICITOR'S]	s ax l ih s ax dx er z
-36	[SOLUTION]	s ax l uw sh ax n
-36	[SOMEBODY]	s ah m b aa dx iy
-36	[SOMEONE]	s ah m w ah n
-36	[SOMETHING]	s ah m th ix ng
-36	[SON]	s ah n
-36	[SORT]	s ao r t
-36	[SOUL]	s ow l
-36	[SOUNDNESS]	s aw n d n ax s
-36	[SOUP]	s uw p
-36	[SOURCE]	s ao r s
-36	[SOVEREIGNTY]	s aa v r ax n t iy
-36	[SPACE]	s p ey s
-36	[SPAN]	s p ae n
-36	[SPARKLE]	s p aa r k ax l
-36	[SPEAKER]	s p iy k er
-36	[SPECIALIST]	s p eh sh ax l ax s t
-36	[SPECIALTY]	s p eh sh ax l t iy
-36	[SPECTACLE]	s p eh k t ax k ax l
-36	[SPECTRUM]	s p eh k t r ax m
-36	[SPECULATION]	s p eh k y ax l ey sh ax n
-36	[SPEECH]	s p iy ch
-36	[SPEED]	s p iy d
-36	[SPENDING]	s p eh n d ix ng
-36	[SPHERE]	s f ih r
-36	[SPILL]	s p ih l
-36	[SPILLING]	s p ih l ix ng
-36	[SPINE]	s p ay n
-36	[SPIRE]	s p ay r
-36	[SPIRIT]	s p ih r ax t
-36	[SPITE]	s p ay t
-36	[SPLIT]	s p l ih t
-36	[SPLITTING]	s p l ih dx ix ng
-36	[SPOKESMAN]	s p ow k s m ax n
-36	[SPORT]	s p ao r t
-36	[SPOT]	s p aa t
-36	[SPOTLIGHT]	s p aa t l ay t
-36	[SPRAWL]	s p r ao l
-36	[SPRAY]	s p r ey
-36	[SPREAD]	s p r eh d
-36	[SPRING]	s p r ih ng
-36	[SPY]	s p ay
-36	[SQUEEZE]	s k w iy z
-36	[STABILITY]	s t ax b ih l ix dx iy
-36	[STAFF]	s t ae f
-36	[STAGE]	s t ey jh
-36	[STAKE]	s t ey k
-36	[STAMP]	s t ae m p
-36	[STANDPOINT]	s t ae n d p oy n t
-36	[STAR]	s t aa r
-36	[STARDOM]	s t aa r dx ax m
-36	[STARVATION]	s t aa r v ey sh ax n
-36	[STATE]	s t ey t
-36	[STATE'S]	s t ey t s
-36	[STATEMENT]	s t ey t m ax n t
-36	[STATION]	s t ey sh ax n
-36	[STATUE]	s t ae ch uw
-36	[STEADINESS]	s t eh d iy n ix s
-36	[STEAK]	s t ey k
-36	[STEAM]	s t iy m
-36	[STEP]	s t eh p
-36	[STERLING]	s t er l ix ng
-36	[STOCK]	s t aa k
-36	[STOMACH]	s t ah m ax k
-36	[STONE]	s t ow n
-36	[STORAGE]	s t ao r ax jh
-36	[STORE]	s t ao r
-36	[STORM]	s t ao r m
-36	[STORY]	s t ao r iy
-36	[STOVE]	s t ow v
-36	[STRAIN]	s t r ey n
-36	[STRANGENESS]	s t r ey n jh n ax s
-36	[STRANGER]	s t r ey n jh er
-36	[STRATEGY]	s t r ae dx ax jh iy
-36	[STREAK]	s t r iy k
-36	[STREAM]	s t r iy m
-36	[STRENGTH]	s t r eh ng k th
-36	[STRETCH]	s t r eh ch
-36	[STRIKE]	s t r ay k
-36	[STRING]	s t r ih ng
-36	[STROKE]	s t r ow k
-36	[STRONGHOLD]	s t r ao ng hh ow l d
-36	[STRUCTURE]	s t r ah k ch er
-36	[STRUGGLE]	s t r ah g ax l
-36	[STUDENT]	s t uw d ax n t
-36	[STUDIO]	s t uw dx iy ow
-36	[STUDY]	s t ah dx iy
-36	[STUFF]	s t ah f
-36	[STUMP]	s t ah m p
-36	[STYLE]	s t ay l
-36	[SUBSET]	s ah b s eh t
-36	[SUBSTANCE]	s ah b s t ax n s
-36	[SUBSTITUTE]	s ah b s t ax t uw t
-36	[SUBSTITUTION]	s ah b s t ix t uw sh ax n
-36	[SUBTLETY]	s ah dx ax l t iy
-36	[SUCCESS]	s ax k s eh s
-36	[SUCCESSION]	s ax k s eh sh ax n
-36	[SUCCESSOR]	s ax k s eh s er
-36	[SUGAR]	sh uh g er
-36	[SUGGESTION]	s ax g jh eh s ch ax n
-36	[SUICIDE]	s uw ax s ay d
-36	[SUIT]	s uw t
-36	[SULTAN]	s ah l t ax n
-36	[SUM]	s ah m
-36	[SUMMARY]	s ah m er iy
-36	[SUMMER]	s ah m er
-36	[SUMMIT]	s ah m ax t
-36	[SUN]	s ah n
-36	[SUN'S]	s ah n z
-36	[SUNBURN]	s ah n b er n
-36	[SUNLIGHT]	s ah n l ay t
-36	[SUNSHINE]	s ah n sh ay n
-36	[SUPERIORITY]	s uw p ix r iy ao r ix dx iy
-36	[SUPPER]	s ah p er
-36	[SUPPLY]	s ax p l ay
-36	[SUPPORT]	s ax p ao r t
-36	[SURF]	s er f
-36	[SURFACE]	s er f ax s
-36	[SURGEON]	s er jh ax n
-36	[SURGERY]	s er jh er iy
-36	[SURPRISE]	s er p r ay z
-36	[SURRENDER]	s er eh n d er
-36	[SURVEILLANCE]	s er v ey l ax n s
-36	[SURVEY]	s er v ey
-36	[SURVIVAL]	s er v ay v ax l
-36	[SUSPENSE]	s ax s p eh n s
-36	[SUSPICION]	s ax s p ih sh ax n
-36	[SWEAT]	s w eh t
-36	[SWEATER]	s w eh dx er
-36	[SWEEP]	s w iy p
-36	[SWEETNESS]	s w iy t n ax s
-36	[SWIMMING]	s w ih m ix ng
-36	[SWING]	s w ih ng
-36	[SWIRL]	s w er l
-36	[SWITCH]	s w ih ch
-36	[SWOOP]	s w uw p
-36	[SWORD]	s ao r d
-36	[SYMBOL]	s ih m b ax l
-36	[SYMPATHY]	s ih m p ax th iy
-36	[SYNTHESIS]	s ih n th ax s ax s
-36	[SYSTEM]	s ih s t ax m
-36	[T]	t iy
-36	[TABLE]	t ey b ax l
-36	[TABLE'S]	t ey b ax l z
-36	[TAG]	t ae g
-36	[TAIL]	t ey l
-36	[TALE]	t ey l
-36	[TALENT]	t ae l ax n t
-36	[TANK]	t ae ng k
-36	[TAPE]	t ey p
-36	[TAPESTRY]	t ae p ax s t r iy
-36	[TAR]	t aa r
-36	[TARGET]	t aa r g ax t
-36	[TASK]	t ae s k
-36	[TASTE]	t ey s t
-36	[TAXATION]	t ae k s ey sh ax n
-36	[TEA]	t iy
-36	[TEACHER]	t iy ch er
-36	[TEACHING]	t iy ch ix ng
-36	[TEAM]	t iy m
-36	[TEE]	t iy
-36	[TELEGRAPH]	t eh l ax g r ae f
-36	[TELEPHONE]	t eh l ax f ow n
-36	[TELESCOPE]	t eh l ax s k ow p
-36	[TEMPERAMENT]	t eh m p r ax m ax n t
-36	[TEMPERATURE]	t eh m p r ax ch er
-36	[TEMPTATION]	t eh m t ey sh ax n
-36	[TENANT]	t eh n ax n t
-36	[TENDENCY]	t eh n d ax n s iy
-36	[TENDER]	t eh n d er
-36	[TENDERNESS]	t eh n d er n ax s
-36	[TENNIS]	t eh n ax s
-36	[TENSION]	t eh n sh ax n
-36	[TENT]	t eh n t
-36	[TENTH]	t eh n th
-36	[TENURE]	t eh n y er
-36	[TERM]	t er m
-36	[TERMINAL]	t er m ax n ax l
-36	[TERRITORY]	t eh r ix t ao r iy
-36	[TEST]	t eh s t
-36	[TESTIMONY]	t eh s t ax m ow n iy
-36	[TEXT]	t eh k s t
-36	[TEXTURE]	t eh k s ch er
-36	[THAW]	th ao
-36	[THEATER]	th iy ax dx er
-36	[THEOLOGY]	th iy aa l ax jh iy
-36	[THEORIST]	th iy er ix s t
-36	[THEORY]	th ih r iy
-36	[THERAPY]	th eh r ax p iy
-36	[THESIS]	th iy s ax s
-36	[THICKNESS]	th ih k n ax s
-36	[THIEF]	th iy f
-36	[THING]	th ih ng
-36	[THIRST]	th er s t
-36	[THREAD]	th r eh d
-36	[THRESHOLD]	th r eh sh ow l d
-36	[THRILL]	th r ih l
-36	[THRUST]	th r ah s t
-36	[THUMB]	th ah m
-36	[TICKET]	t ih k ax t
-36	[TIDE]	t ay d
-36	[TIE]	t ay
-36	[TIGER]	t ay g er
-36	[TILT]	t ih l t
-36	[TIMBER]	t ih m b er
-36	[TIME]	t ay m
-36	[TIMIDITY]	t ax m ih dx ax dx iy
-36	[TIN]	t ih n
-36	[TIP]	t ih p
-36	[TIRE]	t ay er
-36	[TITLE]	t ay dx ax l
-36	[TOAD]	t ow d
-36	[TOAD'S]	t ow d z
-36	[TOAST]	t ow s t
-36	[TOBACCO]	t ax b ae k ow
-36	[TODAY]	t ax d ey
-36	[TODAY'S]	t ax d ey z
-36	[TOE]	t ow
-36	[TOILET]	t oy l ax t
-36	[TOMB]	t uw m
-36	[TOMORROW]	t ax m aa r ow
-36	[TONE]	t ow n
-36	[TONGUE]	t ah ng
-36	[TOOL]	t uw l
-36	[TOOTH]	t uw th
-36	[TOPIC]	t aa p ix k
-36	[TOUCH]	t ah ch
-36	[TOUGHNESS]	t ah f n ax s
-36	[TOUR]	t uh r
-36	[TOURIST'S]	t uh r ax s t s
-36	[TOURNAMENT]	t uh r n ax m ax n t
-36	[TOWER]	t aw er
-36	[TOWN]	t aw n
-36	[TOWN'S]	t aw n z
-36	[TOY]	t oy
-36	[TRACK]	t r ae k
-36	[TRADE]	t r ey d
-36	[TRADING]	t r ey dx ix ng
-36	[TRADITION]	t r ax d ih sh ax n
-36	[TRAFFIC]	t r ae f ix k
-36	[TRAGEDY]	t r ae jh ax dx iy
-36	[TRAIL]	t r ey l
-36	[TRAIN]	t r ey n
-36	[TRAINING]	t r ey n ix ng
-36	[TRAITOR]	t r ey dx er
-36	[TRANSACTION]	t r ae n z ae k sh ax n
-36	[TRANSIT]	t r ae n z ax t
-36	[TRANSITION]	t r ae n z ih sh ax n
-36	[TRANSLATION]	t r ae n z l ey sh ax n
-36	[TRANSLATOR]	t r ae n s l ey dx er
-36	[TRANSMISSION]	t r ae n s m ih sh ax n
-36	[TRANSMITTER]	t r ae n s m ih dx er
-36	[TRANSPORT]	t r ae n s p ao r t
-36	[TRANSPORTATION]	t r ae n s p er t ey sh ax n
-36	[TRAP]	t r ae p
-36	[TRASH]	t r ae sh
-36	[TRAVEL]	t r ae v ax l
-36	[TRAVELER]	t r ae v ax l er
-36	[TREASURE]	t r eh zh er
-36	[TREATMENT]	t r iy t m ax n t
-36	[TREATY]	t r iy dx iy
-36	[TREE]	t r iy
-36	[TRIAL]	t r ay ax l
-36	[TRIBE]	t r ay b
-36	[TRICK]	t r ih k
-36	[TRIP]	t r ih p
-36	[TRIUMPH]	t r ay ax m f
-36	[TROOP]	t r uw p
-36	[TROUBLE]	t r ah b ax l
-36	[TROUGH]	t r ao f
-36	[TRUNK]	t r ah ng k
-36	[TRUTH]	t r uw th
-36	[TUMBLE]	t ah m b ax l
-36	[TUMULT]	t uw m ax l t
-36	[TUNE]	t uw n
-36	[TUNNEL]	t ah n ax l
-36	[TURF]	t er f
-36	[TURKEY]	t er k iy
-36	[TV]	t iy v iy
-36	[TWIST]	t w ih s t
-36	[TYPE]	t ay p
-36	[UNCLE]	ah ng k ax l
-36	[UNDERSTANDING]	ah n d er s t ae n d ix ng
-36	[UNIFORMITY]	y uw n ax f ao r m ax dx iy
-36	[UNION]	y uw n y ax n
-36	[UNIT]	y uw n ax t
-36	[UNITY]	y uw n ax dx iy
-36	[UNIVERSE]	y uw n ax v er s
-36	[UNIVERSITY]	y uw n ax v er s ax dx iy
-36	[URANIUM]	y er ey n iy ax m
-36	[URINE]	y er ax n
-36	[USAGE]	y uw s ax jh
-36	[USE]	y uw s
-36	[USEFULNESS]	y uw s f ax l n ax s
-36	[USER]	y uw z er
-36	[UTILITY]	y uw t ih l ax dx iy
-36	[UTILIZATION]	y uw dx ax l ax z ey sh ax n
-36	[VACATION]	v ey k ey sh ax n
-36	[VACUUM]	v ae k y uw m
-36	[VAGABOND]	v ae g ax b aa n d
-36	[VALIDITY]	v ax l ih dx ax dx iy
-36	[VALUE]	v ae l y uw
-36	[VANGUARD]	v ae n g aa r d
-36	[VANTAGE]	v ae n t ax jh
-36	[VARIATION]	v eh r iy ey sh ax n
-36	[VARIETY]	v er ay ax dx iy
-36	[VEAL]	v iy l
-36	[VECTOR]	v eh k t er
-36	[VEGETABLE]	v eh jh t ax b ax l
-36	[VEHICLE]	v iy hh ix k ax l
-36	[VEIN]	v ey n
-36	[VELOCITY]	v ax l aa s ax dx iy
-36	[VELVET]	v eh l v ax t
-36	[VENGEANCE]	v eh n jh ax n s
-36	[VENTILATION]	v eh n t ax l ey sh ax n
-36	[VENTURE]	v eh n ch er
-36	[VERDICT]	v er dx ix k t
-36	[VERGE]	v er jh
-36	[VERIFICATION]	v eh r ax f ax k ey sh ax n
-36	[VERSION]	v er zh ax n
-36	[VESSEL]	v eh s ax l
-36	[VET]	v eh t
-36	[VET'S]	v eh t s
-36	[VICE]	v ay s
-36	[VICTIM]	v ih k t ax m
-36	[VICTOR]	v ih k t er
-36	[VICTORY]	v ih k t er iy
-36	[VIDEOTAPE]	v ih dx iy ow t ey p
-36	[VIEW]	v y uw
-36	[VIGOR]	v ih g er
-36	[VILLAGE]	v ih l ax jh
-36	[VIOLATION]	v ay ax l ey sh ax n
-36	[VIOLENCE]	v ay ax l ax n s
-36	[VIRILITY]	v er ih l ax dx iy
-36	[VIRTUE]	v er ch uw
-36	[VISION]	v ih zh ax n
-36	[VISIT]	v ih z ax t
-36	[VISITOR]	v ih z ax dx er
-36	[VITALITY]	v ay t ae l ax dx iy
-36	[VOICE]	v oy s
-36	[VOLCANO]	v aa l k ey n ow
-36	[VOLUME]	v aa l y uw m
-36	[VOLUNTEER]	v aa l ax n t ih r
-36	[VORTEX]	v ao r dx eh k s
-36	[VOTE]	v ow t
-36	[VOTING]	v ow dx ix ng
-36	[VOYAGE]	v oy ax jh
-36	[WAGON]	w ae g ax n
-36	[WAKE]	w ey k
-36	[WAR]	w ao r
-36	[WARDROBE]	w ao r d r ow b
-36	[WARFARE]	w ao r f eh r
-36	[WARRIOR]	w ao r iy er
-36	[WASH]	w aa sh
-36	[WASTE]	w ey s t
-36	[WATER]	w ao dx er
-36	[WATER'S]	w ao dx er z
-36	[WATERING]	w ao dx er ix ng
-36	[WATT]	w aa t
-36	[WAY]	w ey
-36	[WEAKNESS]	w iy k n ax s
-36	[WEALTH]	w eh l th
-36	[WEAPON]	w eh p ax n
-36	[WEATHER]	w eh dh er
-36	[WEB]	w eh b
-36	[WEDDING]	w eh dx ix ng
-36	[WEED]	w iy d
-36	[WEEK]	w iy k
-36	[WEEKEND]	w iy k eh n d
-36	[WEIGHT]	w ey t
-36	[WELFARE]	w eh l f eh r
-36	[WHALE]	w ey l
-36	[WHALE'S]	w ey l z
-36	[WHEAT]	w iy t
-36	[WHEEL]	w iy l
-36	[WHIM]	w ih m
-36	[WHIP]	w ih p
-36	[WHISKEY]	w ih s k iy
-36	[WHISPER]	w ih s p er
-36	[WHITEWASH]	w ay t w aa sh
-36	[WHIZ]	w ih z
-36	[WICKER]	w ih k er
-36	[WIDOW]	w ih dx ow
-36	[WIFE]	w ay f
-36	[WIFE'S]	w ay f s
-36	[WIGGLE]	w ih g ax l
-36	[WILDERNESS]	w ih l d er n ax s
-36	[WILLINGNESS]	w ih l ix ng n ax s
-36	[WIND]	w ay n d
-36	[WIND'S]	w ih n d z
-36	[WINDOW]	w ih n d ow
-36	[WINE]	w ay n
-36	[WING]	w ih ng
-36	[WINNER]	w ih n er
-36	[WINTER]	w ih n t er
-36	[WIRE]	w ay er
-36	[WISDOM]	w ih z d ax m
-36	[WIT]	w ih t
-36	[WITCHCRAFT]	w ih ch k r ae f t
-36	[WITHHOLDING]	w ix th hh ow l d ix ng
-36	[WITNESS]	w ih t n ax s
-36	[WOMAN]	w uh m ax n
-36	[WOMAN'S]	w uh m ax n z
-36	[WOOD]	w uh d
-36	[WOOL]	w uh l
-36	[WORD]	w er d
-36	[WORLD]	w er l d
-36	[WORLD'S]	w er l d z
-36	[WORM]	w er m
-36	[WORSHIP]	w er sh ax p
-36	[WRAP]	r ae p
-36	[WRECK]	r eh k
-36	[WRINKLE]	r ih ng k ax l
-36	[WRIST]	r ih s t
-36	[WRIT]	r ih t
-36	[WRITER]	r ay dx er
-36	[Y]	w ay
-36	[YACHT]	y aa t
-36	[YACHTING]	y aa dx ix ng
-36	[YARD]	y aa r d
-36	[YEAR]	y ih r
-36	[YEAR'S]	y ih r z
-36	[YEARNING]	y er n ix ng
-36	[YESTERDAY]	y eh s t er d ey
-36	[YOUTH]	y uw th
-36	[ZIP]	z ih p
-36	[ZONE]	z ow n
-36	[ZOO]	z uw
-37	[ABETTING]	ax b eh dx ix ng
-37	[ABOUNDING]	ax b aw n d ix ng
-37	[ACCOMPANYING]	ax k ah m p ax n iy ix ng
-37	[ACCORDING]	ax k ao r dx ix ng
-37	[ACHING]	ey k ix ng
-37	[ACQUIRING]	ax k w ay r ix ng
-37	[ACTING]	ae k t ix ng
-37	[ADDING]	ae dx ix ng
-37	[ADDRESSING]	ax d r eh s ix ng
-37	[ADVANCING]	ax d v ae n s ix ng
-37	[ADVISING]	ae d v ay z ix ng
-37	[AFFECTING]	ax f eh k t ix ng
-37	[AIDING]	ey dx ix ng
-37	[AIMING]	ey m ix ng
-37	[ALLOWING]	ax l aw ix ng
-37	[ALTERING]	ao l t er ix ng
-37	[ALTERNATING]	ao l t er n ey dx ix ng
-37	[APPEARING]	ax p ih r ix ng
-37	[APPROACHING]	ax p r ow ch ix ng
-37	[ARGUING]	aa r g y uw ix ng
-37	[ARRIVING]	er ay v ix ng
-37	[ASCENDING]	ax s eh n d ix ng
-37	[ASCRIBING]	ax s k r ay b ix ng
-37	[ASKING]	ae s k ix ng
-37	[ASSISTING]	ax s ih s t ix ng
-37	[ASSUMING]	ax s uw m ix ng
-37	[ASSURING]	ax sh uh r ix ng
-37	[ATTACHING]	ax t ae ch ix ng
-37	[ATTACKING]	ax t ae k ix ng
-37	[ATTEMPTING]	ax t eh m p t ix ng
-37	[ATTENDING]	ax t eh n d ix ng
-37	[AVOIDING]	ax v oy dx ix ng
-37	[AWAITING]	ax w ey dx ix ng
-37	[BACKING]	b ae k ix ng
-37	[BALANCING]	b ae l ax n s ix ng
-37	[BARKING]	b aa r k ix ng
-37	[BARRING]	b aa r ix ng
-37	[BEARING]	b eh r ix ng
-37	[BEATING]	b iy dx ix ng
-37	[BECOMING]	b ix k ah m ix ng
-37	[BEGGING]	b eh g ix ng
-37	[BEGINNING]	b ix g ih n ix ng
-37	[BEHAVING]	b ix hh ey v ix ng
-37	[BEING]	b iy ix ng
-37	[BELIEVING]	b ix l iy v ix ng
-37	[BELONGING]	b ix l ao ng ix ng
-37	[BENDING]	b eh n d ix ng
-37	[BEWITCHING]	b ix w ih ch ix ng
-37	[BITING]	b ay dx ix ng
-37	[BLAZING]	b l ey z ix ng
-37	[BLEEDING]	b l iy dx ix ng
-37	[BLOOMING]	b l uw m ix ng
-37	[BOATING]	b ow dx ix ng
-37	[BOILING]	b oy l ix ng
-37	[BOTHERING]	b aa dh er ix ng
-37	[BOUNDING]	b aw n d ix ng
-37	[BRACING]	b r ey s ix ng
-37	[BRAVING]	b r ey v ix ng
-37	[BREAKING]	b r ey k ix ng
-37	[BREATHING]	b r iy dh ix ng
-37	[BREEDING]	b r iy dx ix ng
-37	[BRIGHTENING]	b r ay t ax n ix ng
-37	[BRINGING]	b r ih ng ix ng
-37	[BROADENING]	b r ao d ax n ix ng
-37	[BUDDING]	b ah dx ix ng
-37	[BULGING]	b ah l jh ix ng
-37	[BURNING]	b er n ix ng
-37	[BUYING]	b ay ix ng
-37	[CALCULATING]	k ae l k y ax l ey dx ix ng
-37	[CALLING]	k ao l ix ng
-37	[CAPTURING]	k ae p ch er ix ng
-37	[CARING]	k eh r ix ng
-37	[CARRYING]	k ae r iy ix ng
-37	[CASTING]	k ae s t ix ng
-37	[CATCHING]	k ae ch ix ng
-37	[CAUSING]	k aa z ix ng
-37	[CHANGING]	ch ey n jh ix ng
-37	[CHARGING]	ch aa r jh ix ng
-37	[CHASING]	ch ey s ix ng
-37	[CHATTING]	ch ae dx ix ng
-37	[CHECKING]	ch eh k ix ng
-37	[CHEERING]	ch ih r ix ng
-37	[CHEWING]	ch uw ix ng
-37	[CHOKING]	ch ow k ix ng
-37	[CHOOSING]	ch uw z ix ng
-37	[CIRCULATING]	s er k y ax l ey dx ix ng
-37	[CLAIMING]	k l ey m ix ng
-37	[CLEANING]	k l iy n ix ng
-37	[CLEARING]	k l ih r ix ng
-37	[CLOSING]	k l ow z ix ng
-37	[CLUTCHING]	k l ah ch ix ng
-37	[COMBINING]	k ax m b ay n ix ng
-37	[COMING]	k ah m ix ng
-37	[COMMITTING]	k ax m ih dx ix ng
-37	[COMPARING]	k ax m p eh r ix ng
-37	[COMPETING]	k ax m p iy dx ix ng
-37	[COMPILING]	k ax m p ay l ix ng
-37	[CONCERNING]	k ax n s er n ix ng
-37	[CONDUCTING]	k ax n d ah k t ix ng
-37	[CONFERRING]	k ax n f er ix ng
-37	[CONNECTING]	k ax n eh k t ix ng
-37	[CONSIDERING]	k ax n s ih dx er ix ng
-37	[CONSISTING]	k ax n s ih s t ix ng
-37	[CONSULTING]	k ax n s ah l t ix ng
-37	[CONTAINING]	k ax n t ey n ix ng
-37	[CONTEMPLATING]	k aa n t ax m p l ey dx ix ng
-37	[CONTENDING]	k ax n t eh n d ix ng
-37	[CONTRADICTING]	k aa n t r ax d ih k t ix ng
-37	[CONTRASTING]	k ax n t r ae s t ix ng
-37	[CONTROLLING]	k ax n t r ow l ix ng
-37	[COOLING]	k uw l ix ng
-37	[COOPERATING]	k ow aa p er ey dx ix ng
-37	[COORDINATING]	k ow ao r d ax n ey dx ix ng
-37	[COUGHING]	k aa f ix ng
-37	[COUNTING]	k aw n t ix ng
-37	[COVERING]	k ah v er ix ng
-37	[CRACKING]	k r ae k ix ng
-37	[CREATING]	k r iy ey dx ix ng
-37	[CREEPING]	k r iy p ix ng
-37	[CROSSING]	k r ao s ix ng
-37	[CRUISING]	k r uw z ix ng
-37	[CRUMBLING]	k r ah m b ax l ix ng
-37	[CRUSHING]	k r ah sh ix ng
-37	[CULMINATING]	k ah l m ax n ey dx ix ng
-37	[CURING]	k y uh r ix ng
-37	[CUTTING]	k ah dx ix ng
-37	[DANCING]	d ae n s ix ng
-37	[DAWNING]	d ao n ix ng
-37	[DEALING]	d iy l ix ng
-37	[DECIDING]	d ax s ay dx ix ng
-37	[DECLARING]	d ix k l eh r ix ng
-37	[DECLINING]	d ix k l ay n ix ng
-37	[DECREASING]	d ix k r iy s ix ng
-37	[DEEPENING]	d iy p ax n ix ng
-37	[DEMANDING]	d ix m ae n d ix ng
-37	[DENYING]	d ix n ay ix ng
-37	[DEPARTING]	d ix p aa r dx ix ng
-37	[DEPENDING]	d ix p eh n d ix ng
-37	[DEPRIVING]	d ix p r ay v ix ng
-37	[DESCENDING]	d ix s eh n d ix ng
-37	[DESTROYING]	d ix s t r oy ix ng
-37	[DETERMINING]	d ix t er m ax n ix ng
-37	[DIALING]	d ay ax l ix ng
-37	[DIFFERING]	d ih f er ix ng
-37	[DIGGING]	d ih g ix ng
-37	[DINING]	d ay n ix ng
-37	[DIPPING]	d ih p ix ng
-37	[DISCUSSING]	d ix s k ah s ix ng
-37	[DISINTEGRATING]	d ix s ih n t ax g r ey dx ix ng
-37	[DISSOLVING]	d ix z ao l v ix ng
-37	[DIVIDING]	d ix v ay dx ix ng
-37	[DOING]	d uw ix ng
-37	[DOUBLING]	d ah b ax l ix ng
-37	[DRAGGING]	d r ae g ix ng
-37	[DRAINING]	d r ey n ix ng
-37	[DRAWING]	d r ao ix ng
-37	[DREAMING]	d r iy m ix ng
-37	[DRESSING]	d r eh s ix ng
-37	[DRIFTING]	d r ih f t ix ng
-37	[DRIPPING]	d r ih p ix ng
-37	[DRIVING]	d r ay v ix ng
-37	[DROPPING]	d r aa p ix ng
-37	[DRUMMING]	d r ah m ix ng
-37	[DUSTING]	d ah s t ix ng
-37	[DWINDLING]	d w ih n d ax l ix ng
-37	[DYING]	d ay ix ng
-37	[EARNING]	er n ix ng
-37	[EATING]	iy dx ix ng
-37	[EMERGING]	ix m er jh ix ng
-37	[EMPLOYING]	eh m p l oy ix ng
-37	[ENABLING]	eh n ey b ax l ix ng
-37	[ENCOURAGING]	eh n k er ix jh ix ng
-37	[ENCROACHING]	ix n k r ow ch ix ng
-37	[ENDING]	eh n d ix ng
-37	[ENDURING]	eh n d y uh r ix ng
-37	[ENJOYING]	eh n jh oy ix ng
-37	[ENTERING]	eh n t er ix ng
-37	[ENTICING]	eh n t ay s ix ng
-37	[ESCAPING]	ix s k ey p ix ng
-37	[ESTABLISHING]	ix s t ae b l ix sh ix ng
-37	[ESTIMATING]	eh s t ax m ey dx ix ng
-37	[EXAMINING]	ix g z ae m ix n ix ng
-37	[EXCEEDING]	ix k s iy dx ix ng
-37	[EXERTING]	ix g z er dx ix ng
-37	[EXISTING]	ix g z ih s t ix ng
-37	[EXPECTING]	ix k s p eh k t ix ng
-37	[EXPERIENCING]	ix k s p ih r iy ax n s ix ng
-37	[EXPIRING]	ix k s p ay r ix ng
-37	[EXPLODING]	ix k s p l ow dx ix ng
-37	[EXPLORING]	ix k s p l ao r ix ng
-37	[EXTENDING]	ix k s t eh n d ix ng
-37	[FACILITATING]	f ax s ih l ax t ey dx ix ng
-37	[FACING]	f ey s ix ng
-37	[FAILING]	f ey l ix ng
-37	[FALLING]	f aa l ix ng
-37	[FEARING]	f ih r ix ng
-37	[FEEDING]	f iy dx ix ng
-37	[FEELING]	f iy l ix ng
-37	[FIGHTING]	f ay dx ix ng
-37	[FIGURING]	f ih g y er ix ng
-37	[FILLING]	f ih l ix ng
-37	[FINDING]	f ay n d ix ng
-37	[FINGERING]	f ih ng g er ix ng
-37	[FIXING]	f ih k s ix ng
-37	[FLASHING]	f l ae sh ix ng
-37	[FLINGING]	f l ih ng ix ng
-37	[FLIPPING]	f l ih p ix ng
-37	[FLOATING]	f l ow dx ix ng
-37	[FLOURISHING]	f l er ix sh ix ng
-37	[FLOWING]	f l ow ix ng
-37	[FLYING]	f l ay ix ng
-37	[FOAMING]	f ow m ix ng
-37	[FOLLOWING]	f aa l ow ix ng
-37	[FOOTING]	f uh dx ix ng
-37	[FORBIDDING]	f er b ih dx ix ng
-37	[FORGETTING]	f er g eh dx ix ng
-37	[FORMING]	f ao r m ix ng
-37	[FOUNDING]	f aw n d ix ng
-37	[FRETTING]	f r eh dx ix ng
-37	[GAINING]	g ey n ix ng
-37	[GATHERING]	g ae dh er ix ng
-37	[GENERATING]	jh eh n er ey dx ix ng
-37	[GETTING]	g eh dx ix ng
-37	[GIVING]	g ih v ix ng
-37	[GOING]	g ow ix ng
-37	[GRATIFYING]	g r ae dx ax f ay ix ng
-37	[GREETING]	g r iy dx ix ng
-37	[GROWING]	g r ow ix ng
-37	[GUARDING]	g aa r dx ix ng
-37	[GUESSING]	g eh s ix ng
-37	[GUIDING]	g ay dx ix ng
-37	[HALTING]	hh ao l t ix ng
-37	[HAMMERING]	hh ae m er ix ng
-37	[HANDLING]	hh ae n d l ix ng
-37	[HANGING]	hh ae ng ix ng
-37	[HAPPENING]	hh ae p ax n ix ng
-37	[HAVING]	hh ae v ix ng
-37	[HEADING]	hh eh dx ix ng
-37	[HELPING]	hh eh l p ix ng
-37	[HIDING]	hh ay dx ix ng
-37	[HITTING]	hh ih dx ix ng
-37	[HOARDING]	hh ao r dx ix ng
-37	[HOLDING]	hh ow l d ix ng
-37	[HONORING]	aa n er ix ng
-37	[HOPING]	hh ow p ix ng
-37	[IGNORING]	ix g n ao r ix ng
-37	[IMAGINING]	ix m ae jh ax n ix ng
-37	[IMPLYING]	ix m p l ay ix ng
-37	[IMPROVING]	ix m p r uw v ix ng
-37	[INCLUDING]	ix n k l uw dx ix ng
-37	[INCORPORATING]	ix n k ao r p er ey dx ix ng
-37	[INCREASING]	ix n k r iy s ix ng
-37	[INDICATING]	ih n d ax k ey dx ix ng
-37	[INDULGING]	ix n d ah l jh ix ng
-37	[INJURING]	ih n jh er ix ng
-37	[INQUIRING]	ix n k w ay er ix ng
-37	[INSINUATING]	ix n s ih n y uw ey dx ix ng
-37	[INTEGRATING]	ih n t ax g r ey dx ix ng
-37	[INTERRUPTING]	ih n t er ah p t ix ng
-37	[INTRODUCING]	ih n t r ax d uw s ix ng
-37	[INVESTING]	ix n v eh s t ix ng
-37	[INVITING]	ix n v ay dx ix ng
-37	[JOINING]	jh oy n ix ng
-37	[JUDGING]	jh ah jh ix ng
-37	[JUMPING]	jh ah m p ix ng
-37	[JUTTING]	jh ah dx ix ng
-37	[KEEPING]	k iy p ix ng
-37	[KICKING]	k ih k ix ng
-37	[KIDDING]	k ih dx ix ng
-37	[KILLING]	k ih l ix ng
-37	[KNOCKING]	n aa k ix ng
-37	[KNOWING]	n ow ix ng
-37	[LAGGING]	l ae g ix ng
-37	[LAUGHING]	l ae f ix ng
-37	[LEADING]	l iy dx ix ng
-37	[LEANING]	l iy n ix ng
-37	[LEAPING]	l iy p ix ng
-37	[LEARNING]	l er n ix ng
-37	[LEAVING]	l iy v ix ng
-37	[LESSENING]	l eh s ax n ix ng
-37	[LETTING]	l eh dx ix ng
-37	[LICKING]	l ih k ix ng
-37	[LIFTING]	l ih f t ix ng
-37	[LIGHTENING]	l ay t ax n ix ng
-37	[LIMITING]	l ih m ax dx ix ng
-37	[LISTENING]	l ih s ax n ix ng
-37	[LIVING]	l ih v ix ng
-37	[LOOKING]	l uh k ix ng
-37	[LOSING]	l uw z ix ng
-37	[LYING]	l ay ix ng
-37	[MAINTAINING]	m ey n t ey n ix ng
-37	[MAKING]	m ey k ix ng
-37	[MANAGING]	m ae n ax jh ix ng
-37	[MANNING]	m ae n ix ng
-37	[MARKING]	m aa r k ix ng
-37	[MATCHING]	m ae ch ix ng
-37	[MEANING]	m iy n ix ng
-37	[MEASURING]	m eh zh er ix ng
-37	[MEDDLING]	m eh dx ax l ix ng
-37	[MELTING]	m eh l t ix ng
-37	[MENTIONING]	m eh n sh ax n ix ng
-37	[MILLING]	m ih l ix ng
-37	[MISSING]	m ih s ix ng
-37	[MISUNDERSTANDING]	m ih s ax n d er s t ae n d ix ng
-37	[MIXING]	m ih k s ix ng
-37	[MOCKING]	m aa k ix ng
-37	[MODELING]	m aa dx ax l ix ng
-37	[MODIFYING]	m aa dx ax f ay ix ng
-37	[MORTIFYING]	m ao r dx ix f ay ix ng
-37	[MOVING]	m uw v ix ng
-37	[MURDERING]	m er dx er ix ng
-37	[NEEDING]	n iy dx ix ng
-37	[NEIGHBORING]	n ey b er ix ng
-37	[NETTING]	n eh dx ix ng
-37	[NIBBLING]	n ih b ax l ix ng
-37	[OBSERVING]	ax b z er v ix ng
-37	[OBTAINING]	ax b t ey n ix ng
-37	[OCCUPYING]	aa k y ax p ay ix ng
-37	[OCCURRING]	ax k er ix ng
-37	[OOZING]	uw z ix ng
-37	[OPENING]	ow p ax n ix ng
-37	[OPERATING]	aa p er ey dx ix ng
-37	[OPPOSING]	ax p ow z ix ng
-37	[ORDERING]	ao r dx er ix ng
-37	[ORIGINATING]	er ih jh ax n ey dx ix ng
-37	[OVERFLOWING]	ow v er f l ow ix ng
-37	[OVERLAPPING]	ow v er l ae p ix ng
-37	[OVERLOOKING]	ow v er l uh k ix ng
-37	[OWING]	ow ix ng
-37	[PACKING]	p ae k ix ng
-37	[PARTING]	p aa r dx ix ng
-37	[PASSING]	p ae s ix ng
-37	[PAUSING]	p ao z ix ng
-37	[PAYING]	p ey ix ng
-37	[PENETRATING]	p eh n ax t r ey dx ix ng
-37	[PERFORMING]	p er f ao r m ix ng
-37	[PICKING]	p ih k ix ng
-37	[PICTURING]	p ih k ch er ix ng
-37	[PLANNING]	p l ae n ix ng
-37	[PLANTING]	p l ae n t ix ng
-37	[PLAYING]	p l ey ix ng
-37	[PLEASING]	p l iy z ix ng
-37	[PLUNGING]	p l ah n jh ix ng
-37	[POINTING]	p oy n t ix ng
-37	[POSSESSING]	p ax z eh s ix ng
-37	[POURING]	p ao r ix ng
-37	[PRECEDING]	p r iy s iy dx ix ng
-37	[PREFERRING]	p r ix f er ix ng
-37	[PREPARING]	p r iy p eh r ix ng
-37	[PRESENTING]	p r ix z eh n t ix ng
-37	[PRESSING]	p r eh s ix ng
-37	[PRETENDING]	p r iy t eh n d ix ng
-37	[PREVAILING]	p r ix v ey l ix ng
-37	[PREVENTING]	p r ix v eh n t ix ng
-37	[PROCEEDING]	p r ax s iy dx ix ng
-37	[PRODUCING]	p r ax d uw s ix ng
-37	[PROJECTING]	p r ax jh eh k t ix ng
-37	[PROMPTING]	p r aa m p t ix ng
-37	[PROPELLING]	p r ax p eh l ix ng
-37	[PROPOSING]	p r ax p ow z ix ng
-37	[PROTECTING]	p r ax t eh k t ix ng
-37	[PROVIDING]	p r ax v ay dx ix ng
-37	[PROVING]	p r uw v ix ng
-37	[PROVOKING]	p r ax v ow k ix ng
-37	[PULLING]	p uh l ix ng
-37	[PURCHASING]	p er ch ax s ix ng
-37	[PURSUING]	p er s uw ix ng
-37	[PUSHING]	p uh sh ix ng
-37	[PUTTING]	p ah dx ix ng
-37	[QUADRUPLING]	k w aa d r uw p ax l ix ng
-37	[QUESTIONING]	k w eh s ch ax n ix ng
-37	[QUITTING]	k w ih dx ix ng
-37	[QUOTING]	k w ow dx ix ng
-37	[RAGING]	r ey jh ix ng
-37	[RAISING]	r ey z ix ng
-37	[RATTLING]	r ae t l ix ng
-37	[REACHING]	r iy ch ix ng
-37	[REACTING]	r iy ae k t ix ng
-37	[REAWAKENING]	r iy ax w ey k ax n ix ng
-37	[REBOUNDING]	r iy b aw n d ix ng
-37	[RECEIVING]	r ax s iy v ix ng
-37	[RECOGNIZING]	r eh k ax g n ay z ix ng
-37	[RECOVERING]	r ax k ah v er ix ng
-37	[REDUCING]	r ax d uw s ix ng
-37	[REFRESHING]	r ix f r eh sh ix ng
-37	[REFUSING]	r ax f y uw z ix ng
-37	[REGISTERING]	r eh jh ix s t er ix ng
-37	[REGULATING]	r eh g y ax l ey dx ix ng
-37	[RELATING]	r ix l ey dx ix ng
-37	[RELAXING]	r ix l ae k s ix ng
-37	[RELINQUISHING]	r iy l ih ng k w ix sh ix ng
-37	[REMAINING]	r ix m ey n ix ng
-37	[REMEMBERING]	r ix m eh m b er ix ng
-37	[REMINDING]	r iy m ay n d ix ng
-37	[REMOVING]	r iy m uw v ix ng
-37	[REPLACING]	r ix p l ey s ix ng
-37	[REPRESENTING]	r eh p r ix z eh n t ix ng
-37	[REQUESTING]	r ix k w eh s t ix ng
-37	[REQUIRING]	r iy k w ay er ix ng
-37	[RESEMBLING]	r ix z eh m b ax l ix ng
-37	[RESIDING]	r ix z ay dx ix ng
-37	[RESISTING]	r ix z ih s t ix ng
-37	[RESOLVING]	r iy z aa l v ix ng
-37	[RESPONDING]	r ix s p aa n d ix ng
-37	[RESULTING]	r ix z ah l t ix ng
-37	[RESUMING]	r ix z uw m ix ng
-37	[RETAINING]	r ix t ey n ix ng
-37	[RETURNING]	r ix t er n ix ng
-37	[REVEALING]	r ix v iy l ix ng
-37	[REVERSING]	r ix v er s ix ng
-37	[REVIEWING]	r iy v y uw ix ng
-37	[RIDING]	r ay dx ix ng
-37	[RINGING]	r ih ng ix ng
-37	[RIPPLING]	r ih p ax l ix ng
-37	[RISING]	r ay z ix ng
-37	[ROARING]	r ao r ix ng
-37	[ROBBING]	r aa b ix ng
-37	[ROLLING]	r ow l ix ng
-37	[RUINING]	r uw ix n ix ng
-37	[RUNNING]	r ah n ix ng
-37	[RUSHING]	r ah sh ix ng
-37	[SAVING]	s ey v ix ng
-37	[SAYING]	s ey ix ng
-37	[SCARING]	s k eh r ix ng
-37	[SCRATCHING]	s k r ae ch ix ng
-37	[SCREAMING]	s k r iy m ix ng
-37	[SEARCHING]	s er ch ix ng
-37	[SECURING]	s ix k y uh r ix ng
-37	[SEDUCING]	s ix d uw s ix ng
-37	[SEEING]	s iy ix ng
-37	[SEEKING]	s iy k ix ng
-37	[SEIZING]	s iy z ix ng
-37	[SELLING]	s eh l ix ng
-37	[SENDING]	s eh n d ix ng
-37	[SEPARATING]	s eh p er ey dx ix ng
-37	[SERVING]	s er v ix ng
-37	[SETTING]	s eh dx ix ng
-37	[SETTLING]	s eh dx ax l ix ng
-37	[SHAKING]	sh ey k ix ng
-37	[SHAPING]	sh ey p ix ng
-37	[SHARING]	sh eh r ix ng
-37	[SHARPENING]	sh aa r p ax n ix ng
-37	[SHIFTING]	sh ih f t ix ng
-37	[SHINING]	sh ay n ix ng
-37	[SHOOTING]	sh uw dx ix ng
-37	[SHOULDERING]	sh ow l d er ix ng
-37	[SHOUTING]	sh aw dx ix ng
-37	[SHOWING]	sh ow ix ng
-37	[SHRINKING]	sh r ih ng k ix ng
-37	[SHUTTING]	sh ah dx ix ng
-37	[SINGING]	s ih ng ix ng
-37	[SINKING]	s ih ng k ix ng
-37	[SITTING]	s ih dx ix ng
-37	[SKETCHING]	s k eh ch ix ng
-37	[SLEEPING]	s l iy p ix ng
-37	[SLIDING]	s l ay dx ix ng
-37	[SLIPPING]	s l ih p ix ng
-37	[SMELLING]	s m eh l ix ng
-37	[SMILING]	s m ay l ix ng
-37	[SOLVING]	s aa l v ix ng
-37	[SOUNDING]	s aw n d ix ng
-37	[SPEAKING]	s p iy k ix ng
-37	[SPORTING]	s p ao r dx ix ng
-37	[SPREADING]	s p r eh dx ix ng
-37	[SPRINGING]	s p r ih ng ix ng
-37	[SQUEEZING]	s k w iy z ix ng
-37	[STALKING]	s t ao k ix ng
-37	[STANDING]	s t ae n d ix ng
-37	[STARTING]	s t aa r dx ix ng
-37	[STARVING]	s t aa r v ix ng
-37	[STAYING]	s t ey ix ng
-37	[STEALING]	s t iy l ix ng
-37	[STEAMING]	s t iy m ix ng
-37	[STEPPING]	s t eh p ix ng
-37	[STICKING]	s t ih k ix ng
-37	[STIFLING]	s t ay f l ix ng
-37	[STIRRING]	s t er ix ng
-37	[STOCKING]	s t aa k ix ng
-37	[STOPPING]	s t aa p ix ng
-37	[STREAMING]	s t r iy m ix ng
-37	[STRENGTHENING]	s t r eh ng th ax n ix ng
-37	[STRETCHING]	s t r eh ch ix ng
-37	[STRIVING]	s t r ay v ix ng
-37	[STRUGGLING]	s t r ah g ax l ix ng
-37	[STUDYING]	s t ah dx iy ix ng
-37	[STULTIFYING]	s t ah l t ax f ay ix ng
-37	[STUMBLING]	s t ah m b ax l ix ng
-37	[SUCCEEDING]	s ax k s iy dx ix ng
-37	[SUFFERING]	s ah f er ix ng
-37	[SUGGESTING]	s ax g jh eh s t ix ng
-37	[SUPPLYING]	s ax p l ay ix ng
-37	[SUPPORTING]	s ax p ao r dx ix ng
-37	[SURRENDERING]	s er eh n d er ix ng
-37	[SURROUNDING]	s er aw n d ix ng
-37	[SURVIVING]	s er v ay v ix ng
-37	[SUSPECTING]	s ax s p eh k t ix ng
-37	[SWALLOWING]	s w aa l ow ix ng
-37	[SWAPPING]	s w aa p ix ng
-37	[SWAYING]	s w ey ix ng
-37	[SWELLING]	s w eh l ix ng
-37	[SWINGING]	s w ih ng ix ng
-37	[SWITCHING]	s w ih ch ix ng
-37	[TAKING]	t ey k ix ng
-37	[TALKING]	t ao k ix ng
-37	[TAPERING]	t ey p er ix ng
-37	[TAPPING]	t ae p ix ng
-37	[TEARING]	t eh r ix ng
-37	[TELLING]	t eh l ix ng
-37	[TERMINATING]	t er m ax n ey dx ix ng
-37	[THINKING]	th ih ng k ix ng
-37	[THREATENING]	th r eh t ax n ix ng
-37	[THROWING]	th r ow ix ng
-37	[THRUSTING]	th r ah s t ix ng
-37	[THUMBING]	th ah m ix ng
-37	[TOSSING]	t ao s ix ng
-37	[TOUCHING]	t ah ch ix ng
-37	[TOURING]	t uh r ix ng
-37	[TOYING]	t oy ix ng
-37	[TRACING]	t r ey s ix ng
-37	[TRACKING]	t r ae k ix ng
-37	[TRAILING]	t r ey l ix ng
-37	[TRAVELING]	t r ae v ax l ix ng
-37	[TREATING]	t r iy dx ix ng
-37	[TRIMMING]	t r ih m ix ng
-37	[TRYING]	t r ay ix ng
-37	[TUMBLING]	t ah m b ax l ix ng
-37	[TURNING]	t er n ix ng
-37	[UNDERGOING]	ah n d er g ow ix ng
-37	[UNDERLYING]	ah n d er l ay ix ng
-37	[UNDERTAKING]	ah n d er t ey k ix ng
-37	[URGING]	er jh ix ng
-37	[USING]	y uw z ix ng
-37	[UTTERING]	ah dx er ix ng
-37	[VANISHING]	v ae n ix sh ix ng
-37	[VARYING]	v eh r iy ix ng
-37	[VIEWING]	v y uw ix ng
-37	[VIOLATING]	v ay ax l ey dx ix ng
-37	[VISUALIZING]	v ih zh w ax l ay z ix ng
-37	[WAILING]	w ey l ix ng
-37	[WAITING]	w ey dx ix ng
-37	[WAKING]	w ey k ix ng
-37	[WALKING]	w ao k ix ng
-37	[WANDERING]	w aa n d er ix ng
-37	[WANTING]	w aa n t ix ng
-37	[WARNING]	w ao r n ix ng
-37	[WASHING]	w aa sh ix ng
-37	[WASTING]	w ey s t ix ng
-37	[WATCHING]	w aa ch ix ng
-37	[WAVERING]	w ey v er ix ng
-37	[WAVING]	w ey v ix ng
-37	[WEARING]	w eh r ix ng
-37	[WEAVING]	w iy v ix ng
-37	[WEEPING]	w iy p ix ng
-37	[WELCOMING]	w eh l k ax m ix ng
-37	[WHISPERING]	w ih s p er ix ng
-37	[WHISTLING]	w ih s l ix ng
-37	[WIELDING]	w iy l d ix ng
-37	[WINKING]	w ih ng k ix ng
-37	[WINNING]	w ih n ix ng
-37	[WIPING]	w ay p ix ng
-37	[WISHING]	w ih sh ix ng
-37	[WONDERING]	w ah n d er ix ng
-37	[WORKING]	w er k ix ng
-37	[WRAPPING]	r ae p ix ng
-37	[WRIGGLING]	r ih g ax l ix ng
-37	[WRITING]	r ay dx ix ng
-37	[YIELDING]	y iy l d ix ng
+36	[GO]	g ow
+37	[TO]	t uw
+38	[HOME]	hh ow m
+38	[PROGRAMS]	p r ow g r ae m z
+38	[PICTURES]	p ih k ch er z
+38	[SETTINGS]	s eh dx ix ng z
+38	[MUSIC]	m y uw z ix k
+38	[VIDEO]	v ih dx iy ow
+39	[GENDER]	jh eh n d er
+39	[ABILITY]	ax b ih l ax dx iy
+39	[ABSENCE]	ae b s ax n s
+39	[ABSORPTION]	ax b z ao r p sh ax n
+39	[ABSTINENCE]	ae b s t ax n ax n s
+39	[ABSURDITY]	ax b s er dx ax dx iy
+39	[ABUSE]	ax b y uw s
+39	[ACADEMY]	ax k ae dx ax m iy
+39	[ACCESS]	ae k s eh s
+39	[ACCIDENT]	ae k s ax d ax n t
+39	[ACCOMPANIMENT]	ax k ah m p n ix m ax n t
+39	[ACCORD]	ax k ao r d
+39	[ACCORDANCE]	ax k ao r d ax n s
+39	[ACCUMULATION]	ax k y uw m y ax l ey sh ax n
+39	[ACCURACY]	ae k y er ax s iy
+39	[ACKNOWLEDGEMENT]	ae k n aa l ix jh m ax n t
+39	[ACT]	ae k t
+39	[ACTION]	ae k sh ax n
+39	[ACTIVITY]	ae k t ih v ax dx iy
+39	[ADAPTATION]	ae dx ax p t ey sh ax n
+39	[ADDITION]	ax d ih sh ax n
+39	[ADDRESS]	ae d r eh s
+39	[ADMINISTRATION]	ae d m ih n ix s t r ey sh ax n
+39	[ADMINISTRATOR]	ax d m ih n ax s t r ey dx er
+39	[ADMIRER]	ae d m ay r er
+39	[ADMISSION]	ae d m ih sh ax n
+39	[ADULT]	ax d ah l t
+39	[ADVANCE]	ax d v ae n s
+39	[ADVANCEMENT]	ax d v ae n s m ax n t
+39	[ADVANTAGE]	ae d v ae n t ix jh
+39	[ADVENTURE]	ae d v eh n ch er
+39	[ADVICE]	ae d v ay s
+39	[ADVOCACY]	ae d v ax k ax s iy
+39	[AFFAIR]	ax f eh r
+39	[AFTERNOON]	ae f t er n uw n
+39	[AGE]	ey jh
+39	[AGENCY]	ey jh ax n s iy
+39	[AGENDA]	ax jh eh n d ax
+39	[AGENT]	ey jh ax n t
+39	[AGITATION]	ae jh ax t ey sh ax n
+39	[AGREEMENT]	ax g r iy m ax n t
+39	[AGRICULTURE]	ae g r ix k ah l ch er
+39	[AID]	ey d
+39	[AIRFARE]	eh r f eh r
+39	[AIRPLANE]	eh r p l ey n
+39	[AIRPORT]	eh r p ao r t
+39	[ALARM]	ax l aa r m
+39	[ALE]	ey l
+39	[ALLOWANCE]	ax l aw ax n s
+39	[ALLOY]	ae l oy
+39	[ALLY]	ae l ay
+39	[ALMANAC]	ao l m ax n ae k
+39	[ALPHA]	ae l f ax
+39	[ALTERNATIVE]	ao l t er n ax dx ix v
+39	[ALTITUDE]	ae l t ax t uw d
+39	[AMBASSADOR]	ae m b ae s ax dx er
+39	[AMBITION]	ae m b ih sh ax n
+39	[AMBULANCE]	ae m b y ax l ax n s
+39	[AMMUNITION]	ae m y ax n ih sh ax n
+39	[AMOUNT]	ax m aw n t
+39	[AMUSEMENT]	ax m y uw z m ax n t
+39	[ANALOG]	ae n ax l ao g
+39	[ANALYSIS]	ax n ae l ax s ax s
+39	[ANARCHY]	ae n er k iy
+39	[ANCHOR]	ae ng k er
+39	[ANGER]	ae ng g er
+39	[ANGLE]	ae ng g ax l
+39	[ANGUISH]	ae ng g w ix sh
+39	[ANIMAL]	ae n ax m ax l
+39	[ANIMOSITY]	ae n ax m aa s ax dx iy
+39	[ANKLE]	ae ng k ax l
+39	[ANNIVERSARY]	ae n ax v er s er iy
+39	[ANSWER]	ae n s er
+39	[ANSWERING]	ae n s er ix ng
+39	[ANTICIPATION]	ae n t ih s ax p ey sh ax n
+39	[ANXIETY]	ae ng z ay ax dx iy
+39	[ANYBODY]	eh n iy b ax dx iy
+39	[ANYONE]	eh n iy w ah n
+39	[ANYTHING]	eh n iy th ih ng
+39	[APATHY]	ae p ax th iy
+39	[APOLOGY]	ax p aa l ax jh iy
+39	[APPARATUS]	ae p er ae dx ax s
+39	[APPEAL]	ax p iy l
+39	[APPEARANCE]	ax p ih r ax n s
+39	[APPETITE]	ae p ax t ay t
+39	[APPLAUSE]	ax p l ao z
+39	[APPLIANCE]	ax p l ay ax n s
+39	[APPLICATION]	ae p l ax k ey sh ax n
+39	[APPOINTMENT]	ax p oy n t m ax n t
+39	[APPRECIATION]	ax p r iy sh iy ey sh ax n
+39	[APPREHENSION]	ae p r ix hh eh n sh ax n
+39	[APPROACH]	ax p r ow ch
+39	[APPROPRIATENESS]	ax p r ow p r iy ax t n ax s
+39	[APPROVAL]	ax p r uw v ax l
+39	[AQUARIUM]	ax k w eh r iy ax m
+39	[ARCH]	aa r ch
+39	[ARCHITECT]	aa r k ax t eh k t
+39	[ARCHITECTURE]	aa r k ax t eh k ch er
+39	[AREA]	eh r iy ax
+39	[ARENA]	er iy n ax
+39	[ARGUMENT]	aa r g y ax m ax n t
+39	[ARITHMETIC]	eh r ix th m eh dx ix k
+39	[ARM]	aa r m
+39	[ARMY]	aa r m iy
+39	[ARRANGEMENT]	er ey n jh m ax n t
+39	[ARRAY]	er ey
+39	[ARREST]	er eh s t
+39	[ARRIVAL]	er ay v ax l
+39	[ARROGANCE]	eh r ax g ax n s
+39	[ARROW]	ae r ow
+39	[ARSENAL]	aa r s ax n ax l
+39	[ART]	aa r t
+39	[ARTHRITIS]	aa r th r ay dx ax s
+39	[ARTICLE]	aa r dx ax k ax l
+39	[ARTIST]	aa r dx ax s t
+39	[ASCENT]	ax s eh n t
+39	[ASPECT]	ae s p eh k t
+39	[ASSEMBLY]	ax s eh m b l iy
+39	[ASSENT]	ax s eh n t
+39	[ASSERTION]	ax s er sh ax n
+39	[ASSIGNMENT]	ax s ay n m ax n t
+39	[ASSISTANCE]	ax s ih s t ax n s
+39	[ASSUMPTION]	ax s ah m p sh ax n
+39	[ASTONISHMENT]	ax s t aa n ix sh m ax n t
+39	[ASTRONOMER]	ax s t r aa n ax m er
+39	[ASTRONOMER'S]	ax s t r aa n ax m er z
+39	[ATHLETE]	ae th l iy t
+39	[ATMOSPHERE]	ae t m ax s f ih r
+39	[ATTACHMENT]	ax t ae ch m ax n t
+39	[ATTACK]	ax t ae k
+39	[ATTACKER]	ax t ae k er
+39	[ATTEMPT]	ax t eh m p t
+39	[ATTENDANCE]	ax t eh n d ax n s
+39	[ATTENTION]	ax t eh n sh ax n
+39	[ATTITUDE]	ae dx ax t uw d
+39	[ATTRACTION]	ax t r ae k sh ax n
+39	[ATTRACTIVENESS]	ax t r ae k t ix v n ax s
+39	[AUCTION]	aa k sh ax n
+39	[AUNT]	ae n t
+39	[AUNT'S]	ae n t s
+39	[AUTHOR]	ao th er
+39	[AUTHORITY]	ax th ao r ax dx iy
+39	[AUTOMOBILE]	ao dx ax m ow b iy l
+39	[AUTUMN]	ao dx ax m
+39	[AVAIL]	ax v ey l
+39	[AVAILABILITY]	ax v ey l ax b ih l ax dx iy
+39	[AVALANCHE]	ae v ax l ae n ch
+39	[AVOIDANCE]	ax v oy d ax n s
+39	[AX]	ae k s
+39	[AXIOM]	ae k s iy ax m
+39	[BABEL]	b ae b ax l
+39	[BABY]	b ey b iy
+39	[BABY'S]	b ey b iy z
+39	[BACHELOR]	b ae ch ax l er
+39	[BACKBONE]	b ae k b ow n
+39	[BACKGROUND]	b ae k g r aw n d
+39	[BACKWATER]	b ae k w ao dx er
+39	[BACON]	b ey k ax n
+39	[BACON'S]	b ey k ax n z
+39	[BAG]	b ae g
+39	[BALANCE]	b ae l ax n s
+39	[BALL]	b ao l
+39	[BALLROOM]	b ao l r uw m
+39	[BANANA]	b ax n ae n ax
+39	[BAND]	b ae n d
+39	[BANG]	b ae ng
+39	[BANKRUPTCY]	b ae ng k r ax p s iy
+39	[BAR]	b aa r
+39	[BARBECUE]	b aa r b ix k y uw
+39	[BARGAINING]	b aa r g ix n ix ng
+39	[BARLEY]	b aa r l iy
+39	[BARN]	b aa r n
+39	[BARRACKS]	b ae r ax k s
+39	[BARREL]	b ae r ax l
+39	[BASE]	b ey s
+39	[BASEMENT]	b ey s m ax n t
+39	[BASIS]	b ey s ax s
+39	[BASKET]	b ae s k ax t
+39	[BASS]	b ae s
+39	[BASTION]	b ae s ch ax n
+39	[BATH]	b ae th
+39	[BATHING]	b ey dh ix ng
+39	[BATTALION]	b ax t ae l y ax n
+39	[BATTERY]	b ae dx er iy
+39	[BATTLE]	b ae dx ax l
+39	[BEACH]	b iy ch
+39	[BEAM]	b iy m
+39	[BEAR]	b eh r
+39	[BEAST]	b iy s t
+39	[BEAT]	b iy t
+39	[BEAUTY]	b y uw dx iy
+39	[BED]	b eh d
+39	[BEDROOM]	b eh d r uw m
+39	[BEDSIDE]	b eh d s ay d
+39	[BEEF]	b iy f
+39	[BEER]	b ih r
+39	[BEHALF]	b ix hh ae f
+39	[BEHAVIOR]	b ix hh ey v y er
+39	[BELIEF]	b ix l iy f
+39	[BELT]	b eh l t
+39	[BENCH]	b eh n ch
+39	[BENEFIT]	b eh n ax f ix t
+39	[BENT]	b eh n t
+39	[BET]	b eh t
+39	[BETA]	b ey dx ax
+39	[BEVERAGE]	b eh v er ix jh
+39	[BIGOTRY]	b ih g ax t r iy
+39	[BILL]	b ih l
+39	[BIND]	b ay n d
+39	[BIOLOGIST]	b ay aa l ax jh ax s t
+39	[BIOLOGY]	b ay aa l ax jh iy
+39	[BIRD]	b er d
+39	[BIRD'S]	b er d z
+39	[BIRTH]	b er th
+39	[BIRTHDAY]	b er th d ey
+39	[BISHOP]	b ih sh ax p
+39	[BIT]	b ih t
+39	[BITE]	b ay t
+39	[BITTERNESS]	b ih dx er n ax s
+39	[BLACK'S]	b l ae k s
+39	[BLADE]	b l ey d
+39	[BLAME]	b l ey m
+39	[BLAZE]	b l ey z
+39	[BLEMISH]	b l eh m ix sh
+39	[BLEND]	b l eh n d
+39	[BLESSING]	b l eh s ix ng
+39	[BLOOD]	b l ah d
+39	[BLOW]	b l ow
+39	[BLUNDER]	b l ah n d er
+39	[BOAST]	b ow s t
+39	[BOAT]	b ow t
+39	[BODY]	b aa dx iy
+39	[BOLT]	b ow l t
+39	[BOMB]	b aa m
+39	[BOMBARDMENT]	b aa m b aa r d m ax n t
+39	[BOMBING]	b aa m ix ng
+39	[BONANZA]	b ax n ae n z ax
+39	[BOND]	b aa n d
+39	[BONE]	b ow n
+39	[BOOK]	b uh k
+39	[BOOKKEEPER]	b uh k k iy p er
+39	[BOOT]	b uw t
+39	[BORDER]	b ao r dx er
+39	[BORROWING]	b aa r ow ix ng
+39	[BOSOM]	b uh z ax m
+39	[BOSS]	b aa s
+39	[BOTANY]	b aa t ax n iy
+39	[BOTTLE]	b aa dx ax l
+39	[BOTTOM]	b aa dx ax m
+39	[BOUNDARY]	b aw n d er iy
+39	[BOUNTY]	b aw n t iy
+39	[BOW]	b aw
+39	[BOWL]	b ow l
+39	[BOX]	b aa k s
+39	[BOY]	b oy
+39	[BOY'S]	b oy z
+39	[BRAIN]	b r ey n
+39	[BRANCH]	b r ae n ch
+39	[BRAND]	b r ae n d
+39	[BREACH]	b r iy ch
+39	[BREAD]	b r eh d
+39	[BREADTH]	b r eh d th
+39	[BREAKFAST]	b r eh k f ax s t
+39	[BREAKTHROUGH]	b r ey k th r uw
+39	[BREAST]	b r eh s t
+39	[BREATH]	b r eh th
+39	[BREED]	b r iy d
+39	[BRIBERY]	b r ay b er iy
+39	[BRICK]	b r ih k
+39	[BRIDGE]	b r ih jh
+39	[BRIEFCASE]	b r iy f k ey s
+39	[BRIEFING]	b r iy f ix ng
+39	[BRINK]	b r ih ng k
+39	[BRONZE]	b r aa n z
+39	[BROTHER]	b r ah dh er
+39	[BROTHER'S]	b r ah dh er z
+39	[BROUHAHA]	b r uw hh aa hh aa
+39	[BROW]	b r aw
+39	[BRUSH]	b r ah sh
+39	[BUBBLE]	b ah b ax l
+39	[BUCK]	b ah k
+39	[BUDGET]	b ah jh ix t
+39	[BUFFET]	b ah f ax t
+39	[BUILDER'S]	b ih l d er z
+39	[BUILDING]	b ih l d ix ng
+39	[BULK]	b ah l k
+39	[BURDEN]	b er d ax n
+39	[BURST]	b er s t
+39	[BUS]	b ah s
+39	[BUSINESS]	b ih z n ax s
+39	[BUTCHER]	b uh ch er
+39	[BUTTER]	b ah dx er
+39	[BUTTON]	b ah t ax n
+39	[BUTTON'S]	b ah t ax n z
+39	[BUYER]	b ay er
+39	[BUZZ]	b ah z
+39	[CABLE]	k ey b ax l
+39	[CAKE]	k ey k
+39	[CALAMITY]	k ax l ae m ax dx iy
+39	[CALCIUM]	k ae l s iy ax m
+39	[CALCULATION]	k ae l k y ax l ey sh ax n
+39	[CALL]	k ao l
+39	[CAMERA]	k ae m er ax
+39	[CAMP]	k ae m p
+39	[CANAL]	k ax n ae l
+39	[CANDIDATE]	k ae n d ax dx ey t
+39	[CANDY]	k ae n d iy
+39	[CANE]	k ey n
+39	[CANVAS]	k ae n v ax s
+39	[CAP]	k ae p
+39	[CAPABILITY]	k ey p ax b ih l ax dx iy
+39	[CAPACITY]	k ax p ae s ax dx iy
+39	[CAPITAL]	k ae p ax dx ax l
+39	[CAPTAIN]	k ae p t ax n
+39	[CAPTAIN'S]	k ae p t ax n z
+39	[CAR]	k aa r
+39	[CARBON]	k aa r b ax n
+39	[CARCASS]	k aa r k ax s
+39	[CARD]	k aa r d
+39	[CARDBOARD]	k aa r d b ao r d
+39	[CAREER]	k er ih r
+39	[CARGO]	k aa r g ow
+39	[CARPENTER]	k aa r p ax n t er
+39	[CARPENTER'S]	k aa r p ax n t er z
+39	[CARPET]	k aa r p ax t
+39	[CART]	k aa r t
+39	[CARTRIDGE]	k aa r t r ax jh
+39	[CASE]	k ey s
+39	[CASH]	k ae sh
+39	[CASHIER]	k ae sh ih r
+39	[CASINO]	k ax s iy n ow
+39	[CAST]	k ae s t
+39	[CASTLE]	k ae s ax l
+39	[CASUALTY]	k ae zh ax w ax l t iy
+39	[CASUISTRY]	k ae zh uw ax s t r iy
+39	[CATARACT]	k ae dx er ae k t s
+39	[CAUSE]	k aa z
+39	[CAUTION]	k aa sh ax n
+39	[CEDAR]	s iy dx er
+39	[CEILING]	s iy l ix ng
+39	[CELL]	s eh l
+39	[CELLAR]	s eh l er
+39	[CENT]	s eh n t
+39	[CENTER]	s eh n t er
+39	[CENTURY]	s eh n ch er iy
+39	[CEREAL]	s ih r iy ax l
+39	[CEREMONY]	s eh r ax m ow n iy
+39	[CERTAINTY]	s er t ax n t iy
+39	[CHAIN]	ch ey n
+39	[CHAIR]	ch eh r
+39	[CHALLENGE]	ch ae l ax n jh
+39	[CHAMBER]	ch ey m b er
+39	[CHAMPAGNE]	sh ae m p ey n
+39	[CHAMPION]	ch ae m p iy ax n
+39	[CHAMPIONSHIP]	ch ae m p iy ax n sh ih p
+39	[CHANCE]	ch ae n s
+39	[CHANCELLOR]	ch ae n s ax l er
+39	[CHANGE]	ch ey n jh
+39	[CHANNEL]	ch ae n ax l
+39	[CHAOS]	k ey aa s
+39	[CHAPTER]	ch ae p t er
+39	[CHARACTER]	k eh r ix k t er
+39	[CHARGE]	ch aa r jh
+39	[CHARITY]	ch eh r ix dx iy
+39	[CHARM]	ch aa r m
+39	[CHASE]	ch ey s
+39	[CHASSIS]	ch ae s iy
+39	[CHATTER]	ch ae dx er
+39	[CHAUFFEUR]	sh ow f er
+39	[CHEATING]	ch iy dx ix ng
+39	[CHECK]	ch eh k
+39	[CHEER]	ch ih r
+39	[CHEMIST]	k eh m ix s t
+39	[CHEMISTRY]	k eh m ax s t r iy
+39	[CHEST]	ch eh s t
+39	[CHICKEN]	ch ih k ax n
+39	[CHILD]	ch ay l d
+39	[CHILD'S]	ch ay l d z
+39	[CHILDHOOD]	ch ay l d hh uh d
+39	[CHILL]	ch ih l
+39	[CHIMNEY]	ch ih m n iy
+39	[CHIN]	ch ih n
+39	[CHINA]	ch ay n ax
+39	[CHIP]	ch ih p
+39	[CHLORINE]	k l ao r iy n
+39	[CHOCOLATE]	ch ao k l ax t
+39	[CHOICE]	ch oy s
+39	[CHRONICLE]	k r aa n ix k ax l
+39	[CHURCH]	ch er ch
+39	[CIGAR]	s ix g aa r
+39	[CIGARETTE]	s ih g er eh t
+39	[CIRCLE]	s er k ax l
+39	[CIRCUIT]	s er k ax t
+39	[CIRCULATION]	s er k y ax l ey sh ax n
+39	[CIRCUS]	s er k ax s
+39	[CITATION]	s ay t ey sh ax n
+39	[CITY]	s ih dx iy
+39	[CIVILIZATION]	s ih v ax l ix z ey sh ax n
+39	[CLAIM]	k l ey m
+39	[CLASS]	k l ae s
+39	[CLASSIFICATION]	k l ae s ax f ax k ey sh ax n
+39	[CLEANLINESS]	k l eh n l iy n ix s
+39	[CLERGYMAN]	k l er jh iy m ax n
+39	[CLERK]	k l er k
+39	[CLIENT]	k l ay ax n t
+39	[CLIFF]	k l ih f
+39	[CLIMATE]	k l ay m ax t
+39	[CLIMB]	k l ay m
+39	[CLOAK]	k l ow k
+39	[CLOSET]	k l aa z ax t
+39	[CLOTH]	k l ao th
+39	[CLOTHING]	k l ow dh ix ng
+39	[CLOUD]	k l aw d
+39	[CLUB]	k l ah b
+39	[CLUMP]	k l ah m p
+39	[CLUSTER]	k l ah s t er
+39	[COACH]	k ow ch
+39	[COAL]	k ow l
+39	[COAST]	k ow s t
+39	[COAT]	k ow t
+39	[COATING]	k ow dx ix ng
+39	[COCOA]	k ow k ow
+39	[CODE]	k ow d
+39	[COFFEE]	k aa f iy
+39	[COFFIN]	k ao f ix n
+39	[COIL]	k oy l
+39	[COIN]	k oy n
+39	[COINCIDENCE]	k ow ih n s ix d ax n s
+39	[COLLAR]	k aa l er
+39	[COLLECTING]	k ax l eh k t ix ng
+39	[COLLECTION]	k ax l eh k sh ax n
+39	[COLLEGE]	k aa l ix jh
+39	[COLONIAL]	k ax l ow n iy ax l
+39	[COLONY]	k aa l ax n iy
+39	[COLOR]	k ah l er
+39	[COLUMN]	k aa l ax m
+39	[COM]	k aa m
+39	[COMBAT]	k aa m b ae t
+39	[COMBINATION]	k aa m b ax n ey sh ax n
+39	[COMEBACK]	k ah m b ae k
+39	[COMFORT]	k ah m f er t
+39	[COMMAND]	k ax m ae n d
+39	[COMMANDANT]	k aa m ax n d aa n t
+39	[COMMANDER]	k ax m ae n d er
+39	[COMMENCEMENT]	k ax m eh n s m ax n t
+39	[COMMENT]	k aa m eh n t
+39	[COMMERCE]	k aa m er s
+39	[COMMISSION]	k ax m ih sh ax n
+39	[COMMISSIONER]	k ax m ih sh ax n er
+39	[COMMITTEE]	k ax m ih dx iy
+39	[COMMONWEALTH]	k aa m ax n w eh l th
+39	[COMMUNICATION]	k ax m y uw n ax k ey sh ax n
+39	[COMMUNITY]	k ax m y uw n ax dx iy
+39	[COMPANION]	k ax m p ae n y ax n
+39	[COMPANION'S]	k ax m p ae n y ax n z
+39	[COMPARISON]	k ax m p eh r ax s ax n
+39	[COMPARTMENT]	k ax m p aa r t m ax n t
+39	[COMPENSATION]	k aa m p ax n s ey sh ax n
+39	[COMPETENCY]	k aa m p ax t ix n s iy
+39	[COMPETITION]	k aa m p ax t ih sh ax n
+39	[COMPLAINT]	k ax m p l ey n t
+39	[COMPLETION]	k ax m p l iy sh ax n
+39	[COMPLIANCE]	k ax m p l ay ax n s
+39	[COMPONENT]	k ax m p ow n ax n t
+39	[COMPOSITION]	k aa m p ax z ih sh ax n
+39	[COMPOUND]	k aa m p aw n d
+39	[COMPREHENSION]	k aa m p r iy hh eh n sh ax n
+39	[COMPUTER]	k ax m p y uw dx er
+39	[COMPUTING]	k ax m p y uw dx ix ng
+39	[CONCEIT]	k ax n s iy t
+39	[CONCENTRATION]	k aa n s ax n t r ey sh ax n
+39	[CONCEPT]	k aa n s eh p t
+39	[CONCEPTION]	k ax n s eh p sh ax n
+39	[CONCERN]	k ax n s er n
+39	[CONCERT]	k aa n s er t
+39	[CONCLUSION]	k ax n k l uw zh ax n
+39	[CONDITION]	k ax n d ih sh ax n
+39	[CONDUCT]	k ax n d ah k t
+39	[CONFERENCE]	k aa n f er ax n s
+39	[CONFESSION]	k ax n f eh sh ax n
+39	[CONFIDENCE]	k aa n f ax d ax n s
+39	[CONFIGURATION]	k ax n f ih g y er ey sh ax n
+39	[CONFINEMENT]	k ax n f ay n m ax n t
+39	[CONFIRMATION]	k aa n f er m ey sh ax n
+39	[CONFLICT]	k aa n f l ix k t
+39	[CONFUSION]	k ax n f y uw zh ax n
+39	[CONGRESS]	k aa ng g r ax s
+39	[CONJUNCTION]	k ax n jh ah ng k sh ax n
+39	[CONNECTION]	k ax n eh k sh ax n
+39	[CONNOTATION]	k aa n ax t ey sh ax n
+39	[CONQUEST]	k aa ng k w eh s t
+39	[CONSCIENCE]	k aa n sh ax n s
+39	[CONSCIOUSNESS]	k aa n sh ax s n ax s
+39	[CONSENT]	k ax n s eh n t
+39	[CONSEQUENCE]	k aa n s ax k w ax n s
+39	[CONSERVATION]	k aa n s er v ey sh ax n
+39	[CONSIDERATION]	k ax n s ih dx er ey sh ax n
+39	[CONSOLATION]	k aa n s ax l ey sh ax n
+39	[CONSPIRACY]	k ax n s p ih r ax s iy
+39	[CONSTITUENT]	k ax n s t ih ch uw ax n t
+39	[CONSTITUTION]	k aa n s t ax t uw sh ax n
+39	[CONSTRUCTION]	k ax n s t r ah k sh ax n
+39	[CONSULTATION]	k aa n s ax l t ey sh ax n
+39	[CONSUMING]	k ax n s uw m ix ng
+39	[CONTACT]	k aa n t ae k t
+39	[CONTAINMENT]	k ax n t ey n m ax n t
+39	[CONTEMPT]	k ax n t eh m p t
+39	[CONTENT]	k aa n t eh n t
+39	[CONTEST]	k aa n t eh s t
+39	[CONTEXT]	k aa n t eh k s t
+39	[CONTINENT]	k aa n t ax n ax n t
+39	[CONTINUITY]	k aa n t ax n uw ax dx iy
+39	[CONTRACT]	k aa n t r ae k t
+39	[CONTRADICTION]	k aa n t r ax d ih k sh ax n
+39	[CONTRAST]	k aa n t r ae s t
+39	[CONTRIBUTION]	k aa n t r ax b y uw sh ax n
+39	[CONVERSATION]	k aa n v er s ey sh ax n
+39	[CONVERSION]	k ax n v er zh ax n
+39	[CONVERTER]	k ax n v er dx er
+39	[CONVICTION]	k ax n v ih k sh ax n
+39	[CONVOY]	k aa n v oy
+39	[COOK]	k uh k
+39	[COOKING]	k uh k ix ng
+39	[COOPERATION]	k ow aa p er ey sh ax n
+39	[COP]	k aa p
+39	[COPPER]	k aa p er
+39	[COPY]	k aa p iy
+39	[COPYRIGHT]	k aa p iy r ay t
+39	[CORD]	k ao r d
+39	[CORN]	k ao r n
+39	[CORNER]	k ao r n er
+39	[CORPORATION]	k ao r p er ey sh ax n
+39	[CORPS]	k ao r
+39	[CORRECTION]	k er eh k sh ax n
+39	[CORRELATION]	k ao r ax l ey sh ax n
+39	[CORRESPONDENCE]	k ao r ax s p aa n d ax n s
+39	[CORRIDOR]	k ao r ax dx er
+39	[COST]	k aa s t
+39	[COTTAGE]	k aa dx ax jh
+39	[COTTON]	k aa t ax n
+39	[COUCH]	k aw ch
+39	[COUGH]	k aa f
+39	[COUNCIL]	k aw n s ax l
+39	[COUNSEL]	k aw n s ax l
+39	[COUNSELOR]	k aw n s ax l er
+39	[COUNT]	k aw n t
+39	[COUNTERPART]	k aw n t er p aa r t
+39	[COUNTRY]	k ah n t r iy
+39	[COUNTRY'S]	k ah n t r iy z
+39	[COUNTRYSIDE]	k ah n t r iy s ay d
+39	[COUNTY]	k aw n t iy
+39	[COUPLE]	k ah p ax l
+39	[COURAGE]	k er ax jh
+39	[COURIER]	k er iy er
+39	[COURIER'S]	k er iy er z
+39	[COURSE]	k ao r s
+39	[COURTYARD]	k ao r t y aa r d
+39	[COUSIN]	k ah z ax n
+39	[COVERAGE]	k ah v er ax jh
+39	[COW]	k aw
+39	[CPU]	s iy p iy y uw
+39	[CRAB]	k r ae b
+39	[CRACK]	k r ae k
+39	[CRADLE]	k r ey dx ax l
+39	[CRAFT]	k r ae f t
+39	[CRAP]	k r ae p
+39	[CRASH]	k r ae sh
+39	[CREAM]	k r iy m
+39	[CREATION]	k r iy ey sh ax n
+39	[CREATOR'S]	k r iy ey dx er z
+39	[CREATURE]	k r iy ch er
+39	[CREATURE'S]	k r iy ch er z
+39	[CREDIT]	k r eh dx ax t
+39	[CREDITOR]	k r eh dx ax dx er
+39	[CREST]	k r eh s t
+39	[CREW]	k r uw
+39	[CRIB]	k r ih b
+39	[CRIME]	k r ay m
+39	[CRISIS]	k r ay s ax s
+39	[CRITICISM]	k r ih dx ix s ih z ax m
+39	[CROOK]	k r uh k
+39	[CROP]	k r aa p
+39	[CROWD]	k r aw d
+39	[CROWN]	k r aw n
+39	[CRUISE]	k r uw z
+39	[CRUSADE]	k r uw s ey d
+39	[CRUSH]	k r ah sh
+39	[CRUST]	k r ah s t
+39	[CRY]	k r ay
+39	[CRYSTAL]	k r ih s t ax l
+39	[CUBE]	k y uw b
+39	[CULTIVATION]	k ah l t ix v ey sh ax n
+39	[CULTURE]	k ah l ch er
+39	[CUP]	k ah p
+39	[CURIOSITY]	k y uh r iy aa s ax dx iy
+39	[CURRENCY]	k er ax n s iy
+39	[CURSE]	k er s
+39	[CURVE]	k er v
+39	[CUSTODY]	k ah s t ax dx iy
+39	[CUSTOM]	k ah s t ax m
+39	[CUSTOMER]	k ah s t ax m er
+39	[CYCLING]	s ay k ax l ix ng
+39	[CYLINDER]	s ih l ax n d er
+39	[CYNICISM]	s ih n ix s ih z ax m
+39	[CZAR]	z aa r
+39	[DAD]	d ae d
+39	[DAM]	d ae m
+39	[DAMAGE]	d ae m ax jh
+39	[DANCE]	d ae n s
+39	[DANGER]	d ey n jh er
+39	[DARLING]	d aa r l ix ng
+39	[DART]	d aa r t
+39	[DASHBOARD]	d ae sh b ao r d
+39	[DATABASE]	d ey dx ax b ey s
+39	[DATE]	d ey t
+39	[DAUGHTER]	d ao dx er
+39	[DAUGHTER'S]	d ao dx er z
+39	[DAWN]	d ao n
+39	[DAY]	d ey
+39	[DAY'S]	d ey z
+39	[DAYLIGHT]	d ey l ay t
+39	[DAYLIGHT'S]	d ey l ay t s
+39	[DEADLINE]	d eh d l ay n
+39	[DEAL]	d iy l
+39	[DEAN]	d iy n
+39	[DEATH]	d eh th
+39	[DEBRIS]	d ax b r iy
+39	[DEBT]	d eh t
+39	[DEBTOR]	d eh dx er
+39	[DEBUT]	d ey b y uw
+39	[DECADE]	d eh k ey d
+39	[DECAY]	d ax k ey
+39	[DECISION]	d ix s ih zh ax n
+39	[DECK]	d eh k
+39	[DECLARATION]	d eh k l er ey sh ax n
+39	[DECLINE]	d ix k l ay n
+39	[DECREASE]	d ix k r iy s
+39	[DECREE]	d ix k r iy
+39	[DEDUCTION]	d ix d ah k sh ax n
+39	[DEFAULT]	d ix f ao l t
+39	[DEFEAT]	d ix f iy t
+39	[DEFECT]	d iy f eh k t
+39	[DEFENSE]	d ix f eh n s
+39	[DEFIANCE]	d ix f ay ax n s
+39	[DEFINITION]	d eh f ax n ih sh ax n
+39	[DEGREE]	d ix g r iy
+39	[DELAY]	d ix l ey
+39	[DELICACY]	d eh l ax k ax s iy
+39	[DELTA]	d eh l t ax
+39	[DELUSION]	d ix l uw zh ax n
+39	[DEMAND]	d ix m ae n d
+39	[DEMEANOR]	d ix m iy n er
+39	[DEMISE]	d ix m ay z
+39	[DEMONSTRATION]	d eh m ax n s t r ey sh ax n
+39	[DENIAL]	d ix n ay ax l
+39	[DENOMINATOR]	d ix n aa m ax n ey dx er
+39	[DEPARTURE]	d ix p aa r ch er
+39	[DEPENDENCE]	d ix p eh n d ax n s
+39	[DEPORTATION]	d iy p ao r t ey sh ax n
+39	[DEPOT]	d iy p ow
+39	[DEPRESSION]	d ix p r eh sh ax n
+39	[DEPTH]	d eh p th
+39	[DERISION]	d er ih zh ax n
+39	[DESCENDANT]	d ix s eh n d ax n t
+39	[DESCRIPTION]	d ix s k r ih p sh ax n
+39	[DESERT]	d eh z er t
+39	[DESIGN]	d ix z ay n
+39	[DESIGNATION]	d eh z ax g n ey sh ax n
+39	[DESIGNER]	d ix z ay n er
+39	[DESIRE]	d ix z ay er
+39	[DESK]	d eh s k
+39	[DESKTOP]	d eh s k t aa p
+39	[DESPAIR]	d ix s p eh r
+39	[DESSERT]	d ix z er t
+39	[DESTINATION]	d eh s t ax n ey sh ax n
+39	[DESTINY]	d eh s t ax n iy
+39	[DESTRUCTION]	d ix s t r ah k sh ax n
+39	[DETAIL]	d ix t ey l
+39	[DETENTION]	d ix t eh n sh ax n
+39	[DETERMINATION]	d ix t er m ax n ey sh ax n
+39	[DETERRENT]	d ix t er r ax n t
+39	[DEVICE]	d ix v ay s
+39	[DEVOTION]	d ix v ow sh ax n
+39	[DEW]	d uw
+39	[DEXTERITY]	d eh k s t eh r ax dx iy
+39	[DIAGNOSIS]	d ay ax g n ow s ax s
+39	[DIAGRAM]	d ay ax g r ae m
+39	[DIAL]	d ay ax l
+39	[DIAMETER]	d ay ae m ax dx er
+39	[DIFFERENCE]	d ih f er ax n s
+39	[DIFFERENTIAL]	d ih f er eh n ch ax l
+39	[DIFFICULTY]	d ih f ax k ax l t iy
+39	[DIGNITY]	d ih g n ax dx iy
+39	[DILEMMA]	d ix l eh m ax
+39	[DIMINUTION]	d ih m ax n uw sh ax n
+39	[DINNER]	d ih n er
+39	[DIP]	d ih p
+39	[DIPHTHERIA]	d ix f th ih r iy ax
+39	[DIRECTION]	d er eh k sh ax n
+39	[DIRECTOR]	d er eh k t er
+39	[DIRECTORY]	d er eh k t er iy
+39	[DIRT]	d er t
+39	[DISADVANTAGE]	d ih s ax d v ae n t ix jh
+39	[DISAFFECTION]	d ih s ax f eh k sh ax n
+39	[DISAGREEMENT]	d ix s ax g r iy m ax n t
+39	[DISAPPOINTMENT]	d ih s ax p oy n t m ax n t
+39	[DISASTER]	d ix z ae s t er
+39	[DISC]	d ih s k
+39	[DISCIPLINE]	d ih s ax p l ax n
+39	[DISCOMFORT]	d ix s k ah m f er t
+39	[DISCONTENT]	d ix s k ax n t eh n t
+39	[DISCOURSE]	d ih s k ao r s
+39	[DISCOVERY]	d ix s k ah v er iy
+39	[DISCRETION]	d ix s k r eh sh ax n
+39	[DISCRIMINATION]	d ix s k r ih m ax n ey sh ax n
+39	[DISCUSSION]	d ix s k ah sh ax n
+39	[DISEASE]	d ix z iy z
+39	[DISFAVOR]	d ix s f ey v er
+39	[DISGRACE]	d ix s g r ey s
+39	[DISGUST]	d ix s g ah s t
+39	[DISH]	d ih sh
+39	[DISHONESTY]	d ix s aa n ax s t iy
+39	[DISILLUSIONMENT]	d ih s ix l uw zh ax n m ax n t
+39	[DISK]	d ih s k
+39	[DISMAY]	d ix s m ey
+39	[DISORDER]	d ix s ao r dx er
+39	[DISPARITY]	d ix s p eh r ax dx iy
+39	[DISPLAY]	d ix s p l ey
+39	[DISPOSAL]	d ix s p ow z ax l
+39	[DISPOSITION]	d ih s p ax z ih sh ax n
+39	[DISPUTE]	d ix s p y uw t
+39	[DISRUPTION]	d ix s r ah p sh ax n
+39	[DISSENT]	d ix s eh n t
+39	[DISSOLUTION]	d ih s ax l uw sh ax n
+39	[DISTANCE]	d ih s t ax n s
+39	[DISTINCTION]	d ix s t ih ng k sh ax n
+39	[DISTRESS]	d ix s t r eh s
+39	[DISTRIBUTION]	d ih s t r ax b y uw sh ax n
+39	[DISTRICT]	d ih s t r ix k t
+39	[DITCH]	d ih ch
+39	[DIVE]	d ay v
+39	[DIVERGENCE]	d ay v er jh ax n s
+39	[DIVERSION]	d ay v er zh ax n
+39	[DIVERSITY]	d ix v er s ax dx iy
+39	[DIVISION]	d ix v ih zh ax n
+39	[DOCTOR]	d aa k t er
+39	[DOCTRINE]	d aa k t r ax n
+39	[DOCUMENT]	d aa k y ax m eh n t
+39	[DOG]	d ao g
+39	[DOGMA]	d aa g m ax
+39	[DOLL]	d aa l
+39	[DOLLAR]	d aa l er
+39	[DOMAIN]	d ow m ey n
+39	[DOME]	d ow m
+39	[DOMINION]	d ax m ih n y ax n
+39	[DOOM]	d uw m
+39	[DOOR]	d ao r
+39	[DOUBT]	d aw t
+39	[DOUBTER]	d aw dx er
+39	[DOWNTOWN]	d aw n t aw n
+39	[DOZEN]	d ah z ax n
+39	[DRAIN]	d r ey n
+39	[DRAWBACK]	d r ao b ae k
+39	[DREAD]	d r eh d
+39	[DREAM]	d r iy m
+39	[DRESS]	d r eh s
+39	[DRILLING]	d r ih l ix ng
+39	[DRINK]	d r ih ng k
+39	[DRINKING]	d r ih ng k ix ng
+39	[DRIVE]	d r ay v
+39	[DRIVER]	d r ay v er
+39	[DROP]	d r aa p
+39	[DROUGHT]	d r aw t
+39	[DRUG]	d r ah g
+39	[DRUGSTORE]	d r ah g s t ao r
+39	[DRYNESS]	d r ay n ax s
+39	[DUCK]	d ah k
+39	[DUKE]	d uw k
+39	[DULLNESS]	d ah l n ax s
+39	[DUPLICITY]	d uw p l ih s ix dx iy
+39	[DURATION]	d uh r ey sh ax n
+39	[DUSK]	d ah s k
+39	[DUST]	d ah s t
+39	[DUTY]	d uw dx iy
+39	[DWELLER]	d w eh l er
+39	[DWELLING]	d w eh l ix ng
+39	[EAR]	ih r
+39	[EARNEST]	er n ix s t
+39	[EARTH]	er th
+39	[EARTH'S]	er th s
+39	[ECONOMY]	ix k aa n ax m iy
+39	[EDGE]	eh jh
+39	[EDITION]	ax d ih sh ax n
+39	[EDITOR]	eh dx ax dx er
+39	[EDITORIAL]	eh dx ax t ao r iy ax l
+39	[EDUCATION]	eh jh ax k ey sh ax n
+39	[EEL]	iy l
+39	[EFFECT]	ix f eh k t
+39	[EFFICIENCY]	ix f ih sh ax n s iy
+39	[EFFORT]	eh f er t
+39	[EGG]	eh g
+39	[EGO]	iy g ow
+39	[ELBOW]	eh l b ow
+39	[ELECTION]	ix l eh k sh ax n
+39	[ELECTRICITY]	ix l eh k t r ih s ax dx iy
+39	[ELEMENT]	eh l ax m ax n t
+39	[ELEPHANT]	eh l ax f ax n t
+39	[ELEPHANT'S]	eh l ax f ax n t s
+39	[ELEVATOR]	eh l ax v ey dx er
+39	[ELOQUENCE]	eh l ax k w ax n s
+39	[EMBASSY]	eh m b ax s iy
+39	[EMBROIDERY]	eh m b r oy dx er iy
+39	[EMBRYO]	eh m b r iy ow
+39	[EMERGENCY]	ix m er jh ax n s iy
+39	[EMOTION]	ix m ow sh ax n
+39	[EMPLOYEE]	eh m p l oy iy
+39	[EMPLOYMENT]	eh m p l oy m ax n t
+39	[END]	eh n d
+39	[ENDEAVOR]	ix n d eh v er
+39	[ENDOWMENT]	eh n d aw m ax n t
+39	[ENEMY]	eh n ax m iy
+39	[ENEMY'S]	eh n ax m iy z
+39	[ENERGY]	eh n er jh iy
+39	[ENFORCEMENT]	eh n f ao r s m ax n t
+39	[ENGINE]	eh n jh ax n
+39	[ENGINEER]	eh n jh ax n ih r
+39	[ENJOYMENT]	eh n jh oy m ax n t
+39	[ENLIGHTENMENT]	eh n l ay t ax n m ax n t
+39	[ENTERPRISE]	eh n t er p r ay z
+39	[ENTHUSIASM]	ix n th uw z iy ae z ax m
+39	[ENTHUSIAST]	eh n th uw z iy ae s t
+39	[ENTITY]	eh n t ax dx iy
+39	[ENTRANCE]	eh n t r ax n s
+39	[ENTRY]	eh n t r iy
+39	[ENVELOPE]	eh n v ax l ow p
+39	[ENVIRONMENT]	ix n v ay r ax n m ax n t
+39	[EQUATION]	ix k w ey zh ax n
+39	[EQUILIBRIUM]	iy k w ax l ih b r iy ax m
+39	[EQUIPMENT]	ix k w ih p m ax n t
+39	[ERROR]	eh r er
+39	[ESCORT]	eh s k ao r t
+39	[ESSAY]	eh s ey
+39	[ESTABLISHMENT]	ix s t ae b l ix sh m ax n t
+39	[ESTATE]	ix s t ey t
+39	[ESTIMATE]	eh s t ax m ax t
+39	[ESTIMATION]	eh s t ax m ey sh ax n
+39	[ETIQUETTE]	eh dx ax k ax t
+39	[EVALUATION]	ix v ae l y uw ey sh ax n
+39	[EVAPORATION]	ix v ae p er ey sh ax n
+39	[EVE]	iy v
+39	[EVENING]	iy v n ix ng
+39	[EVENT]	ix v eh n t
+39	[EVERYBODY]	eh v r iy b aa dx iy
+39	[EVERYONE]	eh v r iy w ah n
+39	[EVERYTHING]	eh v r iy th ih ng
+39	[EVIDENCE]	eh v ax d ax n s
+39	[EVOLUTION]	eh v ax l uw sh ax n
+39	[EXAM]	ix g z ae m
+39	[EXAMINATION]	ix g z ae m ax n ey sh ax n
+39	[EXAMPLE]	ix g z ae m p ax l
+39	[EXCELLENCE]	eh k s ax l ax n s
+39	[EXCEPTION]	ix k s eh p sh ax n
+39	[EXCHANGE]	ix k s ch ey n jh
+39	[EXCITEMENT]	ix k s ay t m ax n t
+39	[EXCUSE]	ix k s k y uw s
+39	[EXECUTION]	eh k s ax k y uw sh ax n
+39	[EXERCISE]	eh k s er s ay z
+39	[EXHAUST]	ix g z ao s t
+39	[EXHIBIT]	ix g z ih b ix t
+39	[EXHIBITION]	eh k s ax b ih sh ax n
+39	[EXILE]	eh g z ay l
+39	[EXISTENCE]	eh g z ih s t ax n s
+39	[EXIT]	eh g z ix t
+39	[EXPANSION]	ix k s p ae n sh ax n
+39	[EXPECTATION]	eh k s p eh k t ey sh ax n
+39	[EXPEDITION]	eh k s p ax d ih sh ax n
+39	[EXPENDITURE]	ix k s p eh n d ax ch er
+39	[EXPENSE]	ix k s p eh n s
+39	[EXPERIENCE]	ix k s p ih r iy ax n s
+39	[EXPERIMENT]	ix k s p eh r ax m ax n t
+39	[EXPERIMENTATION]	ix k s p eh r ax m ax n t ey sh ax n
+39	[EXPERT]	eh k s p er t
+39	[EXPIRATION]	eh k s p er ey sh ax n
+39	[EXPLANATION]	eh k s p l ax n ey sh ax n
+39	[EXPLORATION]	eh k s p l er ey sh ax n
+39	[EXPLOSION]	ix k s p l ow zh ax n
+39	[EXPORT]	eh k s p ao r t
+39	[EXPOSURE]	ix k s p ow zh er
+39	[EXPRESSION]	ix k s p r eh sh ax n
+39	[EXTENSION]	ix k s t eh n sh ax n
+39	[EXTENT]	ix k s t eh n t
+39	[EXTINCTION]	ix k s t ih ng k sh ax n
+39	[EXTRAVAGANCE]	ix k s t r ae v ax g ax n s
+39	[EYE]	ay
+39	[EYE'S]	ay z
+39	[F]	eh f
+39	[FABRIC]	f ae b r ix k
+39	[FACE]	f ey s
+39	[FACILITY]	f ax s ih l ix dx iy
+39	[FACT]	f ae k t
+39	[FACTION]	f ae k sh ax n
+39	[FACTOR]	f ae k t er
+39	[FACTOR'S]	f ae k t er z
+39	[FACTORY]	f ae k t er iy
+39	[FAILURE]	f ey l y er
+39	[FAITH]	f ey th
+39	[FAITHFUL]	f ey th f ax l
+39	[FALL]	f ao l
+39	[FAME]	f ey m
+39	[FAMILIARITY]	f ax m ih l y eh r ax dx iy
+39	[FAMILY]	f ae m ax l iy
+39	[FAMINE]	f ae m ax n
+39	[FAN]	f ae n
+39	[FANNY]	f ae n iy
+39	[FARCE]	f aa r s
+39	[FARM]	f aa r m
+39	[FARMER]	f aa r m er
+39	[FASHION]	f ae sh ax n
+39	[FATE]	f ey t
+39	[FATHER]	f aa dh er
+39	[FATHER'S]	f aa dh er z
+39	[FATTENING]	f ae t ax n ix ng
+39	[FAULT]	f ao l t
+39	[FAVOR]	f ey v er
+39	[FEAR]	f ih r
+39	[FEAT]	f iy t
+39	[FEATURE]	f iy ch er
+39	[FEED]	f iy d
+39	[FENCE]	f eh n s
+39	[FENDER]	f eh n d er
+39	[FERRY]	f eh r iy
+39	[FERTILITY]	f er t ih l ax dx iy
+39	[FEVER]	f iy v er
+39	[FIASCO]	f iy ae s k ow
+39	[FIBER]	f ay b er
+39	[FIDDLE]	f ih dx ax l
+39	[FIELD]	f iy l d
+39	[FIGHT]	f ay t
+39	[FIGHTER]	f ay dx er
+39	[FIGURE]	f ih g y er
+39	[FILM]	f ih l m
+39	[FILTER]	f ih l t er
+39	[FINE]	f ay n
+39	[FINGER]	f ih ng g er
+39	[FIRE]	f ay er
+39	[FIRING]	f ay r ix ng
+39	[FIRMNESS]	f er m n ax s
+39	[FISH]	f ih sh
+39	[FISHING]	f ih sh ix ng
+39	[FIST]	f ih s t
+39	[FIT]	f ih t
+39	[FITNESS]	f ih t n ax s
+39	[FLAG]	f l ae g
+39	[FLAME]	f l ey m
+39	[FLASH]	f l ae sh
+39	[FLATTERY]	f l ae dx er iy
+39	[FLEET]	f l iy t
+39	[FLESH]	f l eh sh
+39	[FLIGHT]	f l ay t
+39	[FLOOD]	f l ah d
+39	[FLOOR]	f l ao r
+39	[FLOW]	f l ow
+39	[FLOWER]	f l aw er
+39	[FLUTING]	f l uw dx ix ng
+39	[FOAM]	f ow m
+39	[FOCUS]	f ow k ax s
+39	[FODDER]	f aa dx er
+39	[FOE]	f ow
+39	[FOLK]	f ow k
+39	[FOLLY]	f aa l iy
+39	[FOOD]	f uw d
+39	[FOOL]	f uw l
+39	[FOOT]	f uh t
+39	[FOOTNOTE]	f uh t n ow t
+39	[FOOTWEAR]	f uh t w eh r
+39	[FORBEARANCE]	f ao r b eh r ax n s
+39	[FORE]	f ao r
+39	[FORECASTING]	f ao r k ae s t ix ng
+39	[FOREMAN]	f ao r m ax n
+39	[FOREST]	f ao r ax s t
+39	[FORFEITURE]	f ao r f ax ch er
+39	[FORM]	f ao r m
+39	[FORMALITY]	f ao r m ae l ax dx iy
+39	[FORMAT]	f ao r m ae t
+39	[FORMATION]	f ao r m ey sh ax n
+39	[FORMULA]	f ao r m y ax l ax
+39	[FORTUNE]	f ao r ch ax n
+39	[FOUNDATION]	f aw n d ey sh ax n
+39	[FOUNTAIN]	f aw n t ax n
+39	[FOWL]	f aw l
+39	[FOX]	f aa k s
+39	[FRACTION]	f r ae k sh ax n
+39	[FRAGMENT]	f r ae g m ax n t
+39	[FRAGRANCE]	f r ey g r ax n s
+39	[FRAME]	f r ey m
+39	[FRAUD]	f r ao d
+39	[FREEDOM]	f r iy dx ax m
+39	[FREEZE]	f r iy z
+39	[FREEZING]	f r iy z ix ng
+39	[FREIGHT]	f r ey t
+39	[FREQUENCY]	f r iy k w ax n s iy
+39	[FRESHNESS]	f r eh sh n ax s
+39	[FRICTION]	f r ih k sh ax n
+39	[FRIEND]	f r eh n d
+39	[FRIENDSHIP]	f r eh n d sh ix p
+39	[FRIGHT]	f r ay t
+39	[FRINGE]	f r ih n jh
+39	[FRONT]	f r ah n t
+39	[FRONTIER]	f r ax n t ih r
+39	[FROTH]	f r ao th
+39	[FRUIT]	f r uw t
+39	[FRUSTRATION]	f r ax s t r ey sh ax n
+39	[FUEL]	f y uw ax l
+39	[FUN]	f ah n
+39	[FUNCTION]	f ah ng k sh ax n
+39	[FUNDING]	f ah n d ix ng
+39	[FUR]	f er
+39	[FURNACE]	f er n ax s
+39	[FURNITURE]	f er n ix ch er
+39	[FURY]	f y uh r iy
+39	[GAIN]	g ey n
+39	[GALA]	g ae l ax
+39	[GALLERY]	g ae l er iy
+39	[GAMBLE]	g ae m b ax l
+39	[GAME]	g ey m
+39	[GAMMA]	g ae m ax
+39	[GANG]	g ae ng
+39	[GAP]	g ae p
+39	[GARBAGE]	g aa r b ix jh
+39	[GARDEN]	g aa r d ax n
+39	[GARDENER]	g aa r d ax n er
+39	[GAS]	g ae s
+39	[GATE]	g ey t
+39	[GATEWAY]	g ey t w ey
+39	[GAUZE]	g ao z
+39	[GEAR]	g ih r
+39	[GENDARME]	zh aa n d aa r m
+39	[GENERATION]	jh eh n er ey sh ax n
+39	[GENESIS]	jh eh n ax s ax s
+39	[GENIUS]	jh iy n y ax s
+39	[GENTLENESS]	jh eh n t ax l n ax s
+39	[GEOLOGY]	jh iy aa l ax jh iy
+39	[GEOMETRY]	jh iy aa m ax t r iy
+39	[GESTURE]	jh eh s ch er
+39	[GHOST]	g ow s t
+39	[GIANT'S]	jh ay ax n t s
+39	[GIFT]	g ih f t
+39	[GILDING]	g ih l d ix ng
+39	[GIN]	jh ih n
+39	[GINGER]	jh ih n jh er
+39	[GIRL]	g er l
+39	[GLANCE]	g l ae n s
+39	[GLARE]	g l eh r
+39	[GLASS]	g l ae s
+39	[GLEE]	g l iy
+39	[GLIMMER]	g l ih m er
+39	[GLIMPSE]	g l ih m p s
+39	[GLOBE]	g l ow b
+39	[GLOOM]	g l uw m
+39	[GLORY]	g l ao r iy
+39	[GLOW]	g l ow
+39	[GLUE]	g l uw
+39	[GNAWING]	n ao ix ng
+39	[GOAL]	g ow l
+39	[GODDESS]	g aa dx ax s
+39	[GOLD]	g ow l d
+39	[GOLF]	g aa l f
+39	[GOODNESS]	g uh d n ax s
+39	[GOOSE]	g uw s
+39	[GOOSE'S]	g uw s ax z
+39	[GOSSIP]	g aa s ax p
+39	[GOVERNMENT]	g ah v er m ax n t
+39	[GOVERNOR]	g ah v er n er
+39	[GRACE]	g r ey s
+39	[GRAIN]	g r ey n
+39	[GRAMMAR]	g r ae m er
+39	[GRANDEUR]	g r ae n d uw r
+39	[GRANDFATHER]	g r ae n d f aa dh er
+39	[GRANDMOTHER]	g r ae n d m ah dh er
+39	[GRANDSON]	g r ae n d s ah n
+39	[GRANITE]	g r ae n ax t
+39	[GRANT]	g r ae n t
+39	[GRASS]	g r ae s
+39	[GRAVEYARD]	g r ey v y aa r d
+39	[GRAVITY]	g r ae v ax dx iy
+39	[GREASE]	g r iy s
+39	[GREED]	g r iy d
+39	[GRIEF]	g r iy f
+39	[GROUND]	g r aw n d
+39	[GROUNDWORK]	g r aw n d w er k
+39	[GROVE]	g r ow v
+39	[GROWTH]	g r ow th
+39	[GUARANTEE]	g eh r ax n t iy
+39	[GUARD]	g aa r d
+39	[GUEST]	g eh s t
+39	[GUIDANCE]	g ay d ax n s
+39	[GUILT]	g ih l t
+39	[GUISE]	g ay z
+39	[GULF]	g ah l f
+39	[GUM]	g ah m
+39	[GUN]	g ah n
+39	[GUNNER]	g ah n er
+39	[GUY]	g ay
+39	[HABIT]	hh ae b ax t
+39	[HABITAT]	hh ae b ax t ae t
+39	[HAIL]	hh ey l
+39	[HAIR]	hh eh r
+39	[HALL]	hh ao l
+39	[HALLWAY]	hh ao l w ey
+39	[HALO]	hh ey l ow
+39	[HALT]	hh ao l t
+39	[HAM]	hh ae m
+39	[HAND]	hh ae n d
+39	[HANDFUL]	hh ae n d f uh l
+39	[HANDICAP]	hh ae n d iy k ae p
+39	[HANDWRITING]	hh ae n d r ay dx ix ng
+39	[HAPPINESS]	hh ae p iy n ax s
+39	[HARBOR]	hh aa r b er
+39	[HARDSHIP]	hh aa r d sh ix p
+39	[HARDWARE]	hh aa r d w eh r
+39	[HARM]	hh aa r m
+39	[HARM'S]	hh aa r m z
+39	[HARMONY]	hh aa r m ax n iy
+39	[HARVEST]	hh aa r v ax s t
+39	[HASTE]	hh ey s t
+39	[HAT]	hh ae t
+39	[HATCHET]	hh ae ch ax t
+39	[HATRED]	hh ey t r ax d
+39	[HAVEN]	hh ey v ax n
+39	[HAVOC]	hh ae v ax k
+39	[HAWK]	hh ao k
+39	[HAY]	hh ey
+39	[HEAD]	hh eh d
+39	[HEADACHE]	hh eh d ey k
+39	[HEADQUARTERS]	hh eh d k w ao r dx er z
+39	[HEADWAY]	hh eh d w ey
+39	[HEALTH]	hh eh l th
+39	[HEAP]	hh iy p
+39	[HEARING]	hh ih r ix ng
+39	[HEART]	hh aa r t
+39	[HEART'S]	hh aa r t s
+39	[HEAT]	hh iy t
+39	[HEAVEN]	hh eh v ax n
+39	[HEAVEN'S]	hh eh v ax n z
+39	[HEEL]	hh iy l
+39	[HEGEMONY]	hh iy jh eh m ax n iy
+39	[HEIGHT]	hh ay t
+39	[HEIR]	eh r
+39	[HEM]	hh eh m
+39	[HEMISPHERE]	hh eh m ix s f ih r
+39	[HERD]	hh er d
+39	[HEREDITY]	hh er eh dx ax dx iy
+39	[HERITAGE]	hh eh r ax dx ax jh
+39	[HERO]	hh ih r ow
+39	[HESITATION]	hh eh z ax t ey sh ax n
+39	[HILL]	hh ih l
+39	[HILLSIDE]	hh ih l s ay d
+39	[HINT]	hh ih n t
+39	[HIP]	hh ih p
+39	[HISTORIAN]	hh ix s t ao r iy ax n
+39	[HISTORY]	hh ih s t er iy
+39	[HITCH]	hh ih ch
+39	[HOBBY]	hh aa b iy
+39	[HOCK]	hh aa k
+39	[HOLDER]	hh ow l d er
+39	[HOLE]	hh ow l
+39	[HOLIDAY]	hh aa l ax d ey
+39	[HOMEWORK]	hh ow m w er k
+39	[HONESTY]	aa n ax s t iy
+39	[HONOR]	aa n er
+39	[HOOD]	hh uh d
+39	[HOOK]	hh uh k
+39	[HOPE]	hh ow p
+39	[HORIZON]	hh er ay z ax n
+39	[HORN]	hh ao r n
+39	[HORROR]	hh ao r er
+39	[HORSE]	hh ao r s
+39	[HORSE'S]	hh ao r s ax z
+39	[HOSPITAL]	hh aa s p ih dx ax l
+39	[HOST]	hh ow s t
+39	[HOSTAGE]	hh aa s t ix jh
+39	[HOSTILITY]	hh aa s t ih l ax dx iy
+39	[HOTEL]	hh ow t eh l
+39	[HOUR]	aw er
+39	[HOUR'S]	aw er z
+39	[HOUSEHOLD]	hh aw s hh ow l d
+39	[HUG]	hh ah g
+39	[HUM]	hh ah m
+39	[HUMANITY]	hh y uw m ae n ix dx iy
+39	[HUMILIATION]	hh y uw m ih l iy ey sh ax n
+39	[HUMOR]	hh y uw m er
+39	[HUNCH]	hh ah n ch
+39	[HUNDREDWEIGHT]	hh ah n d r ax d w ey t
+39	[HUNGER]	hh ah ng g er
+39	[HUNT]	hh ah n t
+39	[HUNTER]	hh ah n t er
+39	[HUNTER'S]	hh ah n t er z
+39	[HUNTING]	hh ah n t ix ng
+39	[HURRY]	hh er iy
+39	[HUSBAND]	hh ah z b ax n d
+39	[HUSBAND'S]	hh ah z b ax n d z
+39	[HYDROGEN]	hh ay d r ax jh ax n
+39	[HYSTERIA]	hh ix s t eh r iy ax
+39	[ICE]	ay s
+39	[ICEBERG]	ay s b er g
+39	[IDEA]	ay d iy ax
+39	[IDEALISM]	ay d iy l ix z ax m
+39	[IDENTITY]	ay d eh n t ax dx iy
+39	[IGNORANCE]	ih g n er ax n s
+39	[ILLNESS]	ih l n ax s
+39	[ILLUSION]	ix l uw zh ax n
+39	[ILLUSTRATION]	ih l ax s t r ey sh ax n
+39	[IMAGE]	ih m ax jh
+39	[IMAGINATION]	ix m ae jh ax n ey sh ax n
+39	[IMITATION]	ih m ax t ey sh ax n
+39	[IMMUNITY]	ix m y uw n ax dx iy
+39	[IMPACT]	ix m p ae k t
+39	[IMPORT]	ix m p ao r t
+39	[IMPORTANCE]	ix m p ao r t ax n s
+39	[IMPOSITION]	ih m p ax z ih sh ax n
+39	[IMPRESSION]	ix m p r eh sh ax n
+39	[IMPROVEMENT]	ix m p r uw v m ax n t
+39	[IMPULSE]	ih m p ax l s
+39	[INADEQUACY]	ix n ae dx ix k w ax s iy
+39	[INATTENTION]	ix n ax t eh n ch ax n
+39	[INCENSE]	ix n s eh n s
+39	[INCENTIVE]	ix n s eh n t ix v
+39	[INCH]	ih n ch
+39	[INCIDENT]	ih n s ax d ax n t
+39	[INCLINATION]	ih n k l ax n ey sh ax n
+39	[INCOME]	ih n k ah m
+39	[INCONVENIENCE]	ih n k ax n v iy n y ax n s
+39	[INCREASE]	ix n k r iy s
+39	[INDEPENDENCE]	ih n d ix p eh n d ax n s
+39	[INDEX]	ih n d eh k s
+39	[INDICATION]	ih n d ax k ey sh ax n
+39	[INDIFFERENCE]	ix n d ih f er ax n s
+39	[INDIGNITY]	ix n d ih g n ax dx iy
+39	[INDULGENCE]	ix n d ah l jh ax n s
+39	[INDUSTRY]	ih n d ax s t r iy
+39	[INERTIA]	ix n er sh ax
+39	[INFANCY]	ih n f ax n s iy
+39	[INFANT]	ih n f ax n t
+39	[INFERENCE]	ih n f er ax n s
+39	[INFLUENCE]	ih n f l uw ax n s
+39	[INGENUITY]	ix n jh ax n uw ax dx iy
+39	[INHERITANCE]	ix n hh eh r ax t ax n s
+39	[INJURY]	ih n jh er iy
+39	[INJUSTICE]	ix n jh ah s t ix s
+39	[INK]	ih ng k
+39	[INPUT]	ih n p uh t
+39	[INQUIRY]	ix n k w ay r iy
+39	[INSCRIPTION]	ix n s k r ih p sh ax n
+39	[INSERT]	ix n s er t
+39	[INSPIRATION]	ih n s p er ey sh ax n
+39	[INSTALLATION]	ih n s t ax l ey sh ax n
+39	[INSTANCE]	ih n s t ax n s
+39	[INSTINCT]	ih n s t ix ng k t
+39	[INSTITUTION]	ih n s t ix t uw sh ax n
+39	[INSTRUCTION]	ix n s t r ah k sh ax n
+39	[INSTRUMENT]	ih n s t r ax m ax n t
+39	[INSULT]	ix n s ah l t
+39	[INSURANCE]	ix n sh uh r ax n s
+39	[INTELLECT]	ih n t ax l eh k t
+39	[INTELLIGENCE]	ix n t eh l ax jh ax n s
+39	[INTENSITY]	ix n t eh n s ax dx iy
+39	[INTENT]	ix n t eh n t
+39	[INTENTION]	ix n t eh n ch ax n
+39	[INTERCEPT]	ih n t er s eh p t
+39	[INTEREST]	ih n t r ax s t
+39	[INTERFERENCE]	ih n t er f ih r ax n s
+39	[INTERPRETATION]	ix n t er p r ix t ey sh ax n
+39	[INTERPRETER]	ix n t er p r ax dx er
+39	[INTERRUPTION]	ih n t er ah p sh ax n
+39	[INTERVIEW]	ih n t er v y uw
+39	[INTRODUCTION]	ih n t r ax d ah k sh ax n
+39	[INTUITION]	ih n t uw ih sh ax n
+39	[INVASION]	ix n v ey zh ax n
+39	[INVENTION]	ix n v eh n sh ax n
+39	[INVESTIGATION]	ix n v eh s t ax g ey sh ax n
+39	[INVESTIGATOR]	ix n v eh s t ax g ey dx er
+39	[INVESTMENT]	ix n v eh s t m ax n t
+39	[INVESTOR]	ix n v eh s t er
+39	[INVITATION]	ih n v ix t ey sh ax n
+39	[IOTA]	ay ow dx ax
+39	[IRON]	ay er n
+39	[IRONY]	ay r ax n iy
+39	[IRRITATION]	ih r ix t ey sh ax n
+39	[ISLAND]	ay l ax n d
+39	[ISOLATION]	ay s ax l ey sh ax n
+39	[ISSUE]	ih sh uw
+39	[ITEM]	ay dx ax m
+39	[ITINERARY]	ay t ih n er eh r iy
+39	[IVORY]	ay v er iy
+39	[JACK]	jh ae k
+39	[JACKET]	jh ae k ax t
+39	[JAIL]	jh ey l
+39	[JARGON]	jh aa r g ax n
+39	[JEALOUSY]	jh eh l ax s iy
+39	[JET]	jh eh t
+39	[JEWELRY]	jh uw ax l r iy
+39	[JOB]	jh aa b
+39	[JOCK]	jh aa k
+39	[JOKE]	jh ow k
+39	[JOURNAL]	jh er n ax l
+39	[JOURNEY]	jh er n iy
+39	[JOY]	jh oy
+39	[JUDGE]	jh ah jh
+39	[JUDGMENT]	jh ah jh m ax n t
+39	[JUICE]	jh uw s
+39	[JUMP]	jh ah m p
+39	[JUNGLE]	jh ah ng g ax l
+39	[JUNK]	jh ah ng k
+39	[JURISDICTION]	jh uh r ax s d ih k sh ax n
+39	[JURY]	jh uh r iy
+39	[JUSTICE]	jh ah s t ax s
+39	[JUSTIFICATION]	jh ah s t ax f ax k ey sh ax n
+39	[KERNEL]	k er n ax l
+39	[KEYBOARD]	k iy b ao r d
+39	[KIND]	k ay n d
+39	[KINDERGARTEN]	k ih n d er g aa r t ax n
+39	[KINDNESS]	k ay n d n ax s
+39	[KING]	k ih ng
+39	[KING'S]	k ih ng z
+39	[KINGDOM]	k ih ng d ax m
+39	[KIT]	k ih t
+39	[KITCHEN]	k ih ch ax n
+39	[KNEE]	n iy
+39	[KNIFE]	n ay f
+39	[KNIFE'S]	n ay f s
+39	[KNOWLEDGE]	n aa l ax jh
+39	[LABOR]	l ey b er
+39	[LABORATORY]	l ae b r ax t ao r iy
+39	[LACK]	l ae k
+39	[LADY]	l ey dx iy
+39	[LADY'S]	l ey dx iy z
+39	[LAKE]	l ey k
+39	[LAMP]	l ae m p
+39	[LANDING]	l ae n d ix ng
+39	[LANDSCAPE]	l ae n d s k ey p
+39	[LANE]	l ey n
+39	[LANGUAGE]	l ae ng g w ax jh
+39	[LAP]	l ae p
+39	[LAPSE]	l ae p s
+39	[LAPTOP]	l ae p t aa p
+39	[LATENT]	l ey t ax n t
+39	[LATITUDE]	l ae dx ax t uw d
+39	[LAUGH]	l ae f
+39	[LAUGHTER]	l ae f t er
+39	[LAUNDRY]	l ao n d r iy
+39	[LAUREATE]	l ao r iy ax t
+39	[LAWN]	l ao n
+39	[LAWYER]	l ao y er
+39	[LAXATIVE]	l ae k s ax dx ix v
+39	[LEADER]	l iy dx er
+39	[LEADERSHIP]	l iy dx er sh ih p
+39	[LEAGUE]	l iy g
+39	[LEASE]	l iy s
+39	[LEATHER]	l eh dh er
+39	[LECTURE]	l eh k ch er
+39	[LEG]	l eh g
+39	[LEGACY]	l eh g ax s iy
+39	[LEGEND]	l eh jh ax n d
+39	[LEGISLATION]	l eh jh ax s l ey sh ax n
+39	[LEISURE]	l eh zh er
+39	[LENDING]	l eh n d ix ng
+39	[LENGTH]	l eh ng k th
+39	[LENS]	l eh n z
+39	[LESSON]	l eh s ax n
+39	[LETTER]	l eh dx er
+39	[LEVEL]	l eh v ax l
+39	[LIABILITY]	l ay ax b ih l ix dx iy
+39	[LIAR]	l ay er
+39	[LIBERTY]	l ih b er dx iy
+39	[LIBRARIAN]	l ay b r eh r iy ax n
+39	[LIBRARY]	l ay b r eh r iy
+39	[LICENSE]	l ay s ax n s
+39	[LIEU]	l uw
+39	[LIEUTENANT]	l uw t eh n ax n t
+39	[LIEUTENANT'S]	l uw t eh n ax n t s
+39	[LIFE]	l ay f
+39	[LIFE'S]	l ay f s
+39	[LIFETIME]	l ay f t ay m
+39	[LIGHT'S]	l ay t s
+39	[LIGHTNING]	l ay t n ix ng
+39	[LIKENESS]	l ay k n ax s
+39	[LILY]	l ih l iy
+39	[LIMB]	l ih m
+39	[LIMIT]	l ih m ax t
+39	[LIMITATION]	l ih m ix t ey sh ax n
+39	[LINE]	l ay n
+39	[LINEN]	l ih n ax n
+39	[LINK]	l ih ng k
+39	[LION]	l ay ax n
+39	[LIPSTICK]	l ih p s t ih k
+39	[LIST]	l ih s t
+39	[LISTENER]	l ih s ax n er
+39	[LITERATURE]	l ih dx er ax ch er
+39	[LITTER]	l ih dx er
+39	[LIVER]	l ih v er
+39	[LOCATION]	l ow k ey sh ax n
+39	[LOFT]	l ao f t
+39	[LOGIC]	l aa jh ix k
+39	[LOITERING]	l oy dx er ix ng
+39	[LONGEVITY]	l ao n jh eh v ax dx iy
+39	[LOOP]	l uw p
+39	[LOSS]	l ao s
+39	[LOT]	l aa t
+39	[LOTTERY]	l aa dx er iy
+39	[LOVE]	l ah v
+39	[LOVER]	l ah v er
+39	[LOYALTY]	l oy ax l t iy
+39	[LUCK]	l ah k
+39	[LUMBER]	l ah m b er
+39	[LUMP]	l ah m p
+39	[LUNCH]	l ah n ch
+39	[LUNCHEON]	l ah n ch ax n
+39	[LUSTER]	l ah s t er
+39	[LUXURY]	l ah g zh er iy
+39	[MACHINE]	m ax sh iy n
+39	[MACHINERY]	m ax sh iy n er iy
+39	[MAFIA]	m aa f iy ax
+39	[MAGAZINE]	m ae g ax z iy n
+39	[MAGICIAN]	m ax jh ih sh ax n
+39	[MAGICIAN'S]	m ax jh ih sh ax n z
+39	[MAGISTRATE]	m ae jh ax s t r ey t
+39	[MAGNETISM]	m ae g n ax t ih z ax m
+39	[MAGNITUDE]	m ae g n ax t uw d
+39	[MAID]	m ey d
+39	[MAIL]	m ey l
+39	[MAJORITY]	m ax jh ao r ax dx iy
+39	[MALL]	m ao l
+39	[MALNUTRITION]	m ae l n uw t r ih sh ax n
+39	[MAN]	m ae n
+39	[MANAGEMENT]	m ae n ax jh m ax n t
+39	[MANAGER]	m ae n ax jh er
+39	[MANIFESTATION]	m ae n ax f eh s t ey sh ax n
+39	[MANKIND]	m ae n k ay n d
+39	[MANNER]	m ae n er
+39	[MANUSCRIPT]	m ae n y ax s k r ih p t
+39	[MAP]	m ae p
+39	[MARBLE]	m aa r b ax l
+39	[MARCH]	m aa r ch
+39	[MARGIN]	m aa r jh ax n
+39	[MARKET]	m aa r k ax t
+39	[MARRIAGE]	m eh r ix jh
+39	[MARROW]	m eh r ow
+39	[MARSHAL]	m aa r sh ax l
+39	[MARTYR]	m aa r dx er
+39	[MASS]	m ae s
+39	[MASSACRE]	m ae s ax k er
+39	[MASSAGE]	m ax s aa zh
+39	[MASTER]	m ae s t er
+39	[MASTERPIECE]	m ae s t er p iy s
+39	[MATE]	m ey t
+39	[MATERIAL]	m ax t ih r iy ax l
+39	[MATHEMATICIAN]	m ae th ax m ax t ih sh ax n
+39	[MATTER]	m ae dx er
+39	[MATURITY]	m ax ch uh r ax dx iy
+39	[MAXIM]	m ae k s ax m
+39	[MEAL]	m iy l
+39	[MEANTIME]	m iy n t ay m
+39	[MEASURE]	m eh zh er
+39	[MEASUREMENT]	m eh zh er m ax n t
+39	[MEAT]	m iy t
+39	[MECHANISM]	m eh k ax n ih z ax m
+39	[MEDICATION]	m eh dx ax k ey sh ax n
+39	[MEDITATION]	m eh dx ax t ey sh ax n
+39	[MEDIUM]	m iy dx iy ax m
+39	[MEETING]	m iy dx ix ng
+39	[MEMBER]	m eh m b er
+39	[MEMORY]	m eh m er iy
+39	[MENACE]	m eh n ax s
+39	[MENU]	m eh n y uw
+39	[MERCHANDISE]	m er ch ax n d ay z
+39	[MERCHANT]	m er ch ax n t
+39	[MERCURY]	m er k y er iy
+39	[MERCY]	m er s iy
+39	[MERIT]	m eh r ax t
+39	[MESS]	m eh s
+39	[MESSAGE]	m eh s ax jh
+39	[MESSENGER]	m eh s ax n jh er
+39	[METAL]	m eh dx ax l
+39	[METHOD]	m eh th ax d
+39	[MICROPHONE]	m ay k r ax f ow n
+39	[MICROSCOPE]	m ay k r ax s k ow p
+39	[MICROWAVE]	m ay k r ax w ey v
+39	[MIDDAY]	m ih d d ey
+39	[MIDMORNING]	m ih d m ao r n ix ng
+39	[MIDNIGHT]	m ih d n ay t
+39	[MIDST]	m ih d s t
+39	[MIDWAY]	m ih d w ey
+39	[MILE]	m ay l
+39	[MILL]	m ih l
+39	[MIND]	m ay n d
+39	[MINE]	m ay n
+39	[MINERAL]	m ih n er ax l
+39	[MINING]	m ay n ix ng
+39	[MINISTER]	m ih n ax s t er
+39	[MINT]	m ih n t
+39	[MINUTE]	m ih n ax t
+39	[MIRACLE]	m ih r ax k ax l
+39	[MISCHIEF]	m ih s ch ax f
+39	[MISDEMEANOR]	m ih s d ax m iy n er
+39	[MISFORTUNE]	m ix s f ao r ch ax n
+39	[MISSION]	m ih sh ax n
+39	[MIST]	m ih s t
+39	[MISTAKE]	m ix s t ey k
+39	[MIX]	m ih k s
+39	[MIXTURE]	m ih k s ch er
+39	[MOCKERY]	m aa k er iy
+39	[MODE]	m ow d
+39	[MODEL]	m aa dx ax l
+39	[MODERATION]	m aa dx er ey sh ax n
+39	[MODIFICATION]	m aa dx ax f ax k ey sh ax n
+39	[MOISTURE]	m oy s ch er
+39	[MOLECULE]	m aa l ax k y uw l
+39	[MOM]	m aa m
+39	[MOMENT]	m ow m ax n t
+39	[MOMENT'S]	m ow m ax n t s
+39	[MOMENTUM]	m ow m eh n t ax m
+39	[MONARCHY]	m aa n aa r k iy
+39	[MONEY]	m ah n iy
+39	[MONKEY]	m ah ng k iy
+39	[MONOPOLY]	m ax n aa p ax l iy
+39	[MONSTER]	m aa n s t er
+39	[MONTH]	m ah n th
+39	[MOOD]	m uw d
+39	[MOON]	m uw n
+39	[MORALITY]	m er ae l ax dx iy
+39	[MORNING]	m ao r n ix ng
+39	[MORROW]	m aa r ow
+39	[MOTEL]	m ow t eh l
+39	[MOTHER]	m ah dh er
+39	[MOTHER'S]	m ah dh er z
+39	[MOTION]	m ow sh ax n
+39	[MOTIVE]	m ow dx ix v
+39	[MOTOR]	m ow dx er
+39	[MOUNTAIN]	m aw n t ax n
+39	[MOUSE]	m aw s
+39	[MOUTH]	m aw th
+39	[MOVE]	m uw v
+39	[MOVEMENT]	m uw v m ax n t
+39	[MOVIE]	m uw v iy
+39	[MUD]	m ah d
+39	[MULTITUDE]	m ah l t ax t uw d
+39	[MURDER]	m er dx er
+39	[MUSIC]	m y uw z ix k
+39	[MUSICIAN]	m y uw z ih sh ax n
+39	[MUSTARD]	m ah s t er d
+39	[MYSTERY]	m ih s t er iy
+39	[NAME]	n ey m
+39	[NAME'S]	n ey m z
+39	[NAPKIN]	n ae p k ix n
+39	[NATION]	n ey sh ax n
+39	[NATURALIST]	n ae ch er ax l ax s t
+39	[NATURE]	n ey ch er
+39	[NATURE'S]	n ey ch er z
+39	[NAVY]	n ey v iy
+39	[NEATNESS]	n iy t n ax s
+39	[NECESSITY]	n ax s eh s ax dx iy
+39	[NECK]	n eh k
+39	[NEED]	n iy d
+39	[NEEDLE]	n iy dx ax l
+39	[NEGLECT]	n ax g l eh k t
+39	[NEIGHBOR]	n ey b er
+39	[NEIGHBORHOOD]	n ey b er hh uh d
+39	[NEMESIS]	n eh m ax s ix s
+39	[NEPHEW]	n eh f y uw
+39	[NEST]	n eh s t
+39	[NETWORK]	n eh t w er k
+39	[NICKNAME]	n ih k n ey m
+39	[NIGHT]	n ay t
+39	[NIGHT'S]	n ay t s
+39	[NIGHTMARE]	n ay t m eh r
+39	[NITROGEN]	n ay t r ax jh ax n
+39	[NOBODY]	n ow b aa d iy
+39	[NOD]	n aa d
+39	[NOISE]	n oy z
+39	[NONE]	n ah n
+39	[NONENTITY]	n aa n eh n t ax dx iy
+39	[NOON]	n uw n
+39	[NORM]	n ao r m
+39	[NOSE]	n ow z
+39	[NOTEBOOK]	n ow t b uh k
+39	[NOTEPAD]	n ow t p ae d
+39	[NOTHIN']	n ah th ix n
+39	[NOTHING]	n ah th ix ng
+39	[NOTICE]	n ow dx ax s
+39	[NOTIFICATION]	n ow dx ax f ax k ey sh ax n
+39	[NOTION]	n ow sh ax n
+39	[NOVEL]	n aa v ax l
+39	[NOVELTY]	n aa v ax l t iy
+39	[NUCLEUS]	n uw k l iy ax s
+39	[NUMBER]	n ah m b er
+39	[NURSE]	n er s
+39	[NURSERY]	n er s er iy
+39	[NURSING]	n er s ix ng
+39	[NUTRITION]	n uw t r ih sh ax n
+39	[OAK]	ow k
+39	[OBJECT]	aa b jh eh k t
+39	[OBJECTION]	ax b jh eh k sh ax n
+39	[OBJECTIVE]	ax b jh eh k t ix v
+39	[OBLIGATION]	aa b l ax g ey sh ax n
+39	[OBLIVION]	ax b l ih v iy ax n
+39	[OBSCURITY]	ax b s k y uh r ax dx iy
+39	[OBSERVATION]	aa b z er v ey sh ax n
+39	[OBSERVATORY]	ax b z er v ax t ao r iy
+39	[OBSERVER]	ax b z er v er
+39	[OBSTACLE]	aa b s t ax k ax l
+39	[OCCASION]	ax k ey zh ax n
+39	[OCCUPATION]	aa k y ax p ey sh ax n
+39	[OCCURRENCE]	ax k er ax n s
+39	[OCEAN]	ow sh ax n
+39	[OFFENDER]	ax f eh n d er
+39	[OFFENSE]	ax f eh n s
+39	[OFFER]	ao f er
+39	[OFFERING]	ao f er ix ng
+39	[OFFICE]	ao f ax s
+39	[OFFICER]	ao f ax s er
+39	[OFFICER'S]	ao f ix s er z
+39	[OFFICIAL]	ax f ih sh ax l
+39	[OFFSPRING]	ao f s p r ih ng
+39	[OOZE]	uw z
+39	[OPENNESS]	ow p ax n n ax s
+39	[OPERA]	aa p r ax
+39	[OPERATION]	aa p er ey sh ax n
+39	[OPINION]	ax p ih n y ax n
+39	[OPIUM]	ow p iy ax m
+39	[OPPONENT]	ax p ow n ax n t
+39	[OPPORTUNITY]	aa p er t uw n ax dx iy
+39	[OPPOSITION]	aa p ax z ih sh ax n
+39	[OPPRESSION]	ax p r eh sh ax n
+39	[OPTION]	aa p sh ax n
+39	[ORANGE]	ao r ax n jh
+39	[ORCHARD]	ao r ch er d
+39	[ORDER]	ao r dx er
+39	[ORDNANCE]	ao r d n ax n s
+39	[ORGAN]	ao r g ax n
+39	[ORGANISM]	ao r g ax n ih z ax m
+39	[ORGANIZATION]	ao r g ax n ax z ey sh ax n
+39	[ORIGIN]	ao r ax jh ax n
+39	[ORIGINATION]	er ih jh ax n ey sh ax n
+39	[ORTHODOXY]	ao r th ax d aa k s iy
+39	[OSTENTATION]	ao s t eh n t ey sh ax n
+39	[OUTCOME]	aw t k ah m
+39	[OUTPUT]	aw t p uh t
+39	[OUTRAGE]	aw t r ey jh
+39	[OUTSET]	aw t s eh t
+39	[OVERFLOW]	ow v er f l ow
+39	[OVERHEAD]	ow v er hh eh d
+39	[OWL]	aw l
+39	[OWNER]	ow n er
+39	[OX]	aa k s
+39	[OXYGEN]	aa k s ax jh ax n
+39	[P]	p iy
+39	[PACE]	p ey s
+39	[PACING]	p ey s ix ng
+39	[PACK]	p ae k
+39	[PACKAGE]	p ae k ax jh
+39	[PACKET]	p ae k ax t
+39	[PAGE]	p ey jh
+39	[PAIL]	p ey l
+39	[PAIN]	p ey n
+39	[PAINTER]	p ey n t er
+39	[PAINTING]	p ey n t ix ng
+39	[PAIR]	p eh r
+39	[PALACE]	p ae l ax s
+39	[PALL]	p aa l
+39	[PALM]	p aa m
+39	[PANIC]	p ae n ix k
+39	[PARADE]	p er ey d
+39	[PARAGRAPH]	p ae r ax g r ae f
+39	[PARCEL]	p aa r s ax l
+39	[PARDON]	p aa r d ax n
+39	[PARENT]	p eh r ax n t
+39	[PARIAH]	p er ay ax
+39	[PARK]	p aa r k
+39	[PARLIAMENT]	p aa r l ax m ax n t
+39	[PART]	p aa r t
+39	[PARTICLE]	p aa r dx ax k ax l
+39	[PARTNER]	p aa r t n er
+39	[PARTY]	p aa r dx iy
+39	[PASSAGE]	p ae s ax jh
+39	[PASSENGER]	p ae s ax n jh er
+39	[PASSION]	p ae sh ax n
+39	[PASSPORT]	p ae s p ao r t
+39	[PAT]	p ae t
+39	[PATCH]	p ae ch
+39	[PATENT]	p ae t ax n t
+39	[PATH]	p ae th
+39	[PATIENCE]	p ey sh ax n s
+39	[PATIENT]	p ey sh ax n t
+39	[PATRIARCH]	p ey t r iy aa r k
+39	[PATRIOT]	p ey t r iy ax t
+39	[PATROL]	p ax t r ow l
+39	[PATTERN]	p ae dx er n
+39	[PAUSE]	p ao z
+39	[PAY]	p ey
+39	[PAYMENT]	p ey m ax n t
+39	[PC]	p iy s iy
+39	[PEA]	p iy
+39	[PEACE]	p iy s
+39	[PEAL]	p iy l
+39	[PEANUT]	p iy n ax t
+39	[PEASANT]	p eh z ax n t
+39	[PEEP]	p iy p
+39	[PEN]	p eh n
+39	[PENDULUM]	p eh n jh ax l ax m
+39	[PENETRATION]	p eh n ax t r ey sh ax n
+39	[PENNY]	p eh n iy
+39	[PERCENT]	p er s eh n t
+39	[PERFECTION]	p er f eh k sh ax n
+39	[PERFORMANCE]	p er f ao r m ax n s
+39	[PERFUME]	p er f y uw m
+39	[PERIOD]	p ih r iy ax d
+39	[PERMISSION]	p er m ih sh ax n
+39	[PERSON]	p er s ax n
+39	[PERSONALITY]	p er s ax n ae l ix dx iy
+39	[PERSONIFICATION]	p er s aa n ax f ax k ey sh ax n
+39	[PERSPECTIVE]	p er s p eh k t ix v
+39	[PERSUASION]	p er s w ey zh ax n
+39	[PETITION]	p ax t ih sh ax n
+39	[PHASE]	f ey z
+39	[PHENOMENON]	f ax n aa m ax n aa n
+39	[PHILOSOPHY]	f ax l aa s ax f iy
+39	[PHONE]	f ow n
+39	[PHOTOGRAPHER]	f ax t aa g r ax f er
+39	[PHOTOGRAPHY]	f ax t aa g r ax f iy
+39	[PHRASE]	f r ey z
+39	[PHYSICIAN]	f ax z ih sh ax n
+39	[PHYSICIST]	f ih z ix s ix s t
+39	[PHYSICS]	f ih z ix k s
+39	[PIANO]	p iy ae n ow
+39	[PICTURE]	p ih k ch er
+39	[PIECE]	p iy s
+39	[PIG]	p ih g
+39	[PILLOW]	p ih l ow
+39	[PIONEER]	p ay ax n ih r
+39	[PIPE]	p ay p
+39	[PISTOL]	p ih s t ax l
+39	[PIT]	p ih t
+39	[PITY]	p ih dx iy
+39	[PLACE]	p l ey s
+39	[PLAN]	p l ae n
+39	[PLANE]	p l ey n
+39	[PLANET]	p l ae n ax t
+39	[PLANT]	p l ae n t
+39	[PLASTER]	p l ae s t er
+39	[PLASTIC]	p l ae s t ix k
+39	[PLATE]	p l ey t
+39	[PLAYER]	p l ey er
+39	[PLAYGROUND]	p l ey g r aw n d
+39	[PLAZA]	p l aa z ax
+39	[PLEASURE]	p l eh zh er
+39	[PLENUM]	p l eh n ax m
+39	[PLIGHT]	p l ay t
+39	[PLOT]	p l aa t
+39	[PLUG]	p l ah g
+39	[PNEUMONIA]	n uw m ow n y ax
+39	[POCKET]	p aa k ax t
+39	[POET]	p ow ax t
+39	[POETRY]	p ow ax t r iy
+39	[POINT]	p oy n t
+39	[POLICEMAN]	p ax l iy s m ax n
+39	[POLITICIAN]	p aa l ax t ih sh ax n
+39	[POLLEN]	p aa l ax n
+39	[POOL]	p uw l
+39	[POPE]	p ow p
+39	[POPULATION]	p aa p y ax l ey sh ax n
+39	[PORCH]	p ao r ch
+39	[PORRIDGE]	p ao r ax jh
+39	[PORT]	p ao r t
+39	[PORTFOLIO]	p ao r t f ow l iy ow
+39	[PORTION]	p ao r sh ax n
+39	[POSITION]	p ax z ih sh ax n
+39	[POSSESSION]	p ax z eh sh ax n
+39	[POSSIBILITY]	p aa s ax b ih l ax dx iy
+39	[POST]	p ow s t
+39	[POT]	p aa t
+39	[POTATO]	p ax t ey t ow
+39	[POTTAGE]	p aa dx ax jh
+39	[POUND]	p aw n d
+39	[POVERTY]	p aa v er dx iy
+39	[POWDER]	p aw dx er
+39	[POWER]	p aw er
+39	[PRACTICE]	p r ae k t ax s
+39	[PRAISE]	p r ey z
+39	[PRATTLE]	p r ae dx ax l
+39	[PRAYER]	p r eh r
+39	[PRECAUTION]	p r iy k ao sh ax n
+39	[PRECEDENT]	p r eh s ix d ax n t
+39	[PRECISION]	p r iy s ih zh ax n
+39	[PREDECESSOR]	p r eh dx ax s eh s er
+39	[PREDICTION]	p r iy d ih k sh ax n
+39	[PREFERENCE]	p r eh f er ax n s
+39	[PREJUDICE]	p r eh jh ax dx ix s
+39	[PREPARATION]	p r eh p er ey sh ax n
+39	[PREROGATIVE]	p r ix r aa g ax dx ix v
+39	[PRESENCE]	p r eh z ax n s
+39	[PRESENTATION]	p r eh z ax n t ey sh ax n
+39	[PRESERVATION]	p r eh z er v ey sh ax n
+39	[PRESIDENCY]	p r eh z ax d ax n s iy
+39	[PRESIDENT]	p r eh z ax d eh n t
+39	[PRESS]	p r eh s
+39	[PRESSURE]	p r eh sh er
+39	[PRESTIGE]	p r eh s t iy zh
+39	[PRESUMPTION]	p r ix z ah m p sh ax n
+39	[PREVENTION]	p r iy v eh n sh ax n
+39	[PREY]	p r ey
+39	[PRICE]	p r ay s
+39	[PRICING]	p r ay s ix ng
+39	[PRIDE]	p r ay d
+39	[PRIEST]	p r iy s t
+39	[PRINCIPLE]	p r ih n s ax p ax l
+39	[PRINT]	p r ih n t
+39	[PRINTING]	p r ih n t ix ng
+39	[PRIORITY]	p r ay ao r ax dx iy
+39	[PRISON]	p r ih z ax n
+39	[PRISONER]	p r ih z ax n er
+39	[PRIVACY]	p r ay v ax s iy
+39	[PRIVILEGE]	p r ih v l ax jh
+39	[PRIZE]	p r ay z
+39	[PROBABILITY]	p r aa b ax b ih l ax dx iy
+39	[PROBLEM]	p r aa b l ax m
+39	[PROCEDURE]	p r ax s iy jh er
+39	[PROCESS]	p r aa s eh s
+39	[PROCESSING]	p r aa s eh s ix ng
+39	[PROCESSION]	p r ax s eh sh ax n
+39	[PRODUCT]	p r aa dx ax k t
+39	[PRODUCTION]	p r ax d ah k sh ax n
+39	[PROFESSION]	p r ax f eh sh ax n
+39	[PROFESSOR]	p r ax f eh s er
+39	[PROFILE]	p r ow f ay l
+39	[PROFIT]	p r aa f ax t
+39	[PROGRAM]	p r ow g r ae m
+39	[PROGRAMMER]	p r ow g r ae m er
+39	[PROGRAMMING]	p r ow g r ae m ix ng
+39	[PROGRESS]	p r aa g r eh s
+39	[PROJECT]	p r aa jh eh k t
+39	[PROMINENCE]	p r aa m ax n ax n s
+39	[PROMISE]	p r aa m ax s
+39	[PROMOTER'S]	p r ax m ow dx er z
+39	[PRONUNCIATION]	p r ow n ah n s iy ey sh ax n
+39	[PROOF]	p r uw f
+39	[PROPENSITY]	p r ax p eh n s ix dx iy
+39	[PROPERTY]	p r aa p er dx iy
+39	[PROPHECY]	p r aa f ax s iy
+39	[PROPORTION]	p r ax p ao r sh ax n
+39	[PROPOSAL]	p r ax p ow z ax l
+39	[PROPOSITION]	p r aa p ax z ih sh ax n
+39	[PROPRIETY]	p r ax p r ay ax dx iy
+39	[PROSPECT]	p r aa s p eh k t
+39	[PROSPERITY]	p r aa s p eh r ax dx iy
+39	[PROTECTION]	p r ax t eh k sh ax n
+39	[PROTECTOR]	p r ax t eh k t er
+39	[PROTEGE]	p r ow dx ax zh ey
+39	[PROTOCOL]	p r ow dx ax k aa l
+39	[PROTOTYPE]	p r ow dx ax t ay p
+39	[PROVINCE]	p r aa v ax n s
+39	[PRUDENCE]	p r uw d ax n s
+39	[PSYCHOLOGY]	s ay k aa l ax jh iy
+39	[PUBLICATION]	p ah b l ix k ey sh ax n
+39	[PUDDING]	p uh dx ix ng
+39	[PUFF]	p ah f
+39	[PULPIT]	p uh l p ix t
+39	[PULSE]	p ah l s
+39	[PUNCH]	p ah n ch
+39	[PURCHASE]	p er ch ax s
+39	[PURPOSE]	p er p ax s
+39	[PURSE]	p er s
+39	[PURSUIT]	p er s uw t
+39	[QUALITY]	k w aa l ax dx iy
+39	[QUANTIFICATION]	k w aa n t ix f ax k ey sh ax n
+39	[QUANTITY]	k w aa n t ax dx iy
+39	[QUARTER]	k w ao r dx er
+39	[QUEEN]	k w iy n
+39	[QUESTION]	k w eh s ch ax n
+39	[QUOTE]	k w ow t
+39	[RABBIT]	r ae b ax t
+39	[RACE]	r ey s
+39	[RAFT]	r ae f t
+39	[RAG]	r ae g
+39	[RAGE]	r ey jh
+39	[RAIL]	r ey l
+39	[RAILROAD]	r ey l r ow d
+39	[RAILWAY]	r ey l w ey
+39	[RAIN]	r ey n
+39	[RAINBOW]	r ey n b ow
+39	[RAISER]	r ey z er
+39	[RANCH]	r ae n ch
+39	[RANGE]	r ey n jh
+39	[RANK]	r ae ng k
+39	[RASH]	r ae sh
+39	[RAT]	r ae t
+39	[RATIO]	r ey sh iy ow
+39	[RATIONALITY]	r ae sh ax n ae l ix dx iy
+39	[REACTION]	r iy ae k sh ax n
+39	[READER]	r iy dx er
+39	[READINESS]	r eh d iy n ax s
+39	[READING]	r eh dx ix ng
+39	[REAL-ESTATE]	r iy l ix s t ey t
+39	[REASON]	r iy z ax n
+39	[REASONING]	r iy z ax n ix ng
+39	[REBEL]	r eh b ax l
+39	[RECEPTION]	r ix s eh p sh ax n
+39	[RECESSION]	r ix s eh sh ax n
+39	[RECIPE]	r eh s ax p iy
+39	[RECKONING]	r eh k ax n ix ng
+39	[RECOGNITION]	r eh k ax g n ih sh ax n
+39	[RECOLLECTION]	r eh k ax l eh k sh ax n
+39	[RECOMMENDATION]	r eh k ax m ax n d ey sh ax n
+39	[RECORD]	r ax k ao r d
+39	[RECORDING]	r ax k ao r dx ix ng
+39	[RECOVERY]	r ix k ah v r iy
+39	[RECURRENCE]	r ix k er ax n s
+39	[REDUCTION]	r ax d ah k sh ax n
+39	[REFERENCE]	r eh f er ax n s
+39	[REFLECTION]	r ax f l eh k sh ax n
+39	[REFUGE]	r eh f y uw jh
+39	[REFUGEE]	r eh f y uw jh iy
+39	[REGARD]	r ax g aa r d
+39	[REGION]	r iy jh ax n
+39	[REGISTRATION]	r eh jh ix s t r ey sh ax n
+39	[REGRET]	r ax g r eh t
+39	[REGULARITY]	r eh g y ax l eh r ax dx iy
+39	[REGULATION]	r eh g y ax l ey sh ax n
+39	[REHABILITATION]	r iy hh ax b ih l ax t ey sh ax n
+39	[REIGN]	r ey n
+39	[RELATION]	r iy l ey sh ax n
+39	[RELATIONSHIP]	r iy l ey sh ax n sh ih p
+39	[RELEASE]	r iy l iy s
+39	[RELIANCE]	r ix l ay ax n s
+39	[RELIEF]	r ix l iy f
+39	[RELIGION]	r ix l ih jh ax n
+39	[REMAINDER]	r ix m ey n d er
+39	[REMARK]	r ix m aa r k
+39	[REMEDY]	r eh m ax dx iy
+39	[REMOVAL]	r ix m uw v ax l
+39	[RENAISSANCE]	r eh n ax s aa n s
+39	[RENDERING]	r eh n d er ix ng
+39	[RENDEZVOUS]	r aa n d ix v uw
+39	[RENEWAL]	r ix n uw ax l
+39	[RENOVATION]	r eh n ax v ey sh ax n
+39	[RENT]	r eh n t
+39	[REORGANIZATION]	r iy ao r g ax n ax z ey sh ax n
+39	[REPAIR]	r ix p eh r
+39	[REPEAT]	r ix p iy t
+39	[REPLICA]	r eh p l ix k ax
+39	[REPLY]	r ix p l ay
+39	[REPORT]	r iy p ao r t
+39	[REPORTER]	r ix p ao r dx er
+39	[REPRESENTATION]	r eh p r ax z eh n t ey sh ax n
+39	[REPRESENTATIVE]	r eh p r ax z eh n t ax dx ix v
+39	[REPUBLIC]	r iy p ah b l ax k
+39	[REPUTATION]	r eh p y ax t ey sh ax n
+39	[REQUEST]	r ix k w eh s t
+39	[RESCUE]	r eh s k y uw
+39	[RESEARCH]	r iy s er ch
+39	[RESEMBLANCE]	r ix z eh m b l ax n s
+39	[RESENTMENT]	r ix z eh n t m ax n t
+39	[RESERVATION]	r eh z er v ey sh ax n
+39	[RESERVE]	r ix z er v
+39	[RESIDENCE]	r eh z ix d ax n s
+39	[RESIDENT]	r eh z ix d ax n t
+39	[RESISTANCE]	r ix z ih s t ax n s
+39	[RESOLUTION]	r eh z ax l uw sh ax n
+39	[RESORT]	r ix z ao r t
+39	[RESOURCE]	r iy s ao r s
+39	[RESPECT]	r ix s p eh k t
+39	[RESPECTABILITY]	r iy s p eh k t ax b ih l ix dx iy
+39	[RESPONSE]	r ix s p aa n s
+39	[RESPONSIBILITY]	r iy s p aa n s ax b ih l ax dx iy
+39	[REST]	r eh s t
+39	[RESTAURANT]	r eh s t er aa n t
+39	[RESTORATION]	r eh s t er ey sh ax n
+39	[RESTRAINT]	r ix s t r ey n t
+39	[RESTRICTION]	r iy s t r ih k sh ax n
+39	[RESULT]	r ix z ah l t
+39	[RETENTION]	r iy t eh n sh ax n
+39	[RETIREMENT]	r iy t ay er m ax n t
+39	[RETREAT]	r iy t r iy t
+39	[RETRIEVAL]	r ix t r iy v ax l
+39	[RETURN]	r ix t er n
+39	[REVENUE]	r eh v ax n uw
+39	[REVIVAL]	r ix v ay v ax l
+39	[REVOLT]	r ix v ow l t
+39	[REVOLUTION]	r eh v ax l uw sh ax n
+39	[REWARD]	r ix w ao r d
+39	[RHYTHM]	r ih dh ax m
+39	[RICHNESS]	r ih ch n ax s
+39	[RIDE]	r ay d
+39	[RIDER]	r ay dx er
+39	[RIM]	r ih m
+39	[RING]	r ih ng
+39	[RIOT]	r ay ax t
+39	[RISE]	r ay z
+39	[RISK]	r ih s k
+39	[RIVER]	r ih v er
+39	[RIVERSIDE]	r ih v er s ay d
+39	[ROAD]	r ow d
+39	[ROADBED]	r ow d b eh d
+39	[ROAR]	r ao r
+39	[ROAST]	r ow s t
+39	[ROBBERY]	r aa b er iy
+39	[ROCK]	r aa k
+39	[ROD]	r aa d
+39	[ROLE]	r ow l
+39	[ROLL]	r ow l
+39	[ROMANCE]	r ow m ae n s
+39	[ROOF]	r uw f
+39	[ROOM]	r uw m
+39	[ROOT]	r uw t
+39	[ROPE]	r ow p
+39	[ROT]	r aa t
+39	[ROUND]	r aw n d
+39	[ROUTE]	r uw t
+39	[ROW]	r ow
+39	[ROYALTY]	r oy ax l t iy
+39	[RUB]	r ah b
+39	[RUBBER]	r ah b er
+39	[RUDDER]	r ah dx er
+39	[RUG]	r ah g
+39	[RULE]	r uw l
+39	[RUM]	r ah m
+39	[RUMOR]	r uw m er
+39	[RUSH]	r ah sh
+39	[SACK]	s ae k
+39	[SAFETY]	s ey f t iy
+39	[SAGE]	s ey jh
+39	[SAILING]	s ey l ix ng
+39	[SAKE]	s ey k
+39	[SALAD]	s ae l ax d
+39	[SALE]	s ey l
+39	[SALVATION]	s ae l v ey sh ax n
+39	[SAMPLE]	s ae m p ax l
+39	[SAND]	s ae n d
+39	[SATELLITE]	s ae dx ax l ay t
+39	[SATIRE]	s ae t ay er
+39	[SATISFACTION]	s ae dx ax s f ae k sh ax n
+39	[SAUCE]	s ao s
+39	[SCALE]	s k ey l
+39	[SCANDAL]	s k ae n d ax l
+39	[SCENARIO]	s ix n eh r iy ow
+39	[SCENE]	s iy n
+39	[SCENERY]	s iy n er iy
+39	[SCHEDULE]	s k eh jh uh l
+39	[SCHEME]	s k iy m
+39	[SCHOLAR]	s k aa l er
+39	[SCHOOL]	s k uw l
+39	[SCIENCE]	s ay ax n s
+39	[SCOOP]	s k uw p
+39	[SCOPE]	s k ow p
+39	[SCORE]	s k ao r
+39	[SCORN]	s k ao r n
+39	[SCOTCH]	s k aa ch
+39	[SCOURGE]	s k er jh
+39	[SCRAMBLE]	s k r ae m b ax l
+39	[SCRAPE]	s k r ey p
+39	[SCRATCH]	s k r ae ch
+39	[SCREAM]	s k r iy m
+39	[SCREEN]	s k r iy n
+39	[SCRIPT]	s k r ih p t
+39	[SCUFFLE]	s k ah f ax l
+39	[SEA]	s iy
+39	[SEAL]	s iy l
+39	[SEARCH]	s er ch
+39	[SEASON]	s iy z ax n
+39	[SEASON'S]	s iy z ax n z
+39	[SEAT]	s iy t
+39	[SEAWATER]	s iy w aa dx er
+39	[SECLUSION]	s ix k l uw zh ax n
+39	[SECRETARY]	s eh k r ax t eh r iy
+39	[SECTION]	s eh k sh ax n
+39	[SECURITY]	s ix k y uh r ax dx iy
+39	[SEED]	s iy d
+39	[SEER]	s iy r
+39	[SEGMENT]	s eh g m ax n t
+39	[SELECTION]	s ax l eh k sh ax n
+39	[SELF]	s eh l f
+39	[SENATOR]	s eh n ax dx er
+39	[SENIORITY]	s iy n y ao r ix dx iy
+39	[SENSATION]	s eh n s ey sh ax n
+39	[SENSE]	s eh n s
+39	[SENSIBILITY]	s eh n s ix b ih l ix dx iy
+39	[SENTENCE]	s eh n t ax n s
+39	[SENTIMENT]	s eh n t ax m ax n t
+39	[SEPARATION]	s eh p er ey sh ax n
+39	[SEQUEL]	s iy k w ax l
+39	[SEQUENCE]	s iy k w ax n s
+39	[SERGEANT]	s aa r jh ax n t
+39	[SERIES]	s ih r iy z
+39	[SERVER]	s er v er
+39	[SERVICE]	s er v ax s
+39	[SESSION]	s eh sh ax n
+39	[SETTLEMENT]	s eh dx ax l m ax n t
+39	[SEVERITY]	s ix v eh r ix dx iy
+39	[SEX]	s eh k s
+39	[SHADE]	sh ey d
+39	[SHADOW]	sh ae d ow
+39	[SHAME]	sh ey m
+39	[SHAPE]	sh ey p
+39	[SHARE]	sh eh r
+39	[SHEEP]	sh iy p
+39	[SHEET]	sh iy t
+39	[SHELL]	sh eh l
+39	[SHELTER]	sh eh l t er
+39	[SHIFT]	sh ih f t
+39	[SHINE]	sh ay n
+39	[SHINGLE]	sh ih ng g ax l
+39	[SHIP]	sh ih p
+39	[SHIRT]	sh er t
+39	[SHOCK]	sh aa k
+39	[SHOEMAKER]	sh uw m ey k er
+39	[SHOP]	sh aa p
+39	[SHOPPING]	sh aa p ix ng
+39	[SHOT]	sh aa t
+39	[SHOULDER]	sh ow l d er
+39	[SHOUT]	sh aw t
+39	[SHOVEL]	sh ah v ax l
+39	[SHOW]	sh ow
+39	[SIGH]	s ay
+39	[SIGHT]	s ay t
+39	[SIGN]	s ay n
+39	[SIGNATURE]	s ih g n ax ch er
+39	[SIGNIFICANCE]	s ax g n ih f ix k ax n s
+39	[SILENCE]	s ay l ax n s
+39	[SILVER]	s ih l v er
+39	[SIMPLICITY]	s ix m p l ih s ax dx iy
+39	[SIN]	s ih n
+39	[SINCERITY]	s ix n s eh r ax dx iy
+39	[SINGER]	s ih ng er
+39	[SISTER]	s ih s t er
+39	[SISTER'S]	s ih s t er z
+39	[SISTER-IN-LAW]	s ih s t er ix n l ao
+39	[SITUATION]	s ih ch uw ey sh ax n
+39	[SIZE]	s ay z
+39	[SKETCH]	s k eh ch
+39	[SKILL]	s k ih l
+39	[SKIN]	s k ih n
+39	[SKIPPER]	s k ih p er
+39	[SKIPPER'S]	s k ih p er z
+39	[SKIRT]	s k er t
+39	[SKY]	s k ay
+39	[SLAUGHTER]	s l ao dx er
+39	[SLAVE]	s l ey v
+39	[SLAVERY]	s l ey v er iy
+39	[SLICE]	s l ay s
+39	[SLIP]	s l ih p
+39	[SLOPE]	s l ow p
+39	[SMASH]	s m ae sh
+39	[SMELL]	s m eh l
+39	[SMILE]	s m ay l
+39	[SMOKE]	s m ow k
+39	[SMOKEHOUSE]	s m ow k hh aw s
+39	[SMOKING]	s m ow k ix ng
+39	[SNAIL]	s n ey l
+39	[SNAKE]	s n ey k
+39	[SNAP]	s n ae p
+39	[SNOW]	s n ow
+39	[SOCIOLOGY]	s ow s iy aa l ax jh iy
+39	[SODA]	s ow dx ax
+39	[SODIUM]	s ow dx iy ax m
+39	[SOFTWARE]	s ao f t w eh r
+39	[SOIL]	s oy l
+39	[SOLDIER]	s ow l jh er
+39	[SOLICITATION]	s ax l ih s ix t ey sh ax n
+39	[SOLICITOR'S]	s ax l ih s ax dx er z
+39	[SOLUTION]	s ax l uw sh ax n
+39	[SOMEBODY]	s ah m b aa dx iy
+39	[SOMEONE]	s ah m w ah n
+39	[SOMETHING]	s ah m th ix ng
+39	[SON]	s ah n
+39	[SORT]	s ao r t
+39	[SOUL]	s ow l
+39	[SOUNDNESS]	s aw n d n ax s
+39	[SOUP]	s uw p
+39	[SOURCE]	s ao r s
+39	[SOVEREIGNTY]	s aa v r ax n t iy
+39	[SPACE]	s p ey s
+39	[SPAN]	s p ae n
+39	[SPARKLE]	s p aa r k ax l
+39	[SPEAKER]	s p iy k er
+39	[SPECIALIST]	s p eh sh ax l ax s t
+39	[SPECIALTY]	s p eh sh ax l t iy
+39	[SPECTACLE]	s p eh k t ax k ax l
+39	[SPECTRUM]	s p eh k t r ax m
+39	[SPECULATION]	s p eh k y ax l ey sh ax n
+39	[SPEECH]	s p iy ch
+39	[SPEED]	s p iy d
+39	[SPENDING]	s p eh n d ix ng
+39	[SPHERE]	s f ih r
+39	[SPILL]	s p ih l
+39	[SPILLING]	s p ih l ix ng
+39	[SPINE]	s p ay n
+39	[SPIRE]	s p ay r
+39	[SPIRIT]	s p ih r ax t
+39	[SPITE]	s p ay t
+39	[SPLIT]	s p l ih t
+39	[SPLITTING]	s p l ih dx ix ng
+39	[SPOKESMAN]	s p ow k s m ax n
+39	[SPORT]	s p ao r t
+39	[SPOT]	s p aa t
+39	[SPOTLIGHT]	s p aa t l ay t
+39	[SPRAWL]	s p r ao l
+39	[SPRAY]	s p r ey
+39	[SPREAD]	s p r eh d
+39	[SPRING]	s p r ih ng
+39	[SPY]	s p ay
+39	[SQUEEZE]	s k w iy z
+39	[STABILITY]	s t ax b ih l ix dx iy
+39	[STAFF]	s t ae f
+39	[STAGE]	s t ey jh
+39	[STAKE]	s t ey k
+39	[STAMP]	s t ae m p
+39	[STANDPOINT]	s t ae n d p oy n t
+39	[STAR]	s t aa r
+39	[STARDOM]	s t aa r dx ax m
+39	[STARVATION]	s t aa r v ey sh ax n
+39	[STATE]	s t ey t
+39	[STATE'S]	s t ey t s
+39	[STATEMENT]	s t ey t m ax n t
+39	[STATION]	s t ey sh ax n
+39	[STATUE]	s t ae ch uw
+39	[STEADINESS]	s t eh d iy n ix s
+39	[STEAK]	s t ey k
+39	[STEAM]	s t iy m
+39	[STEP]	s t eh p
+39	[STERLING]	s t er l ix ng
+39	[STOCK]	s t aa k
+39	[STOMACH]	s t ah m ax k
+39	[STONE]	s t ow n
+39	[STORAGE]	s t ao r ax jh
+39	[STORE]	s t ao r
+39	[STORM]	s t ao r m
+39	[STORY]	s t ao r iy
+39	[STOVE]	s t ow v
+39	[STRAIN]	s t r ey n
+39	[STRANGENESS]	s t r ey n jh n ax s
+39	[STRANGER]	s t r ey n jh er
+39	[STRATEGY]	s t r ae dx ax jh iy
+39	[STREAK]	s t r iy k
+39	[STREAM]	s t r iy m
+39	[STRENGTH]	s t r eh ng k th
+39	[STRETCH]	s t r eh ch
+39	[STRIKE]	s t r ay k
+39	[STRING]	s t r ih ng
+39	[STROKE]	s t r ow k
+39	[STRONGHOLD]	s t r ao ng hh ow l d
+39	[STRUCTURE]	s t r ah k ch er
+39	[STRUGGLE]	s t r ah g ax l
+39	[STUDENT]	s t uw d ax n t
+39	[STUDIO]	s t uw dx iy ow
+39	[STUDY]	s t ah dx iy
+39	[STUFF]	s t ah f
+39	[STUMP]	s t ah m p
+39	[STYLE]	s t ay l
+39	[SUBSET]	s ah b s eh t
+39	[SUBSTANCE]	s ah b s t ax n s
+39	[SUBSTITUTE]	s ah b s t ax t uw t
+39	[SUBSTITUTION]	s ah b s t ix t uw sh ax n
+39	[SUBTLETY]	s ah dx ax l t iy
+39	[SUCCESS]	s ax k s eh s
+39	[SUCCESSION]	s ax k s eh sh ax n
+39	[SUCCESSOR]	s ax k s eh s er
+39	[SUGAR]	sh uh g er
+39	[SUGGESTION]	s ax g jh eh s ch ax n
+39	[SUICIDE]	s uw ax s ay d
+39	[SUIT]	s uw t
+39	[SULTAN]	s ah l t ax n
+39	[SUM]	s ah m
+39	[SUMMARY]	s ah m er iy
+39	[SUMMER]	s ah m er
+39	[SUMMIT]	s ah m ax t
+39	[SUN]	s ah n
+39	[SUN'S]	s ah n z
+39	[SUNBURN]	s ah n b er n
+39	[SUNLIGHT]	s ah n l ay t
+39	[SUNSHINE]	s ah n sh ay n
+39	[SUPERIORITY]	s uw p ix r iy ao r ix dx iy
+39	[SUPPER]	s ah p er
+39	[SUPPLY]	s ax p l ay
+39	[SUPPORT]	s ax p ao r t
+39	[SURF]	s er f
+39	[SURFACE]	s er f ax s
+39	[SURGEON]	s er jh ax n
+39	[SURGERY]	s er jh er iy
+39	[SURPRISE]	s er p r ay z
+39	[SURRENDER]	s er eh n d er
+39	[SURVEILLANCE]	s er v ey l ax n s
+39	[SURVEY]	s er v ey
+39	[SURVIVAL]	s er v ay v ax l
+39	[SUSPENSE]	s ax s p eh n s
+39	[SUSPICION]	s ax s p ih sh ax n
+39	[SWEAT]	s w eh t
+39	[SWEATER]	s w eh dx er
+39	[SWEEP]	s w iy p
+39	[SWEETNESS]	s w iy t n ax s
+39	[SWIMMING]	s w ih m ix ng
+39	[SWING]	s w ih ng
+39	[SWIRL]	s w er l
+39	[SWITCH]	s w ih ch
+39	[SWOOP]	s w uw p
+39	[SWORD]	s ao r d
+39	[SYMBOL]	s ih m b ax l
+39	[SYMPATHY]	s ih m p ax th iy
+39	[SYNTHESIS]	s ih n th ax s ax s
+39	[SYSTEM]	s ih s t ax m
+39	[T]	t iy
+39	[TABLE]	t ey b ax l
+39	[TABLE'S]	t ey b ax l z
+39	[TAG]	t ae g
+39	[TAIL]	t ey l
+39	[TALE]	t ey l
+39	[TALENT]	t ae l ax n t
+39	[TANK]	t ae ng k
+39	[TAPE]	t ey p
+39	[TAPESTRY]	t ae p ax s t r iy
+39	[TAR]	t aa r
+39	[TARGET]	t aa r g ax t
+39	[TASK]	t ae s k
+39	[TASTE]	t ey s t
+39	[TAXATION]	t ae k s ey sh ax n
+39	[TEA]	t iy
+39	[TEACHER]	t iy ch er
+39	[TEACHING]	t iy ch ix ng
+39	[TEAM]	t iy m
+39	[TEE]	t iy
+39	[TELEGRAPH]	t eh l ax g r ae f
+39	[TELEPHONE]	t eh l ax f ow n
+39	[TELESCOPE]	t eh l ax s k ow p
+39	[TEMPERAMENT]	t eh m p r ax m ax n t
+39	[TEMPERATURE]	t eh m p r ax ch er
+39	[TEMPTATION]	t eh m t ey sh ax n
+39	[TENANT]	t eh n ax n t
+39	[TENDENCY]	t eh n d ax n s iy
+39	[TENDER]	t eh n d er
+39	[TENDERNESS]	t eh n d er n ax s
+39	[TENNIS]	t eh n ax s
+39	[TENSION]	t eh n sh ax n
+39	[TENT]	t eh n t
+39	[TENTH]	t eh n th
+39	[TENURE]	t eh n y er
+39	[TERM]	t er m
+39	[TERMINAL]	t er m ax n ax l
+39	[TERRITORY]	t eh r ix t ao r iy
+39	[TEST]	t eh s t
+39	[TESTIMONY]	t eh s t ax m ow n iy
+39	[TEXT]	t eh k s t
+39	[TEXTURE]	t eh k s ch er
+39	[THAW]	th ao
+39	[THEATER]	th iy ax dx er
+39	[THEOLOGY]	th iy aa l ax jh iy
+39	[THEORIST]	th iy er ix s t
+39	[THEORY]	th ih r iy
+39	[THERAPY]	th eh r ax p iy
+39	[THESIS]	th iy s ax s
+39	[THICKNESS]	th ih k n ax s
+39	[THIEF]	th iy f
+39	[THING]	th ih ng
+39	[THIRST]	th er s t
+39	[THREAD]	th r eh d
+39	[THRESHOLD]	th r eh sh ow l d
+39	[THRILL]	th r ih l
+39	[THRUST]	th r ah s t
+39	[THUMB]	th ah m
+39	[TICKET]	t ih k ax t
+39	[TIDE]	t ay d
+39	[TIE]	t ay
+39	[TIGER]	t ay g er
+39	[TILT]	t ih l t
+39	[TIMBER]	t ih m b er
+39	[TIME]	t ay m
+39	[TIMIDITY]	t ax m ih dx ax dx iy
+39	[TIN]	t ih n
+39	[TIP]	t ih p
+39	[TIRE]	t ay er
+39	[TITLE]	t ay dx ax l
+39	[TOAD]	t ow d
+39	[TOAD'S]	t ow d z
+39	[TOAST]	t ow s t
+39	[TOBACCO]	t ax b ae k ow
+39	[TODAY]	t ax d ey
+39	[TODAY'S]	t ax d ey z
+39	[TOE]	t ow
+39	[TOILET]	t oy l ax t
+39	[TOMB]	t uw m
+39	[TOMORROW]	t ax m aa r ow
+39	[TONE]	t ow n
+39	[TONGUE]	t ah ng
+39	[TOOL]	t uw l
+39	[TOOTH]	t uw th
+39	[TOPIC]	t aa p ix k
+39	[TOUCH]	t ah ch
+39	[TOUGHNESS]	t ah f n ax s
+39	[TOUR]	t uh r
+39	[TOURIST'S]	t uh r ax s t s
+39	[TOURNAMENT]	t uh r n ax m ax n t
+39	[TOWER]	t aw er
+39	[TOWN]	t aw n
+39	[TOWN'S]	t aw n z
+39	[TOY]	t oy
+39	[TRACK]	t r ae k
+39	[TRADE]	t r ey d
+39	[TRADING]	t r ey dx ix ng
+39	[TRADITION]	t r ax d ih sh ax n
+39	[TRAFFIC]	t r ae f ix k
+39	[TRAGEDY]	t r ae jh ax dx iy
+39	[TRAIL]	t r ey l
+39	[TRAIN]	t r ey n
+39	[TRAINING]	t r ey n ix ng
+39	[TRAITOR]	t r ey dx er
+39	[TRANSACTION]	t r ae n z ae k sh ax n
+39	[TRANSIT]	t r ae n z ax t
+39	[TRANSITION]	t r ae n z ih sh ax n
+39	[TRANSLATION]	t r ae n z l ey sh ax n
+39	[TRANSLATOR]	t r ae n s l ey dx er
+39	[TRANSMISSION]	t r ae n s m ih sh ax n
+39	[TRANSMITTER]	t r ae n s m ih dx er
+39	[TRANSPORT]	t r ae n s p ao r t
+39	[TRANSPORTATION]	t r ae n s p er t ey sh ax n
+39	[TRAP]	t r ae p
+39	[TRASH]	t r ae sh
+39	[TRAVEL]	t r ae v ax l
+39	[TRAVELER]	t r ae v ax l er
+39	[TREASURE]	t r eh zh er
+39	[TREATMENT]	t r iy t m ax n t
+39	[TREATY]	t r iy dx iy
+39	[TREE]	t r iy
+39	[TRIAL]	t r ay ax l
+39	[TRIBE]	t r ay b
+39	[TRICK]	t r ih k
+39	[TRIP]	t r ih p
+39	[TRIUMPH]	t r ay ax m f
+39	[TROOP]	t r uw p
+39	[TROUBLE]	t r ah b ax l
+39	[TROUGH]	t r ao f
+39	[TRUNK]	t r ah ng k
+39	[TRUTH]	t r uw th
+39	[TUMBLE]	t ah m b ax l
+39	[TUMULT]	t uw m ax l t
+39	[TUNE]	t uw n
+39	[TUNNEL]	t ah n ax l
+39	[TURF]	t er f
+39	[TURKEY]	t er k iy
+39	[TV]	t iy v iy
+39	[TWIST]	t w ih s t
+39	[TYPE]	t ay p
+39	[UNCLE]	ah ng k ax l
+39	[UNDERSTANDING]	ah n d er s t ae n d ix ng
+39	[UNIFORMITY]	y uw n ax f ao r m ax dx iy
+39	[UNION]	y uw n y ax n
+39	[UNIT]	y uw n ax t
+39	[UNITY]	y uw n ax dx iy
+39	[UNIVERSE]	y uw n ax v er s
+39	[UNIVERSITY]	y uw n ax v er s ax dx iy
+39	[URANIUM]	y er ey n iy ax m
+39	[URINE]	y er ax n
+39	[USAGE]	y uw s ax jh
+39	[USE]	y uw s
+39	[USEFULNESS]	y uw s f ax l n ax s
+39	[USER]	y uw z er
+39	[UTILITY]	y uw t ih l ax dx iy
+39	[UTILIZATION]	y uw dx ax l ax z ey sh ax n
+39	[VACATION]	v ey k ey sh ax n
+39	[VACUUM]	v ae k y uw m
+39	[VAGABOND]	v ae g ax b aa n d
+39	[VALIDITY]	v ax l ih dx ax dx iy
+39	[VALUE]	v ae l y uw
+39	[VANGUARD]	v ae n g aa r d
+39	[VANTAGE]	v ae n t ax jh
+39	[VARIATION]	v eh r iy ey sh ax n
+39	[VARIETY]	v er ay ax dx iy
+39	[VEAL]	v iy l
+39	[VECTOR]	v eh k t er
+39	[VEGETABLE]	v eh jh t ax b ax l
+39	[VEHICLE]	v iy hh ix k ax l
+39	[VEIN]	v ey n
+39	[VELOCITY]	v ax l aa s ax dx iy
+39	[VELVET]	v eh l v ax t
+39	[VENGEANCE]	v eh n jh ax n s
+39	[VENTILATION]	v eh n t ax l ey sh ax n
+39	[VENTURE]	v eh n ch er
+39	[VERDICT]	v er dx ix k t
+39	[VERGE]	v er jh
+39	[VERIFICATION]	v eh r ax f ax k ey sh ax n
+39	[VERSION]	v er zh ax n
+39	[VESSEL]	v eh s ax l
+39	[VET]	v eh t
+39	[VET'S]	v eh t s
+39	[VICE]	v ay s
+39	[VICTIM]	v ih k t ax m
+39	[VICTOR]	v ih k t er
+39	[VICTORY]	v ih k t er iy
+39	[VIDEOTAPE]	v ih dx iy ow t ey p
+39	[VIEW]	v y uw
+39	[VIGOR]	v ih g er
+39	[VILLAGE]	v ih l ax jh
+39	[VIOLATION]	v ay ax l ey sh ax n
+39	[VIOLENCE]	v ay ax l ax n s
+39	[VIRILITY]	v er ih l ax dx iy
+39	[VIRTUE]	v er ch uw
+39	[VISION]	v ih zh ax n
+39	[VISIT]	v ih z ax t
+39	[VISITOR]	v ih z ax dx er
+39	[VITALITY]	v ay t ae l ax dx iy
+39	[VOICE]	v oy s
+39	[VOLCANO]	v aa l k ey n ow
+39	[VOLUME]	v aa l y uw m
+39	[VOLUNTEER]	v aa l ax n t ih r
+39	[VORTEX]	v ao r dx eh k s
+39	[VOTE]	v ow t
+39	[VOTING]	v ow dx ix ng
+39	[VOYAGE]	v oy ax jh
+39	[WAGON]	w ae g ax n
+39	[WAKE]	w ey k
+39	[WAR]	w ao r
+39	[WARDROBE]	w ao r d r ow b
+39	[WARFARE]	w ao r f eh r
+39	[WARRIOR]	w ao r iy er
+39	[WASH]	w aa sh
+39	[WASTE]	w ey s t
+39	[WATER]	w ao dx er
+39	[WATER'S]	w ao dx er z
+39	[WATERING]	w ao dx er ix ng
+39	[WATT]	w aa t
+39	[WAY]	w ey
+39	[WEAKNESS]	w iy k n ax s
+39	[WEALTH]	w eh l th
+39	[WEAPON]	w eh p ax n
+39	[WEATHER]	w eh dh er
+39	[WEB]	w eh b
+39	[WEDDING]	w eh dx ix ng
+39	[WEED]	w iy d
+39	[WEEK]	w iy k
+39	[WEEKEND]	w iy k eh n d
+39	[WEIGHT]	w ey t
+39	[WELFARE]	w eh l f eh r
+39	[WHALE]	w ey l
+39	[WHALE'S]	w ey l z
+39	[WHEAT]	w iy t
+39	[WHEEL]	w iy l
+39	[WHIM]	w ih m
+39	[WHIP]	w ih p
+39	[WHISKEY]	w ih s k iy
+39	[WHISPER]	w ih s p er
+39	[WHITEWASH]	w ay t w aa sh
+39	[WHIZ]	w ih z
+39	[WICKER]	w ih k er
+39	[WIDOW]	w ih dx ow
+39	[WIFE]	w ay f
+39	[WIFE'S]	w ay f s
+39	[WIGGLE]	w ih g ax l
+39	[WILDERNESS]	w ih l d er n ax s
+39	[WILLINGNESS]	w ih l ix ng n ax s
+39	[WIND]	w ay n d
+39	[WIND'S]	w ih n d z
+39	[WINDOW]	w ih n d ow
+39	[WINE]	w ay n
+39	[WING]	w ih ng
+39	[WINNER]	w ih n er
+39	[WINTER]	w ih n t er
+39	[WIRE]	w ay er
+39	[WISDOM]	w ih z d ax m
+39	[WIT]	w ih t
+39	[WITCHCRAFT]	w ih ch k r ae f t
+39	[WITHHOLDING]	w ix th hh ow l d ix ng
+39	[WITNESS]	w ih t n ax s
+39	[WOMAN]	w uh m ax n
+39	[WOMAN'S]	w uh m ax n z
+39	[WOOD]	w uh d
+39	[WOOL]	w uh l
+39	[WORD]	w er d
+39	[WORLD]	w er l d
+39	[WORLD'S]	w er l d z
+39	[WORM]	w er m
+39	[WORSHIP]	w er sh ax p
+39	[WRAP]	r ae p
+39	[WRECK]	r eh k
+39	[WRINKLE]	r ih ng k ax l
+39	[WRIST]	r ih s t
+39	[WRIT]	r ih t
+39	[WRITER]	r ay dx er
+39	[Y]	w ay
+39	[YACHT]	y aa t
+39	[YACHTING]	y aa dx ix ng
+39	[YARD]	y aa r d
+39	[YEAR]	y ih r
+39	[YEAR'S]	y ih r z
+39	[YEARNING]	y er n ix ng
+39	[YESTERDAY]	y eh s t er d ey
+39	[YOUTH]	y uw th
+39	[ZIP]	z ih p
+39	[ZONE]	z ow n
+39	[ZOO]	z uw
+40	[ABETTING]	ax b eh dx ix ng
+40	[ABOUNDING]	ax b aw n d ix ng
+40	[ACCOMPANYING]	ax k ah m p ax n iy ix ng
+40	[ACCORDING]	ax k ao r dx ix ng
+40	[ACHING]	ey k ix ng
+40	[ACQUIRING]	ax k w ay r ix ng
+40	[ACTING]	ae k t ix ng
+40	[ADDING]	ae dx ix ng
+40	[ADDRESSING]	ax d r eh s ix ng
+40	[ADVANCING]	ax d v ae n s ix ng
+40	[ADVISING]	ae d v ay z ix ng
+40	[AFFECTING]	ax f eh k t ix ng
+40	[AIDING]	ey dx ix ng
+40	[AIMING]	ey m ix ng
+40	[ALLOWING]	ax l aw ix ng
+40	[ALTERING]	ao l t er ix ng
+40	[ALTERNATING]	ao l t er n ey dx ix ng
+40	[APPEARING]	ax p ih r ix ng
+40	[APPROACHING]	ax p r ow ch ix ng
+40	[ARGUING]	aa r g y uw ix ng
+40	[ARRIVING]	er ay v ix ng
+40	[ASCENDING]	ax s eh n d ix ng
+40	[ASCRIBING]	ax s k r ay b ix ng
+40	[ASKING]	ae s k ix ng
+40	[ASSISTING]	ax s ih s t ix ng
+40	[ASSUMING]	ax s uw m ix ng
+40	[ASSURING]	ax sh uh r ix ng
+40	[ATTACHING]	ax t ae ch ix ng
+40	[ATTACKING]	ax t ae k ix ng
+40	[ATTEMPTING]	ax t eh m p t ix ng
+40	[ATTENDING]	ax t eh n d ix ng
+40	[AVOIDING]	ax v oy dx ix ng
+40	[AWAITING]	ax w ey dx ix ng
+40	[BACKING]	b ae k ix ng
+40	[BALANCING]	b ae l ax n s ix ng
+40	[BARKING]	b aa r k ix ng
+40	[BARRING]	b aa r ix ng
+40	[BEARING]	b eh r ix ng
+40	[BEATING]	b iy dx ix ng
+40	[BECOMING]	b ix k ah m ix ng
+40	[BEGGING]	b eh g ix ng
+40	[BEGINNING]	b ix g ih n ix ng
+40	[BEHAVING]	b ix hh ey v ix ng
+40	[BEING]	b iy ix ng
+40	[BELIEVING]	b ix l iy v ix ng
+40	[BELONGING]	b ix l ao ng ix ng
+40	[BENDING]	b eh n d ix ng
+40	[BEWITCHING]	b ix w ih ch ix ng
+40	[BITING]	b ay dx ix ng
+40	[BLAZING]	b l ey z ix ng
+40	[BLEEDING]	b l iy dx ix ng
+40	[BLOOMING]	b l uw m ix ng
+40	[BOATING]	b ow dx ix ng
+40	[BOILING]	b oy l ix ng
+40	[BOTHERING]	b aa dh er ix ng
+40	[BOUNDING]	b aw n d ix ng
+40	[BRACING]	b r ey s ix ng
+40	[BRAVING]	b r ey v ix ng
+40	[BREAKING]	b r ey k ix ng
+40	[BREATHING]	b r iy dh ix ng
+40	[BREEDING]	b r iy dx ix ng
+40	[BRIGHTENING]	b r ay t ax n ix ng
+40	[BRINGING]	b r ih ng ix ng
+40	[BROADENING]	b r ao d ax n ix ng
+40	[BUDDING]	b ah dx ix ng
+40	[BULGING]	b ah l jh ix ng
+40	[BURNING]	b er n ix ng
+40	[BUYING]	b ay ix ng
+40	[CALCULATING]	k ae l k y ax l ey dx ix ng
+40	[CALLING]	k ao l ix ng
+40	[CAPTURING]	k ae p ch er ix ng
+40	[CARING]	k eh r ix ng
+40	[CARRYING]	k ae r iy ix ng
+40	[CASTING]	k ae s t ix ng
+40	[CATCHING]	k ae ch ix ng
+40	[CAUSING]	k aa z ix ng
+40	[CHANGING]	ch ey n jh ix ng
+40	[CHARGING]	ch aa r jh ix ng
+40	[CHASING]	ch ey s ix ng
+40	[CHATTING]	ch ae dx ix ng
+40	[CHECKING]	ch eh k ix ng
+40	[CHEERING]	ch ih r ix ng
+40	[CHEWING]	ch uw ix ng
+40	[CHOKING]	ch ow k ix ng
+40	[CHOOSING]	ch uw z ix ng
+40	[CIRCULATING]	s er k y ax l ey dx ix ng
+40	[CLAIMING]	k l ey m ix ng
+40	[CLEANING]	k l iy n ix ng
+40	[CLEARING]	k l ih r ix ng
+40	[CLOSING]	k l ow z ix ng
+40	[CLUTCHING]	k l ah ch ix ng
+40	[COMBINING]	k ax m b ay n ix ng
+40	[COMING]	k ah m ix ng
+40	[COMMITTING]	k ax m ih dx ix ng
+40	[COMPARING]	k ax m p eh r ix ng
+40	[COMPETING]	k ax m p iy dx ix ng
+40	[COMPILING]	k ax m p ay l ix ng
+40	[CONCERNING]	k ax n s er n ix ng
+40	[CONDUCTING]	k ax n d ah k t ix ng
+40	[CONFERRING]	k ax n f er ix ng
+40	[CONNECTING]	k ax n eh k t ix ng
+40	[CONSIDERING]	k ax n s ih dx er ix ng
+40	[CONSISTING]	k ax n s ih s t ix ng
+40	[CONSULTING]	k ax n s ah l t ix ng
+40	[CONTAINING]	k ax n t ey n ix ng
+40	[CONTEMPLATING]	k aa n t ax m p l ey dx ix ng
+40	[CONTENDING]	k ax n t eh n d ix ng
+40	[CONTRADICTING]	k aa n t r ax d ih k t ix ng
+40	[CONTRASTING]	k ax n t r ae s t ix ng
+40	[CONTROLLING]	k ax n t r ow l ix ng
+40	[COOLING]	k uw l ix ng
+40	[COOPERATING]	k ow aa p er ey dx ix ng
+40	[COORDINATING]	k ow ao r d ax n ey dx ix ng
+40	[COUGHING]	k aa f ix ng
+40	[COUNTING]	k aw n t ix ng
+40	[COVERING]	k ah v er ix ng
+40	[CRACKING]	k r ae k ix ng
+40	[CREATING]	k r iy ey dx ix ng
+40	[CREEPING]	k r iy p ix ng
+40	[CROSSING]	k r ao s ix ng
+40	[CRUISING]	k r uw z ix ng
+40	[CRUMBLING]	k r ah m b ax l ix ng
+40	[CRUSHING]	k r ah sh ix ng
+40	[CULMINATING]	k ah l m ax n ey dx ix ng
+40	[CURING]	k y uh r ix ng
+40	[CUTTING]	k ah dx ix ng
+40	[DANCING]	d ae n s ix ng
+40	[DAWNING]	d ao n ix ng
+40	[DEALING]	d iy l ix ng
+40	[DECIDING]	d ax s ay dx ix ng
+40	[DECLARING]	d ix k l eh r ix ng
+40	[DECLINING]	d ix k l ay n ix ng
+40	[DECREASING]	d ix k r iy s ix ng
+40	[DEEPENING]	d iy p ax n ix ng
+40	[DEMANDING]	d ix m ae n d ix ng
+40	[DENYING]	d ix n ay ix ng
+40	[DEPARTING]	d ix p aa r dx ix ng
+40	[DEPENDING]	d ix p eh n d ix ng
+40	[DEPRIVING]	d ix p r ay v ix ng
+40	[DESCENDING]	d ix s eh n d ix ng
+40	[DESTROYING]	d ix s t r oy ix ng
+40	[DETERMINING]	d ix t er m ax n ix ng
+40	[DIALING]	d ay ax l ix ng
+40	[DIFFERING]	d ih f er ix ng
+40	[DIGGING]	d ih g ix ng
+40	[DINING]	d ay n ix ng
+40	[DIPPING]	d ih p ix ng
+40	[DISCUSSING]	d ix s k ah s ix ng
+40	[DISINTEGRATING]	d ix s ih n t ax g r ey dx ix ng
+40	[DISSOLVING]	d ix z ao l v ix ng
+40	[DIVIDING]	d ix v ay dx ix ng
+40	[DOING]	d uw ix ng
+40	[DOUBLING]	d ah b ax l ix ng
+40	[DRAGGING]	d r ae g ix ng
+40	[DRAINING]	d r ey n ix ng
+40	[DRAWING]	d r ao ix ng
+40	[DREAMING]	d r iy m ix ng
+40	[DRESSING]	d r eh s ix ng
+40	[DRIFTING]	d r ih f t ix ng
+40	[DRIPPING]	d r ih p ix ng
+40	[DRIVING]	d r ay v ix ng
+40	[DROPPING]	d r aa p ix ng
+40	[DRUMMING]	d r ah m ix ng
+40	[DUSTING]	d ah s t ix ng
+40	[DWINDLING]	d w ih n d ax l ix ng
+40	[DYING]	d ay ix ng
+40	[EARNING]	er n ix ng
+40	[EATING]	iy dx ix ng
+40	[EMERGING]	ix m er jh ix ng
+40	[EMPLOYING]	eh m p l oy ix ng
+40	[ENABLING]	eh n ey b ax l ix ng
+40	[ENCOURAGING]	eh n k er ix jh ix ng
+40	[ENCROACHING]	ix n k r ow ch ix ng
+40	[ENDING]	eh n d ix ng
+40	[ENDURING]	eh n d y uh r ix ng
+40	[ENJOYING]	eh n jh oy ix ng
+40	[ENTERING]	eh n t er ix ng
+40	[ENTICING]	eh n t ay s ix ng
+40	[ESCAPING]	ix s k ey p ix ng
+40	[ESTABLISHING]	ix s t ae b l ix sh ix ng
+40	[ESTIMATING]	eh s t ax m ey dx ix ng
+40	[EXAMINING]	ix g z ae m ix n ix ng
+40	[EXCEEDING]	ix k s iy dx ix ng
+40	[EXERTING]	ix g z er dx ix ng
+40	[EXISTING]	ix g z ih s t ix ng
+40	[EXPECTING]	ix k s p eh k t ix ng
+40	[EXPERIENCING]	ix k s p ih r iy ax n s ix ng
+40	[EXPIRING]	ix k s p ay r ix ng
+40	[EXPLODING]	ix k s p l ow dx ix ng
+40	[EXPLORING]	ix k s p l ao r ix ng
+40	[EXTENDING]	ix k s t eh n d ix ng
+40	[FACILITATING]	f ax s ih l ax t ey dx ix ng
+40	[FACING]	f ey s ix ng
+40	[FAILING]	f ey l ix ng
+40	[FALLING]	f aa l ix ng
+40	[FEARING]	f ih r ix ng
+40	[FEEDING]	f iy dx ix ng
+40	[FEELING]	f iy l ix ng
+40	[FIGHTING]	f ay dx ix ng
+40	[FIGURING]	f ih g y er ix ng
+40	[FILLING]	f ih l ix ng
+40	[FINDING]	f ay n d ix ng
+40	[FINGERING]	f ih ng g er ix ng
+40	[FIXING]	f ih k s ix ng
+40	[FLASHING]	f l ae sh ix ng
+40	[FLINGING]	f l ih ng ix ng
+40	[FLIPPING]	f l ih p ix ng
+40	[FLOATING]	f l ow dx ix ng
+40	[FLOURISHING]	f l er ix sh ix ng
+40	[FLOWING]	f l ow ix ng
+40	[FLYING]	f l ay ix ng
+40	[FOAMING]	f ow m ix ng
+40	[FOLLOWING]	f aa l ow ix ng
+40	[FOOTING]	f uh dx ix ng
+40	[FORBIDDING]	f er b ih dx ix ng
+40	[FORGETTING]	f er g eh dx ix ng
+40	[FORMING]	f ao r m ix ng
+40	[FOUNDING]	f aw n d ix ng
+40	[FRETTING]	f r eh dx ix ng
+40	[GAINING]	g ey n ix ng
+40	[GATHERING]	g ae dh er ix ng
+40	[GENERATING]	jh eh n er ey dx ix ng
+40	[GETTING]	g eh dx ix ng
+40	[GIVING]	g ih v ix ng
+40	[GOING]	g ow ix ng
+40	[GRATIFYING]	g r ae dx ax f ay ix ng
+40	[GREETING]	g r iy dx ix ng
+40	[GROWING]	g r ow ix ng
+40	[GUARDING]	g aa r dx ix ng
+40	[GUESSING]	g eh s ix ng
+40	[GUIDING]	g ay dx ix ng
+40	[HALTING]	hh ao l t ix ng
+40	[HAMMERING]	hh ae m er ix ng
+40	[HANDLING]	hh ae n d l ix ng
+40	[HANGING]	hh ae ng ix ng
+40	[HAPPENING]	hh ae p ax n ix ng
+40	[HAVING]	hh ae v ix ng
+40	[HEADING]	hh eh dx ix ng
+40	[HELPING]	hh eh l p ix ng
+40	[HIDING]	hh ay dx ix ng
+40	[HITTING]	hh ih dx ix ng
+40	[HOARDING]	hh ao r dx ix ng
+40	[HOLDING]	hh ow l d ix ng
+40	[HONORING]	aa n er ix ng
+40	[HOPING]	hh ow p ix ng
+40	[IGNORING]	ix g n ao r ix ng
+40	[IMAGINING]	ix m ae jh ax n ix ng
+40	[IMPLYING]	ix m p l ay ix ng
+40	[IMPROVING]	ix m p r uw v ix ng
+40	[INCLUDING]	ix n k l uw dx ix ng
+40	[INCORPORATING]	ix n k ao r p er ey dx ix ng
+40	[INCREASING]	ix n k r iy s ix ng
+40	[INDICATING]	ih n d ax k ey dx ix ng
+40	[INDULGING]	ix n d ah l jh ix ng
+40	[INJURING]	ih n jh er ix ng
+40	[INQUIRING]	ix n k w ay er ix ng
+40	[INSINUATING]	ix n s ih n y uw ey dx ix ng
+40	[INTEGRATING]	ih n t ax g r ey dx ix ng
+40	[INTERRUPTING]	ih n t er ah p t ix ng
+40	[INTRODUCING]	ih n t r ax d uw s ix ng
+40	[INVESTING]	ix n v eh s t ix ng
+40	[INVITING]	ix n v ay dx ix ng
+40	[JOINING]	jh oy n ix ng
+40	[JUDGING]	jh ah jh ix ng
+40	[JUMPING]	jh ah m p ix ng
+40	[JUTTING]	jh ah dx ix ng
+40	[KEEPING]	k iy p ix ng
+40	[KICKING]	k ih k ix ng
+40	[KIDDING]	k ih dx ix ng
+40	[KILLING]	k ih l ix ng
+40	[KNOCKING]	n aa k ix ng
+40	[KNOWING]	n ow ix ng
+40	[LAGGING]	l ae g ix ng
+40	[LAUGHING]	l ae f ix ng
+40	[LEADING]	l iy dx ix ng
+40	[LEANING]	l iy n ix ng
+40	[LEAPING]	l iy p ix ng
+40	[LEARNING]	l er n ix ng
+40	[LEAVING]	l iy v ix ng
+40	[LESSENING]	l eh s ax n ix ng
+40	[LETTING]	l eh dx ix ng
+40	[LICKING]	l ih k ix ng
+40	[LIFTING]	l ih f t ix ng
+40	[LIGHTENING]	l ay t ax n ix ng
+40	[LIMITING]	l ih m ax dx ix ng
+40	[LISTENING]	l ih s ax n ix ng
+40	[LIVING]	l ih v ix ng
+40	[LOOKING]	l uh k ix ng
+40	[LOSING]	l uw z ix ng
+40	[LYING]	l ay ix ng
+40	[MAINTAINING]	m ey n t ey n ix ng
+40	[MAKING]	m ey k ix ng
+40	[MANAGING]	m ae n ax jh ix ng
+40	[MANNING]	m ae n ix ng
+40	[MARKING]	m aa r k ix ng
+40	[MATCHING]	m ae ch ix ng
+40	[MEANING]	m iy n ix ng
+40	[MEASURING]	m eh zh er ix ng
+40	[MEDDLING]	m eh dx ax l ix ng
+40	[MELTING]	m eh l t ix ng
+40	[MENTIONING]	m eh n sh ax n ix ng
+40	[MILLING]	m ih l ix ng
+40	[MISSING]	m ih s ix ng
+40	[MISUNDERSTANDING]	m ih s ax n d er s t ae n d ix ng
+40	[MIXING]	m ih k s ix ng
+40	[MOCKING]	m aa k ix ng
+40	[MODELING]	m aa dx ax l ix ng
+40	[MODIFYING]	m aa dx ax f ay ix ng
+40	[MORTIFYING]	m ao r dx ix f ay ix ng
+40	[MOVING]	m uw v ix ng
+40	[MURDERING]	m er dx er ix ng
+40	[NEEDING]	n iy dx ix ng
+40	[NEIGHBORING]	n ey b er ix ng
+40	[NETTING]	n eh dx ix ng
+40	[NIBBLING]	n ih b ax l ix ng
+40	[OBSERVING]	ax b z er v ix ng
+40	[OBTAINING]	ax b t ey n ix ng
+40	[OCCUPYING]	aa k y ax p ay ix ng
+40	[OCCURRING]	ax k er ix ng
+40	[OOZING]	uw z ix ng
+40	[OPENING]	ow p ax n ix ng
+40	[OPERATING]	aa p er ey dx ix ng
+40	[OPPOSING]	ax p ow z ix ng
+40	[ORDERING]	ao r dx er ix ng
+40	[ORIGINATING]	er ih jh ax n ey dx ix ng
+40	[OVERFLOWING]	ow v er f l ow ix ng
+40	[OVERLAPPING]	ow v er l ae p ix ng
+40	[OVERLOOKING]	ow v er l uh k ix ng
+40	[OWING]	ow ix ng
+40	[PACKING]	p ae k ix ng
+40	[PARTING]	p aa r dx ix ng
+40	[PASSING]	p ae s ix ng
+40	[PAUSING]	p ao z ix ng
+40	[PAYING]	p ey ix ng
+40	[PENETRATING]	p eh n ax t r ey dx ix ng
+40	[PERFORMING]	p er f ao r m ix ng
+40	[PICKING]	p ih k ix ng
+40	[PICTURING]	p ih k ch er ix ng
+40	[PLANNING]	p l ae n ix ng
+40	[PLANTING]	p l ae n t ix ng
+40	[PLAYING]	p l ey ix ng
+40	[PLEASING]	p l iy z ix ng
+40	[PLUNGING]	p l ah n jh ix ng
+40	[POINTING]	p oy n t ix ng
+40	[POSSESSING]	p ax z eh s ix ng
+40	[POURING]	p ao r ix ng
+40	[PRECEDING]	p r iy s iy dx ix ng
+40	[PREFERRING]	p r ix f er ix ng
+40	[PREPARING]	p r iy p eh r ix ng
+40	[PRESENTING]	p r ix z eh n t ix ng
+40	[PRESSING]	p r eh s ix ng
+40	[PRETENDING]	p r iy t eh n d ix ng
+40	[PREVAILING]	p r ix v ey l ix ng
+40	[PREVENTING]	p r ix v eh n t ix ng
+40	[PROCEEDING]	p r ax s iy dx ix ng
+40	[PRODUCING]	p r ax d uw s ix ng
+40	[PROJECTING]	p r ax jh eh k t ix ng
+40	[PROMPTING]	p r aa m p t ix ng
+40	[PROPELLING]	p r ax p eh l ix ng
+40	[PROPOSING]	p r ax p ow z ix ng
+40	[PROTECTING]	p r ax t eh k t ix ng
+40	[PROVIDING]	p r ax v ay dx ix ng
+40	[PROVING]	p r uw v ix ng
+40	[PROVOKING]	p r ax v ow k ix ng
+40	[PULLING]	p uh l ix ng
+40	[PURCHASING]	p er ch ax s ix ng
+40	[PURSUING]	p er s uw ix ng
+40	[PUSHING]	p uh sh ix ng
+40	[PUTTING]	p ah dx ix ng
+40	[QUADRUPLING]	k w aa d r uw p ax l ix ng
+40	[QUESTIONING]	k w eh s ch ax n ix ng
+40	[QUITTING]	k w ih dx ix ng
+40	[QUOTING]	k w ow dx ix ng
+40	[RAGING]	r ey jh ix ng
+40	[RAISING]	r ey z ix ng
+40	[RATTLING]	r ae t l ix ng
+40	[REACHING]	r iy ch ix ng
+40	[REACTING]	r iy ae k t ix ng
+40	[REAWAKENING]	r iy ax w ey k ax n ix ng
+40	[REBOUNDING]	r iy b aw n d ix ng
+40	[RECEIVING]	r ax s iy v ix ng
+40	[RECOGNIZING]	r eh k ax g n ay z ix ng
+40	[RECOVERING]	r ax k ah v er ix ng
+40	[REDUCING]	r ax d uw s ix ng
+40	[REFRESHING]	r ix f r eh sh ix ng
+40	[REFUSING]	r ax f y uw z ix ng
+40	[REGISTERING]	r eh jh ix s t er ix ng
+40	[REGULATING]	r eh g y ax l ey dx ix ng
+40	[RELATING]	r ix l ey dx ix ng
+40	[RELAXING]	r ix l ae k s ix ng
+40	[RELINQUISHING]	r iy l ih ng k w ix sh ix ng
+40	[REMAINING]	r ix m ey n ix ng
+40	[REMEMBERING]	r ix m eh m b er ix ng
+40	[REMINDING]	r iy m ay n d ix ng
+40	[REMOVING]	r iy m uw v ix ng
+40	[REPLACING]	r ix p l ey s ix ng
+40	[REPRESENTING]	r eh p r ix z eh n t ix ng
+40	[REQUESTING]	r ix k w eh s t ix ng
+40	[REQUIRING]	r iy k w ay er ix ng
+40	[RESEMBLING]	r ix z eh m b ax l ix ng
+40	[RESIDING]	r ix z ay dx ix ng
+40	[RESISTING]	r ix z ih s t ix ng
+40	[RESOLVING]	r iy z aa l v ix ng
+40	[RESPONDING]	r ix s p aa n d ix ng
+40	[RESULTING]	r ix z ah l t ix ng
+40	[RESUMING]	r ix z uw m ix ng
+40	[RETAINING]	r ix t ey n ix ng
+40	[RETURNING]	r ix t er n ix ng
+40	[REVEALING]	r ix v iy l ix ng
+40	[REVERSING]	r ix v er s ix ng
+40	[REVIEWING]	r iy v y uw ix ng
+40	[RIDING]	r ay dx ix ng
+40	[RINGING]	r ih ng ix ng
+40	[RIPPLING]	r ih p ax l ix ng
+40	[RISING]	r ay z ix ng
+40	[ROARING]	r ao r ix ng
+40	[ROBBING]	r aa b ix ng
+40	[ROLLING]	r ow l ix ng
+40	[RUINING]	r uw ix n ix ng
+40	[RUNNING]	r ah n ix ng
+40	[RUSHING]	r ah sh ix ng
+40	[SAVING]	s ey v ix ng
+40	[SAYING]	s ey ix ng
+40	[SCARING]	s k eh r ix ng
+40	[SCRATCHING]	s k r ae ch ix ng
+40	[SCREAMING]	s k r iy m ix ng
+40	[SEARCHING]	s er ch ix ng
+40	[SECURING]	s ix k y uh r ix ng
+40	[SEDUCING]	s ix d uw s ix ng
+40	[SEEING]	s iy ix ng
+40	[SEEKING]	s iy k ix ng
+40	[SEIZING]	s iy z ix ng
+40	[SELLING]	s eh l ix ng
+40	[SENDING]	s eh n d ix ng
+40	[SEPARATING]	s eh p er ey dx ix ng
+40	[SERVING]	s er v ix ng
+40	[SETTING]	s eh dx ix ng
+40	[SETTLING]	s eh dx ax l ix ng
+40	[SHAKING]	sh ey k ix ng
+40	[SHAPING]	sh ey p ix ng
+40	[SHARING]	sh eh r ix ng
+40	[SHARPENING]	sh aa r p ax n ix ng
+40	[SHIFTING]	sh ih f t ix ng
+40	[SHINING]	sh ay n ix ng
+40	[SHOOTING]	sh uw dx ix ng
+40	[SHOULDERING]	sh ow l d er ix ng
+40	[SHOUTING]	sh aw dx ix ng
+40	[SHOWING]	sh ow ix ng
+40	[SHRINKING]	sh r ih ng k ix ng
+40	[SHUTTING]	sh ah dx ix ng
+40	[SINGING]	s ih ng ix ng
+40	[SINKING]	s ih ng k ix ng
+40	[SITTING]	s ih dx ix ng
+40	[SKETCHING]	s k eh ch ix ng
+40	[SLEEPING]	s l iy p ix ng
+40	[SLIDING]	s l ay dx ix ng
+40	[SLIPPING]	s l ih p ix ng
+40	[SMELLING]	s m eh l ix ng
+40	[SMILING]	s m ay l ix ng
+40	[SOLVING]	s aa l v ix ng
+40	[SOUNDING]	s aw n d ix ng
+40	[SPEAKING]	s p iy k ix ng
+40	[SPORTING]	s p ao r dx ix ng
+40	[SPREADING]	s p r eh dx ix ng
+40	[SPRINGING]	s p r ih ng ix ng
+40	[SQUEEZING]	s k w iy z ix ng
+40	[STALKING]	s t ao k ix ng
+40	[STANDING]	s t ae n d ix ng
+40	[STARTING]	s t aa r dx ix ng
+40	[STARVING]	s t aa r v ix ng
+40	[STAYING]	s t ey ix ng
+40	[STEALING]	s t iy l ix ng
+40	[STEAMING]	s t iy m ix ng
+40	[STEPPING]	s t eh p ix ng
+40	[STICKING]	s t ih k ix ng
+40	[STIFLING]	s t ay f l ix ng
+40	[STIRRING]	s t er ix ng
+40	[STOCKING]	s t aa k ix ng
+40	[STOPPING]	s t aa p ix ng
+40	[STREAMING]	s t r iy m ix ng
+40	[STRENGTHENING]	s t r eh ng th ax n ix ng
+40	[STRETCHING]	s t r eh ch ix ng
+40	[STRIVING]	s t r ay v ix ng
+40	[STRUGGLING]	s t r ah g ax l ix ng
+40	[STUDYING]	s t ah dx iy ix ng
+40	[STULTIFYING]	s t ah l t ax f ay ix ng
+40	[STUMBLING]	s t ah m b ax l ix ng
+40	[SUCCEEDING]	s ax k s iy dx ix ng
+40	[SUFFERING]	s ah f er ix ng
+40	[SUGGESTING]	s ax g jh eh s t ix ng
+40	[SUPPLYING]	s ax p l ay ix ng
+40	[SUPPORTING]	s ax p ao r dx ix ng
+40	[SURRENDERING]	s er eh n d er ix ng
+40	[SURROUNDING]	s er aw n d ix ng
+40	[SURVIVING]	s er v ay v ix ng
+40	[SUSPECTING]	s ax s p eh k t ix ng
+40	[SWALLOWING]	s w aa l ow ix ng
+40	[SWAPPING]	s w aa p ix ng
+40	[SWAYING]	s w ey ix ng
+40	[SWELLING]	s w eh l ix ng
+40	[SWINGING]	s w ih ng ix ng
+40	[SWITCHING]	s w ih ch ix ng
+40	[TAKING]	t ey k ix ng
+40	[TALKING]	t ao k ix ng
+40	[TAPERING]	t ey p er ix ng
+40	[TAPPING]	t ae p ix ng
+40	[TEARING]	t eh r ix ng
+40	[TELLING]	t eh l ix ng
+40	[TERMINATING]	t er m ax n ey dx ix ng
+40	[THINKING]	th ih ng k ix ng
+40	[THREATENING]	th r eh t ax n ix ng
+40	[THROWING]	th r ow ix ng
+40	[THRUSTING]	th r ah s t ix ng
+40	[THUMBING]	th ah m ix ng
+40	[TOSSING]	t ao s ix ng
+40	[TOUCHING]	t ah ch ix ng
+40	[TOURING]	t uh r ix ng
+40	[TOYING]	t oy ix ng
+40	[TRACING]	t r ey s ix ng
+40	[TRACKING]	t r ae k ix ng
+40	[TRAILING]	t r ey l ix ng
+40	[TRAVELING]	t r ae v ax l ix ng
+40	[TREATING]	t r iy dx ix ng
+40	[TRIMMING]	t r ih m ix ng
+40	[TRYING]	t r ay ix ng
+40	[TUMBLING]	t ah m b ax l ix ng
+40	[TURNING]	t er n ix ng
+40	[UNDERGOING]	ah n d er g ow ix ng
+40	[UNDERLYING]	ah n d er l ay ix ng
+40	[UNDERTAKING]	ah n d er t ey k ix ng
+40	[URGING]	er jh ix ng
+40	[USING]	y uw z ix ng
+40	[UTTERING]	ah dx er ix ng
+40	[VANISHING]	v ae n ix sh ix ng
+40	[VARYING]	v eh r iy ix ng
+40	[VIEWING]	v y uw ix ng
+40	[VIOLATING]	v ay ax l ey dx ix ng
+40	[VISUALIZING]	v ih zh w ax l ay z ix ng
+40	[WAILING]	w ey l ix ng
+40	[WAITING]	w ey dx ix ng
+40	[WAKING]	w ey k ix ng
+40	[WALKING]	w ao k ix ng
+40	[WANDERING]	w aa n d er ix ng
+40	[WANTING]	w aa n t ix ng
+40	[WARNING]	w ao r n ix ng
+40	[WASHING]	w aa sh ix ng
+40	[WASTING]	w ey s t ix ng
+40	[WATCHING]	w aa ch ix ng
+40	[WAVERING]	w ey v er ix ng
+40	[WAVING]	w ey v ix ng
+40	[WEARING]	w eh r ix ng
+40	[WEAVING]	w iy v ix ng
+40	[WEEPING]	w iy p ix ng
+40	[WELCOMING]	w eh l k ax m ix ng
+40	[WHISPERING]	w ih s p er ix ng
+40	[WHISTLING]	w ih s l ix ng
+40	[WIELDING]	w iy l d ix ng
+40	[WINKING]	w ih ng k ix ng
+40	[WINNING]	w ih n ix ng
+40	[WIPING]	w ay p ix ng
+40	[WISHING]	w ih sh ix ng
+40	[WONDERING]	w ah n d er ix ng
+40	[WORKING]	w er k ix ng
+40	[WRAPPING]	r ae p ix ng
+40	[WRIGGLING]	r ih g ax l ix ng
+40	[WRITING]	r ay dx ix ng
+40	[YIELDING]	y iy l d ix ng
