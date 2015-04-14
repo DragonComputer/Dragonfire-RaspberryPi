@@ -129,6 +129,42 @@ def command(speech_object):
 				k.tap_key(k.tab_key)
 				k.tap_key(k.tab_key)
 				k.tap_key('f')
+                        elif (com == "LEFT"):
+                                tts_kill()
+				userin = Data([" "]," ")
+				os.system("xbmc-send --action=\"Left\"")
+                                userin.say("Left")
+                                previous_command = com
+                        elif (com == "RIGHT"):
+                                tts_kill()
+                                userin = Data([" "]," ")
+                                os.system("xbmc-send --action=\"Right\"")
+                                userin.say("Right")
+                                previous_command = com
+                        elif (com == "UP"):
+                                tts_kill()
+                                userin = Data([" "]," ")
+                                os.system("xbmc-send --action=\"Up\"")
+                                userin.say("Up")
+                                previous_command = com
+                        elif (com == "DOWN"):
+                                tts_kill()
+                                userin = Data([" "]," ")
+                                os.system("xbmc-send --action=\"Down\"")
+                                userin.say("Down")
+                                previous_command = com
+                        elif (com == "SELECT"):
+                                tts_kill()
+                                userin = Data([" "]," ")
+                                os.system("xbmc-send --action=\"Select\"")
+                                userin.say("Select")
+                                previous_command = com
+                        elif (com == "BACK"):
+                                tts_kill()
+                                userin = Data([" "]," ")
+                                os.system("xbmc-send --action=\"back\"")
+                                userin.say("Back")
+                                previous_command = com
 			else:
 				tts_kill()
                                 userin = Data(["echo"],com + " ?")
@@ -159,6 +195,7 @@ def dragon_greet():
 
 if __name__ == '__main__':
 	try:
+		os.system("./run_kodi.sh")
 		dragon_greet()
 		command(sys.stdin)
 	except KeyboardInterrupt:

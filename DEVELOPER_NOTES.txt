@@ -14,6 +14,9 @@ sudo pip install wikipedia
 sudo pip install PyUserInput
 sudo apt-get install  python-xlib
 
+sudo apt-get install kodi
+sudo apt-get install xbmc-eventclients-xbmc-send
+
 mkdfa sample (for compile .grammer and .voca files , it will generate .dict and .dfa files)
 
 padsp julius -input mic -C julian.jconf | ./getcommand.py

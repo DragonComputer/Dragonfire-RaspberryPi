@@ -170,6 +170,14 @@ THESE dh iy z
 THIS dh ih s
 THOSE dh ow z
 
+%XBMC_COMMANDS
+LEFT	l eh f t
+RIGHT	r ay t
+UP	ah p
+DOWN	d aw n
+SELECT	s ax l eh k t
+BACK	b ae k
+
 % NN
 GENDER	jh eh n d er
 ABILITY ax b ih l ax dx iy
