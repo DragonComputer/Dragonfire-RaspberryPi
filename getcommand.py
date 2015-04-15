@@ -256,6 +256,8 @@ def dragon_greet():
 if __name__ == '__main__':
 	try:
 		os.system("./run_kodi.sh")
+		os.system("./camera_stream.sh")
+		os.system("sleep 2 && xbmc-send --action=\"PlayMedia(http://localhost:8082/stream.flv)\"")
 		dragon_greet()
 		command(sys.stdin)
 	except KeyboardInterrupt:

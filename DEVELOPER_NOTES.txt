@@ -20,6 +20,9 @@ sudo apt-get install xbmc-eventclients-xbmc-send
 #14.2 Git:7cc53a9 Media Center Kodi
 #Copyright (C) 2005-2013 Team Kodi - http://kodi.tv
 
+#Camera Stream:
+sudo apt-get install vlc-nox
+
 mkdfa sample (for compile .grammer and .voca files , it will generate .dict and .dfa files)
 
 padsp julius -input mic -C julian.jconf | ./getcommand.py
