@@ -116,19 +116,24 @@ def command(speech_object):
 					if child.tag == "{http://www.w3.org/2005/Atom}link":
 						youtube_url = child.attrib["href"]
 						break				
-
-				userin = Data(["sensible-browser",youtube_url],youtube_title)
+				
+				youtube_id = youtube_url.replace("http://www.youtube.com/watch?v=","").replace("&feature=youtube_gdata","")
+				print youtube_id
+				os.system("xbmc-send --action=\"ActivateWindow(Videos,plugin://plugin.video.youtube/kodion/search/query/?q=" + com[20:].lower().replace(" ", "%20") + ")\"")
+				#userin = Data(["sensible-browser",youtube_url],youtube_title)
+				userin = Data([" "]," ")
 				youtube_title = "".join([i if ord(i) < 128 else ' ' for i in youtube_title])
-				k = PyKeyboard()
-				k.tap_key('space')
+				#k = PyKeyboard()
+				#k.tap_key('space')
+				time.sleep(5)
+				os.system("xbmc-send --action=\"PlayMedia(plugin://plugin.video.youtube/play/?video_id=" + youtube_id + ")\"")
 				userin.say(youtube_title)
-				userin.interact(0)
-				time.sleep(3)
-				k.tap_key(k.tab_key)
-				k.tap_key(k.tab_key)
-				k.tap_key(k.tab_key)
-				k.tap_key(k.tab_key)
-				k.tap_key('f')
+				#userin.interact(0)
+				#k.tap_key(k.tab_key)
+				#k.tap_key(k.tab_key)
+				#k.tap_key(k.tab_key)
+				#k.tap_key(k.tab_key)
+				#k.tap_key('f')
                         elif (com == "LEFT"):
                                 tts_kill()
 				userin = Data([" "]," ")
