@@ -1,6 +1,7 @@
 #!/usr/bin/python
 import subprocess
 import time
+import os
 
 songRunning = False
 class Data:
@@ -9,7 +10,8 @@ class Data:
 		self.message = msg
 		self.speak = sp
 	def interact(self,duration):
-		subprocess.Popen(["notify-send","Dragonfire", self.message])
+		#subprocess.Popen(["notify-send","Dragonfire", self.message])
+		os.system("xbmc-send --action=\"Notification(\"Dragonfire\"," + self.message + ")\"")
 		if self.command != "":
 			time.sleep(duration)
 			subprocess.Popen(self.command,stdout=subprocess.PIPE)

@@ -16,6 +16,9 @@ sudo apt-get install  python-xlib
 
 sudo apt-get install kodi
 sudo apt-get install xbmc-eventclients-xbmc-send
+#kodi --version
+#14.2 Git:7cc53a9 Media Center Kodi
+#Copyright (C) 2005-2013 Team Kodi - http://kodi.tv
 
 mkdfa sample (for compile .grammer and .voca files , it will generate .dict and .dfa files)
 
