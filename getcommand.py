@@ -257,7 +257,8 @@ if __name__ == '__main__':
 	try:
 		os.system("./run_kodi.sh")
 		os.system("./camera_stream.sh")
-		os.system("sleep 2 && xbmc-send --action=\"PlayMedia(http://localhost:8082/stream.flv)\"")
+		#p = subprocess.Popen(['./camera_stream.sh'], stdout=subprocess.PIPE, stderr=subprocess.STDOUT)
+		os.system("sleep 4 && xbmc-send --action=\"PlayMedia(/tmp/test.mpg)\" && sleep 2 && xbmc-send --action=\"SkipForward\"")
 		dragon_greet()
 		command(sys.stdin)
 	except KeyboardInterrupt:
