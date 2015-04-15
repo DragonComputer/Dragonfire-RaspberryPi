@@ -89,11 +89,14 @@ def command(speech_object):
 				userin.say("Web Browser")
 				userin.interact(0)
 				previous_command = com
-			elif (com == "SHUT DOWN THE COMPUTER"):
+			elif (com == "SHUT DOWN THE COMPUTER" or com == "SHUT DOWN THE HELMET"):
 				tts_kill()
-                                userin = Data(["sudo","poweroff"],"Shutting down")
+                                #userin = Data(["sudo","poweroff"],"Shutting down")
+				userin = Data([" "]," ")
                                 userin.say("Shutting down")
-				userin.interact(3)
+				time.sleep(3)
+				os.system("xbmc-send --action=\"Powerdown\"")
+				#userin.interact(3)
                                 previous_command = com
 			elif (com.startswith("WIKI PEDIA SEARCH FOR")):
 				tts_kill()
