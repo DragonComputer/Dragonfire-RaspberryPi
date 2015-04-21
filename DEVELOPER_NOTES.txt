@@ -23,6 +23,13 @@ sudo apt-get install xbmc-eventclients-xbmc-send
 #Camera Stream:
 sudo apt-get install vlc-nox
 
-mkdfa sample (for compile .grammer and .voca files , it will generate .dict and .dfa files)
+#Rendering a webpage and converting(First pdf second jpg):
+sudo apt-get install wkhtmltopdf
+sudo apt-get install imagemagick
+
+#For compiling .grammer and .voca files , it will generate .dict and .dfa files:
+mkdfa sample
 
 padsp julius -input mic -C julian.jconf | ./getcommand.py
+
+#April 21, 2015: I realised YouTube API v2 was deprecated.

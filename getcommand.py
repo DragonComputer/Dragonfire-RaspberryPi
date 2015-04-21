@@ -43,6 +43,9 @@ def command(speech_object):
 				userin.say(words_dragonfire[randint(0,2)])
 			elif (com == "ENOUGH" or com == "OKAY"):
 				tts_kill()
+			elif (com == "STOP"):
+                                tts_kill()
+				os.system("xbmc-send --action=\"Stop\"")
 			elif (com == "WHO AM I" or com == "WHAT IS MY NAME"):
                                 tts_kill()
 				user_full_name = os.popen("getent passwd $LOGNAME | cut -d: -f5 | cut -d, -f1").read()
@@ -100,8 +103,14 @@ def command(speech_object):
                                 previous_command = com
 			elif (com.startswith("WIKI PEDIA SEARCH FOR")):
 				tts_kill()
-				userin = Data(["sensible-browser","http://en.wikipedia.org/wiki/"+com[22:].lower()],com[22:])
-				userin.interact(0)
+				#userin = Data(["sensible-browser","http://en.wikipedia.org/wiki/"+com[22:].lower()],com[22:])
+				#userin.interact(0)
+				print "wkhtmltopdf http://en.wikipedia.org/wiki/"+com[22:].lower().replace(" ", "%20")+" /tmp/dragonfire/"+com[22:].lower().replace(" ", "%20")+".pdf"
+				os.system("wkhtmltopdf http://en.wikipedia.org/wiki/"+com[22:].lower().replace(" ", "%20")+" /tmp/dragonfire/"+com[22:].lower().replace(" ", "%20")+".pdf")
+				#os.system("convert -density 300 oxford.pdf[0] oxford.jpg")
+				os.system("convert -density 300 /tmp/dragonfire/"+com[22:].lower().replace(" ", "%20")+".pdf[0] /tmp/dragonfire/"+com[22:].lower().replace(" ", "%20")+".jpg")
+				os.system("xbmc-send --action=\"ShowPicture(/tmp/dragonfire/"+com[22:].lower().replace(" ", "%20")+".jpg)\"")
+				os.system("sleep 2 && xbmc-send --action=\"ZoomLevel3\"")
 				try:
 					wikipage = wikipedia.page(com[22:].lower())
 					wikicontent = "".join([i if ord(i) < 128 else ' ' for i in wikipage.content])
@@ -111,9 +120,9 @@ def command(speech_object):
 					pass
 			elif (com.startswith("YOU TUBE SEARCH FOR")):
 				tts_kill()
-				root = ET.fromstring(urllib2.urlopen("http://gdata.youtube.com/feeds/api/videos?vq=" + com[20:].lower().replace(" ", "%20") + "&racy=include&orderby=relevance&start-index=1&max-results=1").read())
+				root = ET.fromstring(urllib2.urlopen("http://gdata.youtube.com/feeds/api/videos?vq=" + com[20:].lower().replace(" ", "%20") + "&racy=include&orderby=relevance&start-index=1&max-results=2").read())
 				
-				for child in root[15]:
+				for child in root[16]:
 					if child.tag == "{http://www.w3.org/2005/Atom}title":
 						youtube_title = child.text
 					if child.tag == "{http://www.w3.org/2005/Atom}link":
@@ -138,25 +147,21 @@ def command(speech_object):
 				#k.tap_key(k.tab_key)
 				#k.tap_key('f')
                         elif (com == "LEFT"):
-                                tts_kill()
 				userin = Data([" "]," ")
 				os.system("xbmc-send --action=\"Left\"")
                                 #userin.say("Left")
                                 previous_command = com
                         elif (com == "RIGHT"):
-                                tts_kill()
                                 userin = Data([" "]," ")
                                 os.system("xbmc-send --action=\"Right\"")
                                 #userin.say("Right")
                                 previous_command = com
                         elif (com == "UP"):
-                                tts_kill()
                                 userin = Data([" "]," ")
                                 os.system("xbmc-send --action=\"Up\"")
                                 #userin.say("Up")
                                 previous_command = com
                         elif (com == "DOWN"):
-                                tts_kill()
                                 userin = Data([" "]," ")
                                 os.system("xbmc-send --action=\"Down\"")
                                 #userin.say("Down")
@@ -244,22 +249,30 @@ def dragon_greet():
         user_prefix = Config.get("BasicUserData","Prefix")
 	
 	if time < datetime.time(12):
-		userin = Data([" "]," ")
+		userin = Data([" "],"Good morning " + user_prefix)
 		userin.say("Good morning " + user_prefix)
 	elif datetime.time(12) < time  and time < datetime.time(18):
-                userin = Data([" "]," ")
+                userin = Data([" "],"Good afternoon " + user_prefix)
                 userin.say("Good afternoon " + user_prefix)
 	else:
-                userin = Data([" "]," ")
+                userin = Data([" "],"Good evening " + user_prefix)
                 userin.say("Good evening " + user_prefix)
 
 if __name__ == '__main__':
 	try:
 		os.system("./run_kodi.sh")
-		os.system("./camera_stream.sh")
+		#os.system("./camera_stream.sh")
 		#p = subprocess.Popen(['./camera_stream.sh'], stdout=subprocess.PIPE, stderr=subprocess.STDOUT)
-		os.system("sleep 4 && xbmc-send --action=\"PlayMedia(/tmp/test.mpg)\" && sleep 2 && xbmc-send --action=\"SkipForward\"")
+		#os.system("sleep 4 && xbmc-send --action=\"PlayMedia(/tmp/test.mpg)\" && sleep 2 && xbmc-send --action=\"SkipForward\"")
 		dragon_greet()
+		
+		try: 
+    			os.makedirs("/tmp/dragonfire")
+		except OSError:
+			if not os.path.isdir("/tmp/dragonfire"):
+        			raise
 		command(sys.stdin)
+
+
 	except KeyboardInterrupt:
 		sys.exit(1)
