@@ -7,12 +7,12 @@ from api import Data
 from subprocess import call
 import time
 import subprocess
-import urllib2
+import urllib.request, urllib.error, urllib.parse
 import wikipedia
 from random import randint
 import getpass
 import os
-import ConfigParser
+import configparser
 import xml.etree.ElementTree as ET
 from pykeyboard import PyKeyboard
 import datetime
@@ -26,9 +26,9 @@ def command(speech_object):
 			com = line[15:-6]
 			#if (previous_command == com):
 			#	continue
-			print com
+			print(com)
 
-                	Config = ConfigParser.ConfigParser()
+                	Config = configparser.ConfigParser()
                 	Config.read("config.ini")
                 	user_prefix = Config.get("BasicUserData","Prefix")
 
@@ -105,7 +105,7 @@ def command(speech_object):
 				tts_kill()
 				#userin = Data(["sensible-browser","http://en.wikipedia.org/wiki/"+com[22:].lower()],com[22:])
 				#userin.interact(0)
-				print "wkhtmltopdf http://en.wikipedia.org/wiki/"+com[22:].lower().replace(" ", "%20")+" /tmp/dragonfire/"+com[22:].lower().replace(" ", "%20")+".pdf"
+				print("wkhtmltopdf http://en.wikipedia.org/wiki/"+com[22:].lower().replace(" ", "%20")+" /tmp/dragonfire/"+com[22:].lower().replace(" ", "%20")+".pdf")
 				os.system("wkhtmltopdf http://en.wikipedia.org/wiki/"+com[22:].lower().replace(" ", "%20")+" /tmp/dragonfire/"+com[22:].lower().replace(" ", "%20")+".pdf")
 				#os.system("convert -density 300 oxford.pdf[0] oxford.jpg")
 				os.system("convert -density 300 /tmp/dragonfire/"+com[22:].lower().replace(" ", "%20")+".pdf[0] /tmp/dragonfire/"+com[22:].lower().replace(" ", "%20")+".jpg")
@@ -120,7 +120,7 @@ def command(speech_object):
 					pass
 			elif (com.startswith("YOU TUBE SEARCH FOR")):
 				tts_kill()
-				root = ET.fromstring(urllib2.urlopen("http://gdata.youtube.com/feeds/api/videos?vq=" + com[20:].lower().replace(" ", "%20") + "&racy=include&orderby=relevance&start-index=1&max-results=2").read())
+				root = ET.fromstring(urllib.request.urlopen("http://gdata.youtube.com/feeds/api/videos?vq=" + com[20:].lower().replace(" ", "%20") + "&racy=include&orderby=relevance&start-index=1&max-results=2").read())
 				
 				for child in root[16]:
 					if child.tag == "{http://www.w3.org/2005/Atom}title":
@@ -130,7 +130,7 @@ def command(speech_object):
 						break				
 				
 				youtube_id = youtube_url.replace("http://www.youtube.com/watch?v=","").replace("&feature=youtube_gdata","")
-				print youtube_id
+				print(youtube_id)
 				os.system("xbmc-send --action=\"ActivateWindow(Videos,plugin://plugin.video.youtube/kodion/search/query/?q=" + com[20:].lower().replace(" ", "%20") + ")\"")
 				#userin = Data(["sensible-browser",youtube_url],youtube_title)
 				userin = Data(["echo"],youtube_title)
@@ -244,7 +244,7 @@ def tts_kill():
 def dragon_greet():
 	time = datetime.datetime.now().time()
 
-	Config = ConfigParser.ConfigParser()
+	Config = configparser.ConfigParser()
         Config.read("config.ini")
         user_prefix = Config.get("BasicUserData","Prefix")
 	
